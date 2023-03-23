@@ -133,7 +133,7 @@
 "ext":"./XBPQ/城市电影.json"},
 
 {"key":"csp_XBPQ电影先生","name":"💡电影先生[xBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./XBPQ/dyxs.json"},
+"ext":"./XBPQ/tvxs.json"},
 
 {"key":"csp_XBPQ兰花影院","name":"💡兰花影院[xBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/兰花影院.json"},
