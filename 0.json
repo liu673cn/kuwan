@@ -135,9 +135,6 @@
 {"key":"csp_XBPQ电影先生","name":"💡电影先生[xBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/tvxs.json"},
 
-{"key":"csp_XBPQ凌云影视","name":"💡凌云影视[xBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./XBPQ/凌云影视.json"},
-
 {"key":"csp_XBPQ兰花影院","name":"💡兰花影院[xBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/兰花影院.json"},
 
