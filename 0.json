@@ -49,8 +49,8 @@
     "key": "drpy_js_优酷",
     "name": "优酷┃官源",
     "type": 3,
-    "api": "./js/drpy2.min.js",
-    "ext": "./js/优酷.js"
+    "api": "https://jihulab.com/xiaohutx/box/-/raw/main/js/drpy2.min.js",
+    "ext": "https://jihulab.com/xiaohutx/box/-/raw/main/js/%E4%BC%98%E9%85%B7.js"
   },
 
 //采集
