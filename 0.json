@@ -36,12 +36,12 @@
 "sites":[
 
 //官源
+{"key":"csp_IQIYI","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,
+"jar":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/0316.jar"},
+
 {"key":"csp_SP360","name":"🔍360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"switchable":0},
 
 {"key":"csp_QQ","name":"🐧腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_IQIYI","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,
-"jar":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/0316.jar"},
 
 {"key":"csp_MGTV","name":"🥭芒果TV","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 
