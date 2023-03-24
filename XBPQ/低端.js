@@ -1,6 +1,6 @@
 {
 "作者":"1",
-"站名":"低端",
+"站名":"低端影视",
 "主页url":"http://www.jinyanw.com",
 "数组":"<div class=\"myui-vodlist__box\">&&</div>",
 "图片":"data-original=\"&&\"",
