@@ -154,6 +154,9 @@
 {"key":"csp_XBPQ兰花影院","name":"🌳兰花影院[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/兰花影院.json"},
 
+{"key": "csp_xBPQ_子子影视","name":"🌳‍子子影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XBPQ/zzys.json"},
+
 //XYQHiker
 
 {"key":"csp_XYQHiker_野荷塘影院","name":"🌴野荷塘影院[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/野荷塘影院.json"},
