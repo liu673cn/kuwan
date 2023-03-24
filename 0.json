@@ -105,6 +105,8 @@
 
 {"key":"Lezhu_spider","name":"🐖乐猪","api":"csp_Lezhu","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1},
 
+{"key":"Tutu_spider","name":"图图影视","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"SRK#e%4UYtU#KiEo*vsPqpr0cC4bxAQWqiaojio6sYmm*x5hn#rcCt"},
+
 //阿里
 {"key":"tcafe","name":"🔋小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,
 "changeable":0,"ext":"./jar/token.txt","jar":"./jar/fongmi.jar;md5;1ca9fdc9e2698559f42704622465c286"},
