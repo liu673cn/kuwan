@@ -49,8 +49,8 @@
     "key": "drpy_js_优酷",
     "name": "优酷┃官源",
     "type": 3,
-    "api": "https://agit.ai/lengniuge/js/raw/branch/master/drpy2.min.js",
-    "ext": "https://agit.ai/lengniuge/js/raw/branch/master/优酷.js"
+    "api": "./js/drpy2.min.js",
+    "ext": "./js/优酷.js"
   },
 
 //采集
