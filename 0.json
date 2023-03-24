@@ -138,8 +138,8 @@
 {"key":"csp_XBPQ007","name":"🌳007影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/007.json"},
 
-{"key":"XBPQ_低端","name":"🆚影视┃低调","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./XBPQ/ddys.js"},
+{"key":"XBPQ_低端","name":"🌳低端影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XBPQ/低端.js"},
 
 {"key":"csp_XBPQ城市电影","name":"🌳城市电影[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/城市电影.json"},
