@@ -136,9 +136,6 @@
 {"key":"csp_XBPQ007","name":"🌳007影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/007.json"},
 
-{"key": "csp_XBPQ剧白白","name":"🌳剧白白[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./XBPQ/剧白白.json"},
-
 {"key":"csp_XBPQ城市电影","name":"🌳城市电影[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/城市电影.json"},
 
