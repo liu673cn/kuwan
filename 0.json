@@ -36,14 +36,15 @@
 "sites":[
 
 //官源
-{"key":"csp_IQIYI","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,
-"jar":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/0316.jar"},
+{"key":"csp_QQ","name":"🐧腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_SP360","name":"🔍360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"switchable":0},
 
-{"key":"csp_QQ","name":"🐧腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"csp_MGTV","name":"🥭芒果TV","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_IQIYI","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,
+"jar":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/0316.jar"},
+
 
 
 //采集
@@ -149,8 +150,7 @@
 
 //XYQHiker
 
-{"key":"csp_XYQHiker_野荷塘影院","name":"🌴野荷塘影院[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":
-"./XYQHiker/野荷塘影院.json"},
+{"key":"csp_XYQHiker_野荷塘影院","name":"🌴野荷塘影院[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/野荷塘影院.json"},
 
 
 //
@@ -169,7 +169,6 @@
 {"name": "bozrc","type": 0,"url": "https://jx.bozrc.com:4433/player/?url=",
 "ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu","bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"icu","type":1,"url":"https://api.json.icu/api/?key=9a820717fcc751d583a6bb36a15a5b6a&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
-{"name":"稀饭","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2351&my=abefklvwxABDINTY79&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 {"name": "爱酷","type": 0,"url": "https://jx.zhanlangbu.com/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"无名","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
