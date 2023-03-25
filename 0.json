@@ -105,7 +105,7 @@
 {"key":"xp_rr","name":"👨‍👧人人","type":3,"api":"csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "./json/rrys.json"},
 
-
+{"key":"drpy_js_蚂蚁","name":"蚂蚁影视","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/%E8%9A%82%E8%9A%81.js"},
 //阿里
 {"key":"tcafe","name":"🔋小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,
 "changeable":0,"ext":"./jar/token.txt","jar":"./jar/fongmi.jar;md5;1ca9fdc9e2698559f42704622465c286"},
