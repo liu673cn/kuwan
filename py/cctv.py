@@ -9,7 +9,7 @@ import base64
 
 class Spider(Spider):  # 元类 默认的元类 type
 	def getName(self):
-		return "央视大全"
+		return "央视合集"
 	def init(self,extend=""):
 		print("============{0}============".format(extend))
 		pass
