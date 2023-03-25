@@ -61,7 +61,7 @@
 
 //精选
 {"key":"百影视频","name":"🌑百影","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,
-"filterable":0,"ext":"http://47.104.99.175"},
+"filterable":0},
 
 {"key":"csp_棉花影视","name":"🌾棉花","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,
 "filterable":0,"ext":"http://118.190.144.126"},
