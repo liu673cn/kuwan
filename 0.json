@@ -61,7 +61,7 @@
 
 //精选
 
-{"key":"csp_Auete","name":"奥特","type": 3,"api":"csp_Auete","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Auete","name":"🦹‍♂️奥特","type": 3,"api":"csp_Auete","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"mayiys_spider","name":"🐜蚂蚁","api":"csp_Mayiys","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 
@@ -78,11 +78,7 @@
 
 {"key":"csp_AppMr","name":"🥪明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Kunyu77","name":"7️⃣七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"csp_Kuaikan","name":"👁快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_LiteApple","name":"🍏小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://www.fantuanhd.com"},
@@ -101,13 +97,15 @@
 {"key":"BuLei","name":"⚡布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,
 "ext": "https://v.bulei.cc"},
 
+{"key":"csp_LiteApple","name":"🍏小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"Lezhu_spider","name":"🐖乐猪","api":"csp_Lezhu","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1},
 
 {"key":"csp_AppTT","name":"🐰图图","type":3,"api":"csp_AppTT","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 
 {"key":"sliu_spider","name":"🛢石榴","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1},
 
-{"key":"棉花影视","name":"棉花","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126"},
+{"key":"棉花影视","name":"💮棉花","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126"},
 
 //阿里
 {"key":"tcafe","name":"🔋小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,
