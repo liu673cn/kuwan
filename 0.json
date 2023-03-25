@@ -48,6 +48,7 @@
 {"key":"csp_IQIYI","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,
 "jar":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/0316.jar"},
 
+{"key": "py_cctv","name": "🔥CCTV","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py_cctv.py"},
 
 
 //采集
