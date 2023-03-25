@@ -47,6 +47,9 @@
  
 {"key":"drpy_js_百忙无果","name":"🥭芒果TV","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"},
 
+{"key":"drpy_js_菜狗","name":"🐶搜狗视频","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/菜狗.js"},
+
+
 {"key": "py_cctv","name": "📺CCTV","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/cctv.py"},
 
 
@@ -99,6 +102,10 @@
 {"key":"csp_xpath工人","name":"‍👷工人","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./json/grys.json"},
 
+{"key":"xp_rr","name":"👨‍👧人人","type":3,"api":"csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,
+"ext": "./json/rrys.json"},
+
+
 //阿里
 {"key":"tcafe","name":"🔋小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,
 "changeable":0,"ext":"./jar/token.txt","jar":"./jar/fongmi.jar;md5;1ca9fdc9e2698559f42704622465c286"},
@@ -140,6 +147,8 @@
 {"key":"csp_XBPQ兰花影院","name":"🌳兰花影院[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/兰花影院.json"},
 
+{"key":"PQ_98","name":"🌳98[XBPQ]","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"./XBPQ/98.json"},
 
 //XYQHiker
 
