@@ -53,6 +53,7 @@
 //精选
 
 {"key":"csp_Auete","name":"🦹‍♂️奥特","type": 3,"api":"csp_Auete","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
+    { "key": "csp_77","name": "👒七七┃SP","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},   
 
 {"key":"YQK_spider","name":"📰一起看","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,
 "searchable":1, "m3u8ads": "hd.youyhn.com","ext":"https://api-tx.11ty.top"},
