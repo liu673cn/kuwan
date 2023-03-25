@@ -9,7 +9,7 @@ import base64
 
 class Spider(Spider):  # 元类 默认的元类 type
 	def getName(self):
-		return "央视合集"
+		return "央视大全"
 	def init(self,extend=""):
 		print("============{0}============".format(extend))
 		pass
@@ -20,7 +20,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 	def homeContent(self,filter):
 		result = {}
 		cateManual = {
-			"央视全集": "CCTV"
+			"央视大全": "CCTV"
 		}
 		classes = []
 		for k in cateManual:
