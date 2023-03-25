@@ -39,6 +39,8 @@
 //官源
 {"key":"csp_QQ","name":"🐧腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"drpy_js_奇珍异兽","name":"爱奇艺","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇珍异兽.js"},
+
 {"key":"csp_SP360","name":"🔍360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"switchable":0},
 
 {"key":"drpy_js_优酷","name":"🆒优酷视频","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
