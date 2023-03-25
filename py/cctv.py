@@ -20,7 +20,7 @@ class Spider(Spider):  # 元类 默认的元类 type
 	def homeContent(self,filter):
 		result = {}
 		cateManual = {
-			"央视大全": "CCTV"
+			"央视全集": "CCTV"
 		}
 		classes = []
 		for k in cateManual:
