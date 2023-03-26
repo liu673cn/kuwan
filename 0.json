@@ -129,7 +129,7 @@
 
 
 //XBPQ
-{"key":"csp_XBPQ555","name":"🌳555[xBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"csp_XBPQ555","name":"🌳555[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/555.json"},
 
 {"key":"csp_XBPQ007","name":"🌳007影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
