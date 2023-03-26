@@ -49,7 +49,6 @@
 
 {"key":"drpy_js_菜狗","name":"🐶搜狗视频","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/菜狗.js"},
 
-
 {"key": "py_cctv","name": "📺CCTV","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/cctv.py"},
 
 
@@ -102,6 +101,12 @@
 
 {"key":"xp_rr","name":"👨‍👧人人","type":3,"api":"csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "./json/rrys.json"},
+
+
+//
+
+{"key":"优质资源","name":"🥇优质资源","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1 ,"categories": ["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
+
 
 
 //阿里
