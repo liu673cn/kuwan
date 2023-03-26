@@ -194,6 +194,8 @@
 {"name":"剖云","type":0,"url":"https://www.pouyun.com/?url=","ext":{"flag":["sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 {"name":"Mao","type":0,"url":"https://www.mtosz.com/erzi.php?url=","ext":{"flag":["youku","YouKu","优酷","sohu","SoHu","搜狐","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 {"name":"诺讯","type":0,"url":"https://www.nxflv.com/?url="},
+{"name":"云星","type":0,"url":"http://jm.maoyingshi.cc/yunxing.php?url="},
+{"name":"xcoo","type":0,"url":"https://cdn.xcoo.vip/xc.php?url="},
 {"name": "LL","type": 1,"url": "http://lanlan.ckflv.cn/?url="}
 ],
 
