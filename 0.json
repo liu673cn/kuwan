@@ -189,6 +189,8 @@
 {"key":"csp_XBPQ兰花影院","name":"🌳兰花影院[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/兰花影院.json"},
 
+{"key":"csp_XBPQ豆角","name":"🌳豆角影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":".//XBPQ/豆角影视.json"},
 
 
 
