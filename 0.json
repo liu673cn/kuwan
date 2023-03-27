@@ -50,7 +50,7 @@
 "ext":"./js/优酷.js"},
 
 {"key":"drpy_js_菜狗","name":"🐶搜狗视频","type":3,"api":"https://agit.ai/xiaohu/tvbox/raw/branch/main/js/lib/drpy.min.js",
-"ext":"./js/菜狗.js"},
+"ext":"./js/caighou.js"},
 
 {"key": "py_cctv","name": "📺CCTV","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/cctv.py"},
 
