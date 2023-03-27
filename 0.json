@@ -193,6 +193,8 @@
 {"key":"csp_XBPQ豆角","name":"🌳豆角影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":".//XBPQ/豆角影视.json"},
 
+{"key":"csp_XBPQ_奇优","name":"🌳奇优影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XBPQ/奇优影视.json"},
 
 
 //XYQHiker
