@@ -1,11 +1,12 @@
 //全部扒自网络和大佬资源
+//点击链接加入QQ频道【小胡同学交流频道】：https://pd.qq.com/s/1v2wl2d0p
 
-{
 //jar
 "spider":"./jar/0322.jar;md5;737DF5DD5B53E37EC7E8719A7E47C88A",
 
 //壁纸
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+
 
 //直播	
 "lives": [{
@@ -15,6 +16,7 @@
 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 "logo": "https://epg.112114.xyz/logo/{name}.png"
 }],
+
 
 // 每日一言 (随机显示欢迎语)
 "dairyWords": [{
@@ -26,6 +28,7 @@
 "response": {
 "result": "$.data.content"},
 "expires" : "43200"}],
+
 
 //提示
 "warningText":"💕小胡同学提醒：接口完全免费，切勿付费购买💕",
