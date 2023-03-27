@@ -53,6 +53,8 @@
 
 {"key": "py_cctv","name": "📺CCTV","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./py/cctv.py"},
 
+{"key":"drpy_js_优酷","name":"优酷","type":3,"api":"https://agit.ai/xiaohu/tvbox/raw/branch/main/js/lib/drpy.min.js","ext":"https://agit.ai/xiaohu/tvbox/raw/branch/main/js/%e4%bc%98%e9%85%b7.js"},
+
 
 //精选
 
