@@ -43,8 +43,8 @@
 
 {"key":"drpy_js_360影视","name":"🔍360影视","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"},
  
-{"key":"drpy_js_优酷","name":"🆒优酷视频","type":3,"api":"https://agit.ai/xiaohu/tvbox/raw/branch/main/drpy2.min.js",
-"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/%E4%BC%98%E9%85%B7.js"},
+{"key":"drpy_js_优酷","name":"🆒优酷视频","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js",
+"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
  
 {"key":"drpy_js_百忙无果","name":"🥭芒果TV","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"},
 
