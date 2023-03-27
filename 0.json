@@ -198,7 +198,7 @@
 {"name":"Mao","type":0,"url":"https://www.mtosz.com/erzi.php?url=","ext":{"flag":["youku","YouKu","优酷","sohu","SoHu","搜狐","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 {"name":"诺讯","type":0,"url":"https://www.nxflv.com/?url="},
 {"name":"云星","type":1,"url":"http://jm.maoyingshi.cc/3578843152.php?url="},
-{"name":"云星","type":0,"url":"http://jm.maoyingshi.cc/%E6%92%AD%E6%94%BE%E5%99%A8/?url="},
+{"name":"云星","type":1,"url":"http://jm.maoyingshi.cc/%E6%92%AD%E6%94%BE%E5%99%A8/?url="},
 {"name":"xcoo","type":1,"url":"https://cdn.xcoo.vip/xc.php?url="},
 {"name": "LL","type": 1,"url": "http://lanlan.ckflv.cn/?url="}
 ],
