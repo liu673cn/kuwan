@@ -180,9 +180,6 @@
 {"key":"XBPQ低端","name":"🌳低端影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/低端.json"},
 
-{"key":"csp_XBPQ城市电影","name":"🌳城市电影[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./XBPQ/城市电影.json"},
-
 {"key":"csp_XBPQ电影先生","name":"🌳电影先生[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/tvxs.json"},
 
@@ -195,9 +192,6 @@
 {"key":"csp_XBPQ奇优","name":"🌳奇优影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/奇优影视.json"},
 
-{"key":"csp_XBPQ139","name":"🌳139影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/139.json"},
-
-{"key":"csp_XBPQ孜然","name":"🌳孜然影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/孜然.json"},
 
 
 //XYQHiker
