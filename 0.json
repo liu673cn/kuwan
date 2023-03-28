@@ -109,9 +109,6 @@
 
 {"key":"csp_Kuaikan","name":"👁快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://www.fantuanhd.com"},
-
 {"key":"csp_Bttoo","name":"2️⃣bttwo","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_MeiJu69","name":"6️⃣69美剧","type":3,"api":"csp_MeiJu69","searchable":1,"quickSearch":1,"filterable":1,
@@ -124,8 +121,6 @@
 "quickSearch":1,"filterable":1},
 
 {"key":"Lezhu_spider","name":"🐖乐猪","api":"csp_Lezhu","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1},
-
-{"key":"sliu_spider","name":"👊石榴","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1},
 
 {"key":"棉花影视","name":"💮棉花","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,
 "ext":"http://118.190.144.126"},
@@ -197,8 +192,6 @@
 //XYQHiker
 
 {"key":"csp_XYQHiker野荷塘影院","name":"🌴野荷塘[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/野荷塘影院.json"},
-
-{"key":"csp_XYQHiker双十电影","name":"🌴双十电影[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/双十.json"},
 
 {"key":"csp_XYQHiker188影视","name":"🌴188影视[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/188影视.json"},
 
