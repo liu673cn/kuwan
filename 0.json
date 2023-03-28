@@ -133,7 +133,7 @@
 
 {"key":"csp_apple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-
+{"key":"csp_fantuan","name":"🍝饭团","type":3,"api":"csp_Fantuan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 
 //
 
@@ -196,6 +196,14 @@
 {"key":"csp_XYQHiker188影视","name":"🌴188影视[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/188影视.json"},
 
 {"key":"csp_XYQHiker红领巾影院","name":"🌴红领巾影视[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/红领巾影院.json"},
+
+{"key":"csp_XYQHiker55影视","name":"🌴55影视[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/55影视.json"},
+
+{"key":"csp_XYQHiker双十电影","name":"🌴双十电影[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/双十.json"},
+
+{"key":"csp_XYQHiker乐鱼影视","name":"🌴乐鱼影视[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/乐鱼.json"},
+
+{"key":"csp_XYQHiker_voflix","name":"🌴voflix[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/voflix.json"},
 
 
 
