@@ -109,16 +109,7 @@
 {"key":"csp_Anime1","name":" 💀日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
-    {
-      "key": "mayiys_spider",
-      "name": " 🐸影视┃蚂蚁",
-      "type": 3,
-      "api": "csp_Mayiys",
-      "m3u8ads": "hd.youyhn.com",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
 
 //精选
 
