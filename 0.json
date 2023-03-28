@@ -197,7 +197,8 @@
 
 {"key":"csp_XYQHiker红领巾影院","name":"🌴红领巾影视[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/红领巾影院.json"},
 
-{"key":"csp_XYQHiker55影视","name":"🌴55影视[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/55影视.json"},
+{"key":"csp_XYQHiker55影视","name":"🌴55影视[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XYQH/55影视.json"},
 
 {"key":"csp_XYQHiker双十电影","name":"🌴双十电影[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/双十.json"},
 
@@ -205,6 +206,7 @@
 
 {"key":"csp_XYQHiker_voflix","name":"🌴voflix[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/voflix.json"},
 
+{"key":"csp_XYQHiker素白白影视","name":"🌴素白白影视[XYQH]","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/素白白.json"},
 
 
 //
