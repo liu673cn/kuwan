@@ -138,6 +138,8 @@
 
 {"key":"csp_fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 
+{"key":"csp_BuLei","name":"🌩布雷","type":3,"api":"csp_BuLei","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bulei.cc"},
+
 //
 
 {"key":"优质资源","name":"🥇优质资源","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1 ,"categories": ["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
