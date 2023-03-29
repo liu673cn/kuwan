@@ -43,8 +43,6 @@
 {"key":"豆瓣","name":"🥔豆瓣推荐|接口免费-Q群497567220","type":3,"api":"./js/lib/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
 
 
-{"key":"csp_Lib","name":"LIBVIO","type": 3,"api":"csp_Libvio","searchable": 1,"quickSearch":1,"filterable":1,
-"ext": "https://tv.libvio.cc"}, 
 //直播=
 
 {"key":"直播转点播","name":"📺电视直播","type":3,"api":"./js/直播转点播.js","ext":"./json/直播仓.json"},
