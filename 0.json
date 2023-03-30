@@ -187,6 +187,9 @@
 {"key":"csp_XBPQ yohu","name":"🍉YOHUtv[XBPQ]","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/yohu.json"},
 
+{"key":"csp_XBPQ口袋","name":"🍉口袋影院[XBPQ]","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XBPQ/口袋影院.json"},
+
 
 
 //XYQHiker
