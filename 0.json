@@ -190,6 +190,7 @@
 
 
 
+
 //XYQHiker
 
 {"key":"csp_XYQHiker野荷塘影院","name":"🍈野荷塘[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/野荷塘影院.json"},
@@ -201,7 +202,8 @@
 
 {"key":"csp_XYQHiker双十电影","name":"🍈双十电影[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/双十.json"},
 
-
+{"key":"csp_XYQHiker北川","name":"🍈北川影视[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XYQH/北川影视.json"},
 
 
 //XYQbiu
