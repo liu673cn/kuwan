@@ -203,6 +203,19 @@
 
 {"key":"csp_XYQHiker素白白影视","name":"🍈素白白影视[XYQH]","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/素白白.json"},
 
+{"key":"csp_XYQHiker Vidhub","name":"🍈Vidhub视频库[XYQH]","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/Vidhub视频库.json"},
+
+
+
+//XYQbiu
+{"key":"csp_XYQBiu_骚火电影网","name":"🌽骚火电影网[XYQB]","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XYQB/骚火电影网.json"},
+
+{"key":"csp_XYQBiu_酷客影视","name":"🌽酷客影视[XYQB]","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XYQB/酷客影视.json"},
+
+{"key":"csp_XYQBiu_大米星球","name":"🌽大米星球[XYQB]","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XYQB/大米星球.json"},
 
 
 //动漫
@@ -213,8 +226,6 @@
 {"key":"csp_Ysj","name":"🧛‍♂️异界动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Anime1","name":" 💀日本动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
-
-
 
 
 //
