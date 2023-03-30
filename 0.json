@@ -206,8 +206,6 @@
 
 
 //XYQbiu
-{"key":"csp_XYQBiu_骚火电影网","name":"🌽骚火电影网[XYQB]","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./XYQB/骚火电影网.json"},
 
 {"key":"csp_XYQBiu_酷客影视","name":"🌽酷客影视[XYQB]","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQB/酷客影视.json"},
