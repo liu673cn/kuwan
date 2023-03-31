@@ -149,7 +149,7 @@
 
 {"key":"csp_fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 
-{"key":"IKan","name":"🙈爱看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1"},
+{"key":"IKan","name":"🙈爱看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
 
 //
 
