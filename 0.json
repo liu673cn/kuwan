@@ -57,8 +57,8 @@
 
 
 //阿里
-{"key":"tcafe","name":"🍌小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,
-"changeable":0,"ext":"./jar/token.txt","jar":"./custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
+{"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./jar/token.txt","jar":"./custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
 
 {"key":"Upyunso","name":"🍌up云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,
 "changeable":0,"ext":"./jar/token.txt","jar":"./custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
