@@ -73,19 +73,19 @@
 //{"key":"push_agent","name":"🍌推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
 
 {"key":"纸条","name":"纸条","type":3,"api":"csp_Paper",
-"ext":"./jar/token.txt","jar":"./jar/ali.jar;md5;836beb0946485b261b9ae633bea80210"},
+"ext":"./jar/token.txt","jar":"./jar/2.jar;md5;7265997449b6fa0e74393b906955017d"},
 
 {"key":"易搜","name":"易搜","type":3,"api":"csp_YiSo",
-"ext":"./jar/token.txt","jar":"./jar/ali.jar;md5;836beb0946485b261b9ae633bea80210"},
+"ext":"./jar/token.txt","jar":"./jar/2.jar;md5;7265997449b6fa0e74393b906955017d"},
 
 {"key":"盘搜","name":"盘搜","type":3,"api":"csp_PanSou",
-"ext":"./jar/token.txt","jar":"./jar/ali.jar;md5;836beb0946485b261b9ae633bea80210"},
+"ext":"./jar/token.txt","jar":"./jar/2.jar;md5;7265997449b6fa0e74393b906955017d"},
 
 {"key":"UP云搜","name":"云搜","type":3,"api":"csp_UpYun",
-"ext":"./jar/token.txt","jar":"./jar/ali.jar;md5;836beb0946485b261b9ae633bea80210"},
+"ext":"./jar/token.txt","jar":"./jar/2.jar;md5;7265997449b6fa0e74393b906955017d"},
 
 {"key":"找资源","name":"找资源","type":3,"api":"csp_Zhaozy",
-"ext":"./jar/token.txt","jar":"./jar/ali.jar;md5;836beb0946485b261b9ae633bea80210"},
+"ext":"./jar/token.txt","jar":"./jar/2.jar;md5;7265997449b6fa0e74393b906955017d"},
 
 
 //官源
