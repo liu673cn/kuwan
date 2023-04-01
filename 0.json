@@ -230,7 +230,7 @@
 //{"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"秒播","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
-{"name":"jn1","type":1,"url":"https://yparse.jn1.cc/index.php?url="},
+{"name":"jn1","type":0,"url":"https://yparse.jn1.cc/index.php?url="},
 
 {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/v/d.php?url=","ext":{"flag":["qq","腾讯","企鹅","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 
