@@ -181,7 +181,8 @@
 {"key":"csp_XBPQ yohu","name":"🍉YOHUtv[XBPQ]","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/yohu.json"},
 
-
+{"key":"XBPQ_fant","name":"🍉饭团影视[XBPQ]","type":3,"api":"csp_XBPQ","filterable":1,"quickSearch":1,"searchable":1,
+"ext":"./XBPQ/饭团.json"},
 
 
 
