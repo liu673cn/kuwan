@@ -57,23 +57,26 @@
 
 
 //阿里
-{"key":"tcafe","name":"🍌小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,
-"changeable":0,"ext":"./jar/token.txt","jar":"./jar/1.jar;md5;ef15522c6917d7142e0c77709bc152b6"},
+{"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./jar/token.txt","jar":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
 
-{"key":"Upyunso","name":"🍌up云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,
-"changeable":0,"ext":"./jar/token.txt","jar":"./jar/1.jar;md5;ef15522c6917d7142e0c77709bc152b6"},
+{"key":"csp_Zhaozy","name":"📀找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"./jar/token.txt","jar":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
 
-{"key":"YiSo1","name":"🍌易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,
-"changeable":0,"ext":"./jar/token.txt","jar":"./jar/1.jar;md5;ef15522c6917d7142e0c77709bc152b6"},
 
-{"key":"AliPS","name":"🍌盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,
-"changeable":0,"ext":"./jar/token.txt","jar":"./jar/1.jar;md5;ef15522c6917d7142e0c77709bc152b6"},
+{"key":"csp_AliPS","name":"📀喵狸盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"./jar/token.txt","jar":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
 
-{"key":"Zhaozy0","name":"🍌找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
-"changeable":0,"ext":"./jar/token.txt$$$yingshi$$$abcd1234","jar":"./jar/1.jar;md5;ef15522c6917d7142e0c77709bc152b6"},
 
-{"key":"push_agent","name":"📤推送","type":3,"api":"csp_Push","searchable":1,"filterable":0,"changeable":0,
-"ext":"./jar/token.txt","jar":"./jar/1.jar;md5;ef15522c6917d7142e0c77709bc152b6"},
+{"key":"csp_Yisou","name":"📀易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"./jar/token.txt","jar":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
+
+{"key":"csp_Upyunso","name":"📀UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"./jar/token.txt","jar":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
+
+
+{"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"./jar/token.txt","jar":"https://jihulab.com/xiaohutx/box/-/raw/main/jar/custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
 
 
 
