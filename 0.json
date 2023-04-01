@@ -57,23 +57,24 @@
 
 
 //阿里
-{"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./jar/token.txt","jar":"./custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
+{"key":"tcafe","name":"🍌小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":0,
+"changeable":0,"ext":"./jar/token.txt","jar":"./jar/ali.jar;md5;ef15522c6917d7142e0c77709bc152b6"},
 
 {"key":"Upyunso","name":"🍌up云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,
-"changeable":0,"ext":"./jar/token.txt","jar":"./custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
+"changeable":0,"ext":"./jar/token.txt","jar":"./jar/ali.jar;md5;ef15522c6917d7142e0c77709bc152b6"},
 
 {"key":"YiSo1","name":"🍌易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,
-"changeable":0,"ext":"./jar/token.txt","jar":"./custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
+"changeable":0,"ext":"./jar/token.txt","jar":"./jar/ali.jar;md5;ef15522c6917d7142e0c77709bc152b6"},
 
 {"key":"AliPS","name":"🍌盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,
-"changeable":0,"ext":"./jar/token.txt","jar":"./custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
+"changeable":0,"ext":"./jar/token.txt","jar":"./jar/ali.jar;md5;ef15522c6917d7142e0c77709bc152b6"},
 
 {"key":"Zhaozy0","name":"🍌找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
-"changeable":0,"ext":"./jar/token.txt$$$yingshi$$$abcd1234","jar":"./custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
+"changeable":0,"ext":"./jar/token.txt$$$yingshi$$$abcd1234","jar":"./jar/ali.jar;md5;ef15522c6917d7142e0c77709bc152b6"},
 
 {"key":"push_agent","name":"📤推送","type":3,"api":"csp_Push","searchable":1,"filterable":0,"changeable":0,
-"ext":"./jar/token.txt","jar":"./custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
+"ext":"./jar/token.txt","jar":"./jar/ali.jar;md5;ef15522c6917d7142e0c77709bc152b6"},
+
 
 
 
