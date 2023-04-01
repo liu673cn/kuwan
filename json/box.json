@@ -1,5 +1,5 @@
 {
-	"spider": "./tvbox.jar",
+	"spider": "./jar/1.jar",
 	"sites": [
 		{
 			"key": "量子云播",
