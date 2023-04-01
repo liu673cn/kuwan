@@ -4,7 +4,7 @@
 
 {
 //jar
-"spider": "./custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45",
+"spider": "https://framagit.org/lzk23559/TVRule/-/raw/main/custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45",
 //壁纸
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 
