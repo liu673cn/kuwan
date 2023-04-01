@@ -4,8 +4,7 @@
 
 {
 //jar
-"spider":"./jar/0322.jar;md5;737df5dd5b53e37ec7e8719a7e47c88a",
-
+"spider": "./custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45",
 //壁纸
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 
@@ -38,8 +37,7 @@
       "searchable": 1,
       "filterable": 1,
       "switchable": 0,
-      "ext": "./jar/token.txt",
-      "jar": "./jar/fongmi.jar"
+      "ext": "./jar/token.txt"
     },
     {
       "key": "易搜",
@@ -49,8 +47,7 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "./jar/token.txt",
-      "jar": "./jar/fongmi.jar"
+      "ext": "./jar/token.txt"
     },
     {
       "key": "盤搜",
@@ -60,8 +57,7 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "./jar/token.txt",
-      "jar": "./jar/fongmi.jar"
+      "ext": "./jar/token.txt"
     },
     {
       "key": "UP雲搜",
@@ -71,8 +67,7 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "./jar/token.txt",
-      "jar": "./jar/fongmi.jar"
+      "ext": "./jar/token.txt"
     },
     {
       "key": "找資源",
@@ -82,8 +77,7 @@
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
-      "ext": "./jar/token.txt$$$yingshi$$$abcd1234",
-      "jar": "./jar/fongmi.jar"
+      "ext": "./jar/token.txt$$$yingshi$$$abcd1234"
     },
 
 
