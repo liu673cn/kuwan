@@ -61,9 +61,7 @@
 
 {"key":"csp_Zhaozy","name":"🍌找资源(xyq)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
 
-
 {"key":"csp_AliPS","name":"🍌盘搜(xyq)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
-
 
 {"key":"csp_Yisou","name":"🍌易搜(xyq)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;c98356a872726f98f9a7b63affb24f45"},
 
