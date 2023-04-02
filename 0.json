@@ -33,8 +33,7 @@
 
 {"key":"豆瓣","name":"🥔豆瓣推荐|接口免费-Q群497567220","type":3,"api":"./js/lib/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
 
-{"key":"csp_Alist1","name":"🅰Alist网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"./json/alist.json"}, 
+
 
 
 //直播=
