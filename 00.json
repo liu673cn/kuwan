@@ -288,7 +288,27 @@
 
 {"name":"剖云","type":0,"url":"https://www.pouyun.com/?url=","ext":{"flag":["sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 
-{"name":"猪蹄","type":0,"url":"https://jx.iztyy.com/svip/?url="}
+{"name":"猪蹄","type":0,"url":"https://jx.iztyy.com/svip/?url="},
+
+
+
+		{"name":"七哥","type": 0,"url":"https://jx.nnxv.cn/tv.php?url="},
+		{"name":"冰豆","type": 0,"url":"https://api.qianqi.net/vip/?url="},
+		{"name":"迪奥","type": 0,"url":"https://123.1dior.cn/?url="},
+		{"name":"CK","type": 0,"url":"https://www.ckplayer.vip/jiexi/?url="},
+		{"name":"ckmov","type": 0,"url":"https://www.ckmov.vip/api.php?url="},
+		{"name":"playerjy/B站","type": 0,"url":"https://jx.playerjy.com/?url="},
+		{"name":"ccyjjd","type": 0,"url":"https://ckmov.ccyjjd.com/ckmov/?url="},
+		{"name":"诺诺","type": 0,"url":"https://www.ckmov.com/?url="},
+		{"name":"H8","type": 0,"url":"https://www.h8jx.com/jiexi.php?url="},
+		{"name":"MUTV","type": 0,"url":"https://jiexi.janan.net/jiexi/?url="},
+		{"name":"盘古","type": 0,"url":"https://www.pangujiexi.cc/jiexi.php?url="},
+		{"name":"0523","type": 0,"url":"https://go.yh0523.cn/y.cy?url="},
+		{"name":"17云","type": 0,"url":"https://www.1717yun.com/jx/ty.php?url="},
+		{"name":"4K","type": 0,"url":"https://jx.4kdv.com/?url="},
+		{"name":"8090","type": 0,"url":"https://www.8090g.cn/?url="},
+		{"name":"180","type": 0,"url":"https://jx.000180.top/jx/?url="},
+		{"name":"无名","type": 0,"url":"https://www.administratorw.com/video.php?url="}
 
 
 ],
