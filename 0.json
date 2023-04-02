@@ -176,9 +176,6 @@
 {"key":"csp_XBPQ奇优","name":"🍉奇优影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/奇优影视.json"},
 
-{"key":"csp_XBPQ干饭影视","name":"🍉干饭影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"./XBPQ/干饭.json"},
-
 {"key":"csp_XBPQ yohu","name":"🍉YOHUtv[XBPQ]","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/yohu.json"},
 
