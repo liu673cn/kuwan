@@ -162,9 +162,6 @@
 {"key":"007","name":"🍉007影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/007.json"},
 
-{"key":"freeok","name":"️🍉freeok[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./XBPQ/freeok.json"},
-
 {"key":"低端","name":"🍉低端影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/低端.json"},
 
