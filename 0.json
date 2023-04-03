@@ -4,7 +4,7 @@
 
 {
 //jar
-"spider":"./jar/custom_spider.jar;md5;737df5dd5b53e37ec7e8719a7e47c88a",
+"spider":"./jar/0322r.jar;md5;737df5dd5b53e37ec7e8719a7e47c88a",
 
 //壁纸
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -72,22 +72,22 @@
 
 
 {"key":"Gitcafe","name":"🍌纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar"},
+"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
 
 {"key":"csp_Zhaozy","name":"🍌找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar"},
+"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
 
 {"key":"csp_AliPS","name":"🍌盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar"},
+"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
 
 {"key":"csp_Yisou","name":"🍌易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar"},
+"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
 
 {"key":"csp_Upyunso","name":"🍌UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar"},
+"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
 
 {"key":"push_agent","name":"🍌推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar"},
+"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
 
 
 
