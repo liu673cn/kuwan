@@ -89,12 +89,11 @@
 
 {"key":"drpy_js_爱奇艺","name":"🥝爱奇艺","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/iqy.js"},
 
-{"key":"Mtv","name":"🥭芒果TV","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-
 {"key":"drpy_js_优酷","name":"🆒优酷视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/youku.js"},
 
 {"key":"drpy_js_菜狗","name":"🐶搜狗视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/sougou.js"},
 
+{"key":"Mtv","name":"🥭芒果TV","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
 
 
