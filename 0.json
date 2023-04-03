@@ -58,36 +58,31 @@
 
 //阿里
 
-//{"key":"纸条","name":"🍌纸条(fm)","type":3,"api":"csp_Paper","ext":"./jar/token.txt","jar":"./jar/fongmi.jar"},
+{"key":"纸条","name":"🍌纸条","type":3,"api":"csp_Paper","ext":"./jar/token.txt","jar":"./jar/al.jar;md5;a3a0d399cc8e9e4348060296e4cfab58"},
 
-//{"key":"易搜","name":"🍌易搜(fm)","type":3,"api":"csp_YiSo","ext":"./jar/token.txt","jar":"./jar/fongmi.jar"},
+{"key":"易搜","name":"🍌易搜","type":3,"api":"csp_YiSo","ext":"./jar/token.txt","jar":"./jar/al.jar;md5;a3a0d399cc8e9e4348060296e4cfab58"},
 
-//{"key":"盘搜","name":"🍌盘搜(fm)","type":3,"api":"csp_PanSou","ext":"./jar/token.txt","jar":"./jar/fongmi.jar"},
+{"key":"盘搜","name":"🍌盘搜","type":3,"api":"csp_PanSou","ext":"./jar/token.txt","jar":"./jar/al.jar;md5;a3a0d399cc8e9e4348060296e4cfab58"},
 
-//{"key":"UP云搜","name":"🍌云搜(fm)","type":3,"api":"csp_UpYun","ext":"./jar/token.txt","jar":"./jar/fongmi.jar"},
+{"key":"UP云搜","name":"🍌云搜","type":3,"api":"csp_UpYun","ext":"./jar/token.txt","jar":"./jar/al.jar;md5;a3a0d399cc8e9e4348060296e4cfab58"},
 
-//{"key":"找资源","name":"🍌找资源(fm)","type":3,"api":"csp_Zhaozy","ext":"./jar/token.txt","jar":"./jar/fonmgmi.jar"},
+{"key":"找资源","name":"🍌找资源","type":3,"api":"csp_Zhaozy","ext":"./jar/token.txt","jar":"./jar/al.jar;md5;a3a0d399cc8e9e4348060296e4cfab58"},
 
-//{"key":"推送","name":"🍌推送(fm)","type": 3,"api": "csp_Push","ext":"./jar/token.txt","jar":"./jar/fonmgmi.jar"},
+{"key":"推送","name":"🍌推送","type": 3,"api": "csp_Push","ext":"./jar/token.txt","jar":"./jar/al.jar;md5;a3a0d399cc8e9e4348060296e4cfab58"},
 
 
-{"key":"Gitcafe","name":"🍌纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
 
-{"key":"csp_Zhaozy","name":"🍌找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
+//{"key":"Gitcafe","name":"🍌纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
 
-{"key":"csp_AliPS","name":"🍌盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
+//{"key":"csp_Zhaozy","name":"🍌找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
 
-{"key":"csp_Yisou","name":"🍌易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
+//{"key":"csp_AliPS","name":"🍌盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
 
-{"key":"csp_Upyunso","name":"🍌UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
+//{"key":"csp_Yisou","name":"🍌易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
 
-{"key":"push_agent","name":"🍌推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,
-"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
+//{"key":"csp_Upyunso","name":"🍌UP云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
+
+//{"key":"push_agent","name":"🍌推送","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/token.txt","jar":"./jar/custom_spider.jar;md5;cd3ef08f96987e7e35beb1d19e2fdaaf"},
 
 
 
