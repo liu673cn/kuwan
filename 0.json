@@ -57,27 +57,36 @@
 
 
 //阿里
-{"key":"Gitcafe","name":"🍌纸条(xyq)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/token.txt","jar":"./jar/xyq.jar"},
 
-{"key":"csp_Zhaozy","name":"🍌找资源(xyq)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/token.txt","jar":"./jar/xyq.jar"},
+{"key":"纸条","name":"🍌纸条(fongmi)","type":3,"api":"csp_Paper","ext":"./jar/tok.txt","jar":"./jar/fongmi.jar"},
 
-{"key":"csp_AliPS","name":"🍌盘搜(xyq)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/token.txt","jar":"./jar/xyq.jar"},
+{"key":"易搜","name":"🍌易搜(fongmi)","type":3,"api":"csp_YiSo","ext":"./jar/token.txt","jar":"./jar/fongmi.jar"},
 
-{"key":"csp_Yisou","name":"🍌易搜(xyq)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/token.txt","jar":"./jar/xyq.jar"},
+{"key":"盘搜","name":"🍌盘搜(fongmi)","type":3,"api":"csp_PanSou","ext":"./jar/token.txt","jar":"./jar/fongmi.jar"},
+
+{"key":"UP云搜","name":"🍌云搜(fongmi)","type":3,"api":"csp_UpYun","ext":"./jar/token.txt","jar":"./jar/fongmi.jar"},
+
+{"key":"找资源","name":"🍌找资源(fongmi)","type":3,"api":"csp_Zhaozy","ext":"./jar/token.txt","jar":"./jar/fonmgmi.jar"},
+
+{"key":"推送","name":"🍌推送(fongmi)","type": 3,"api": "csp_Push","ext":"./jar/token.txt","jar":"./jar/fonmgmi.jar"},
+
+
+
+
+
+{"key":"Gitcafe","name":"🍌纸条(xyq)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./jar/tok.txt","jar":"./jar/xyq.jar"},
+
+{"key":"csp_Zhaozy","name":"🍌找资源(xyq)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/tok.txt","jar":"./jar/xyq.jar"},
+
+{"key":"csp_AliPS","name":"🍌盘搜(xyq)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/tok.txt","jar":"./jar/xyq.jar"},
+
+{"key":"csp_Yisou","name":"🍌易搜(xyq)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/tok.txt","jar":"./jar/xyq.jar"},
 
 {"key":"csp_Upyunso","name":"🍌云搜(xyq)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/token.txt","jar":"./jar/xyq.jar"},
 
 
 
-{"key":"纸条","name":"🍌纸条(fongmi)","type":3,"api":"csp_Paper","ext":"./jar/tok.txt","jar":"./jar/fongmi.jar"},
 
-{"key":"易搜","name":"🍌易搜(fongmi)","type":3,"api":"csp_YiSo","ext":"./jar/tok.txt","jar":"./jar/fongmi.jar"},
-
-{"key":"盘搜","name":"🍌盘搜(fongmi)","type":3,"api":"csp_PanSou","ext":"./jar/tok.txt","jar":"./jar/fongmi.jar"},
-
-{"key":"UP云搜","name":"🍌云搜(fongmi)","type":3,"api":"csp_UpYun","ext":"./jar/tok.txt","jar":"./jar/fongmi.jar"},
-
-{"key":"找资源","name":"🍌找资源(fongmi)","type":3,"api":"csp_Zhaozy","ext":"./jar/tok.txt","jar":"./jar/fonmgmi.jar"},
 
 
 
