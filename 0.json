@@ -68,9 +68,7 @@
 
 {"key":"找资源","name":"🍌找资源(fm)","type":3,"api":"csp_Zhaozy","ext":"./jar/token.txt","jar":"./jar/fonmgmi.jar"},
 
-{"key":"推送","name":"🍌推送(fm)","type": 3,"api": "csp_Push","ext":"./jar/token.txt","jar":"./jar/fonmgmi.jar"},
-
-
+//{"key":"推送","name":"🍌推送(fm)","type": 3,"api": "csp_Push","ext":"./jar/token.txt","jar":"./jar/fonmgmi.jar"},
 
 
 
@@ -84,6 +82,7 @@
 
 {"key":"csp_Upyunso","name":"🍌云搜(xyq)","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/tok.txt","jar":"./jar/xyq.jar"},
 
+//{"key":"push_agent","name":"🍌推送(xyq)","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":0,"ext":"./jar/tok.txt","jar":"./jar/xyq.jar"},
 
 
 
