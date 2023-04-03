@@ -297,7 +297,9 @@
 {"name":"剖云","type":0,"url":"https://www.pouyun.com/?url=","ext":{"flag":["sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 
 {"name":"猪蹄","type":0,"url":"https://jx.iztyy.com/svip/?url="},
-		
+
+{"name":"云","type":0,"url":"https://yparse.7te.cc/index.php?url="},
+
 {"name":"playerjy","type": 0,"url":"https://jx.playerjy.com/?url="}
 
 
