@@ -241,6 +241,7 @@
 
 {"name":"BL","type":0,"url":"https://svip.bljiex.cc/index.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","sohu","SoHu","搜狐","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 
+{"name":"飞云","type":1,"url":"http://124.221.180.169:999/api/?key=41e9f8862de3e546680cc86588de4dd3&url="},
 
 {"name":"快看","type":0,"url":"https://www.kuaikanys.net/jiexi/jiexi-gf/?url="},
 
