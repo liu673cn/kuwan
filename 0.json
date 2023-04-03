@@ -58,7 +58,7 @@
 
 //阿里
 {"key":"Gitcafe","name":"📤小纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1",
-"ext":"./jar/token.txt","jar":"./jar/al.txt;md5;a3a0d399cc8e9e4348060296e4cfab58"},
+"ext":"./jar/token.txt","jar":"https://download.kstore.space/download/4127/al.txt;md5;a3a0d399cc8e9e4348060296e4cfab58"},
 //{"key":"纸条","name":"🍌纸条","type":3,"api":"csp_Paper","ext":"./jar/token.txt","jar":"./jar/al.txt;md5;a3a0d399cc8e9e4348060296e4cfab58"},
 
 {"key":"易搜","name":"🍌易搜","type":3,"api":"csp_YiSo","ext":"./jar/token.txt","jar":"./jar/al.txt;md5;a3a0d399cc8e9e4348060296e4cfab58"},
