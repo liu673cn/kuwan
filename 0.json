@@ -251,7 +251,7 @@
 //{"name": "Json聚合","type":3,"url": "Demo"}, 
 //{"name":"Json并发","type":2,"url":"Parallel"},
 //{"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"秒播","type":0,"url":"https://jx.cainisi.cf/?v="},
+{"name":"秒播","type":0,"url":"https://jx.cainisi.cf/?v=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 
 {"name":"秒播","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
