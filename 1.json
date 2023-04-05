@@ -4,7 +4,7 @@
 
 {
 //jar
-"spider":"./jar/0322.jar;md5;737df5dd5b53e37ec7e8719a7e47c88a",
+"spider":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0",
 
 //壁纸
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -34,30 +34,25 @@
 //阿里
 
 {"key":"纸条","name":"🍌小纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1",
-"ext":"https://pastebin.com/raw/YT3CVnxJ","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
-
+"ext":"https://pastebin.com/raw/YT3CVnxJ"},
 
 {"key":"Gitcafe","name":"️🍌小纸条②","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://pastebin.com/raw/YT3CVnxJ","jar":"./jar/x.txt;md5;12e33200402c861bd09e2eb637021589"},
 
-
 {"key":"易搜","name":"🍌易搜","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/YT3CVnxJ","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
-
+"ext":"https://pastebin.com/raw/YT3CVnxJ"},
 
 {"key":"盘搜","name":"🍌盘搜","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/YT3CVnxJ","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
-
+"ext":"https://pastebin.com/raw/YT3CVnxJ"},
 
 {"key":"云搜","name":"🍌云搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/YT3CVnxJ","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
-
+"ext":"https://pastebin.com/raw/YT3CVnxJ"},
 
 {"key":"找资源","name":"🍌找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/YT3CVnxJt $$$ygfxz$$$66666","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
+"ext":"https://pastebin.com/raw/YT3CVnxJt $$$ygfxz$$$66666"},
 
 {"key":"推送","name":"🍌推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/YT3CVnxJ","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
+"ext":"https://pastebin.com/raw/YT3CVnxJ"},
 
 
 
@@ -80,7 +75,8 @@
 
 {"name":"秒播","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
-{"name":"星辰","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="},
+{"name":"星辰","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="}
+
 
 
 
