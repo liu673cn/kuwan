@@ -4,7 +4,7 @@
 
 {
 //jar
-"spider":"./jar/x.txt;md5;debd4cf545c08d546b477c80319b9ad0",
+"spider":"./jar/0322.jar;md5;737df5dd5b53e37ec7e8719a7e47c88a",
 
 //壁纸
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -38,7 +38,7 @@
 
 
 {"key":"Gitcafe","name":"️🍌小纸条②","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/YT3CVnxJ","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
+"ext":"https://pastebin.com/raw/YT3CVnxJ","jar":"./jar/x.txt;md5;12e33200402c861bd09e2eb637021589"},
 
 
 {"key":"易搜","name":"🍌易搜","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
