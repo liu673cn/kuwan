@@ -4,7 +4,7 @@
 
 {
 //jar
-"spider":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0",
+"spider":"./jar/x.txt;md5;debd4cf545c08d546b477c80319b9ad0",
 
 //壁纸
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
@@ -34,25 +34,31 @@
 //阿里
 
 {"key":"纸条","name":"🍌小纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1",
-"ext":"https://pastebin.com/raw/YT3CVnxJ"},
+"ext":"https://pastebin.com/raw/YT3CVnxJ","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
+
 
 {"key":"Gitcafe","name":"️🍌小纸条②","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/YT3CVnxJ"},
+"ext":"https://pastebin.com/raw/YT3CVnxJ","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
+
 
 {"key":"易搜","name":"🍌易搜","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/YT3CVnxJ"},
+"ext":"https://pastebin.com/raw/YT3CVnxJ","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
+
 
 {"key":"盘搜","name":"🍌盘搜","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/YT3CVnxJ"},
+"ext":"https://pastebin.com/raw/YT3CVnxJ","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
+
 
 {"key":"云搜","name":"🍌云搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/YT3CVnxJ"},
+"ext":"https://pastebin.com/raw/YT3CVnxJ","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
+
 
 {"key":"找资源","name":"🍌找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/YT3CVnxJt $$$ygfxz$$$66666"},
+"ext":"https://pastebin.com/raw/YT3CVnxJt $$$ygfxz$$$66666","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
 
 {"key":"推送","name":"🍌推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/YT3CVnxJ"},
+"ext":"https://pastebin.com/raw/YT3CVnxJ","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
+
 
 
 
