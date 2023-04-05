@@ -33,16 +33,22 @@
 
 {"key":"豆瓣","name":"🥔豆瓣推荐|接口免费-Q群497567220","type":3,"api":"./js/lib/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
 
+{"key":"csp_Bili","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./json/bz.json"},
+
+{"key":"csp_Sp哗哩合集","name":"🅱️哔哩合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":0,
+"ext":"./json/bz2.json"},
 
 
 
-//直播=
+
+//直播==
 
 {"key":"直播转点播","name":"📺电视直播","type":3,"api":"./js/直播转点播.js","ext":"./json/直播仓.json"},
 
-{"key":"py_cctv_all","name":"📺央视大全","type":3,"api":"py_cctv_all","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/cctv.py"},
+{"key":"pycctvall","name":"📺央视大全","type":3,"api":"py_cctv_all","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/cctv.py"},
 
-{"key":"py_cctv","name":"📺央视自选","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/cctv1.py"},
+{"key":"pycctv","name":"📺央视自选","type":3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/cctv1.py"},
 
 {"key":"csp_XPath腾讯体育","name":"🐧腾讯体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/txty.json"},
 
@@ -57,6 +63,7 @@
 
 
 //阿里
+
 {"key":"纸条","name":"🍌小纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1",
 "ext":"https://pastebin.com/raw/YT3CVnxJ","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
 
@@ -97,8 +104,8 @@
 
 
 
-//精选
 
+//精选
 
 {"key":"csp_77","name":"👂七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   
 
@@ -220,9 +227,6 @@
 
 {"key":"大米星球","name":"🌽大米星球[XYQB]","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQB/大米星球.json"},
-
-
-
 
 
 
