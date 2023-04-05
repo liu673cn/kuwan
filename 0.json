@@ -57,22 +57,25 @@
 
 
 //阿里
-{"key":"Gitcafe","name":"🍌小纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1",
+{"key":"纸条","name":"🍌小纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1",
 "ext":"./jar/token.txt","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
 
-{"key":"Yisou","name":"🍌易搜","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
+{"key":"Gitcafe","name":"️🍌小纸条②","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./jar/tok.txt","jar":"./jar/x.txt;md5;12e33200402c861bd09e2eb637021589"},
+
+{"key":"易搜","name":"🍌易搜","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./jar/token.txt","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
 
-{"key":"Alips","name":"🍌盘搜","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
+{"key":"盘搜","name":"🍌盘搜","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./jar/token.txt","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
 
-{"key":"Upyunso","name":"🍌云搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
+{"key":"云搜","name":"🍌云搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./jar/token.txt","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
 
-{"key":"Zhaozy","name":"🍌找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
+{"key":"找资源","name":"🍌找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./jar/token.txt $$$ygfxz$$$66666","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
 
-{"key":"csp_push","name":"🍌推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,
+{"key":"推送","name":"🍌推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"./jar/token.txt","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
 
 
@@ -137,9 +140,12 @@
 
 {"key":"IKan","name":"🤩爱看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
 
-//
+{"key":"明帝","name":"️🤴明帝","type":1,"api": "https://ys.md214.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["连续剧","电影","综艺","动漫","直播"]},
 
 {"key":"优质资源","name":"🥇优质资源","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1 ,"categories": ["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
+
+{"key":"草民","name":"🌿草民影院","api":"https://www.xsgj.net/api.php/provide/vod/","type":1,"filterable":1,"quickSearch":1,"searchable":1,"categories":["国产剧","港台剧","动画片","大陆综艺","国产动漫","武侠片","电影","剧集","综艺","动漫","纪录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片",日韩剧","欧美剧","奇幻片","犯罪片","日韩综艺","其他综艺","悬疑片","冒险片","演员库","惊悚片","灾难片","海外剧","其他剧",其他片","歌舞片","传记片","历史片","日韩动漫","欧美动漫","资讯分类","影视资讯","国创","B站","番剧","港台综艺","欧美综艺","港台动漫","海外动漫","体育","电影解说","足球","网球","篮球","斯诺克","泰剧","预告片"]},
+
 
 
 
