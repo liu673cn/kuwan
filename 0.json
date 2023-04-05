@@ -184,9 +184,6 @@
 {"key":"奇优","name":"🍉奇优影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/奇优影视.json"},
 
-{"key":"yohu","name":"🍉YOHUtv[XBPQ]","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./XBPQ/yohu.json"},
-
 {"key":"天空","name":"🍉天空影视[XBPQ]","type":3,"api":"csp_XBPQ","m3u8ads": "hd.youyhn.com","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/天空.json"},
 
 {"key":"淘剧","name":"️🍉淘剧影院[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
