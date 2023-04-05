@@ -113,8 +113,6 @@
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","m3u8ads":"hd.youyhn.com","playerType":2,"searchable":1,
 "quickSearch":1,"filterable":1},
 
-{"key":"Lezhu_spider","name":"🐖乐猪","api":"csp_Lezhu","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1},
-
 {"key":"csp_apple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Nmys","name":"👨‍🌾农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
@@ -150,7 +148,7 @@
 
 //采集资源
 
-{"key":"优质资源","name":"🥇优质资源","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1 ,"categories": ["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
+{"key":"资源库","name":"🥇资源库","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1 ,"categories": ["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
 
 {"key":"爱酷资源","name":"💖爱酷","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 
@@ -167,6 +165,9 @@
 //XBPQ
 {"key":"555","name":"🍉555[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/555.json"},
+
+{"key":"乐猪影视","name":"🍉乐猪影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XBPQ/乐猪.json"},
 
 {"key":"007","name":"🍉007影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/007.json"},
@@ -186,6 +187,15 @@
 {"key":"yohu","name":"🍉YOHUtv[XBPQ]","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/yohu.json"},
 
+{"key":"天空","name":"🍉天空影视[XBPQ]","type":3,"api":"csp_XBPQ","m3u8ads": "hd.youyhn.com","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/天空.json"},
+
+{"key":"淘剧","name":"️🍉淘剧影院[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XBPQ/淘剧.json"},
+
+{"key":"兔兔瓜","name":"🍉兔兔瓜[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"./XBPQ/兔兔瓜.json"},
+
+
 
 
 
@@ -203,6 +213,7 @@
 
 {"key":"星辰影院","name":"🍈星辰影视[XYQH]","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/星辰.json"},
+
 
 
 
