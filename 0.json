@@ -197,9 +197,6 @@
 {"key":"兔兔瓜","name":"🍉兔兔瓜[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"./XBPQ/兔兔瓜.json"},
 
-{"key":"freeok","name":"🍉freeok[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./XBPQ/freeok.json"},
-
 {"key":"传递","name":"🍉传递影视[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/传递.json"},
 
