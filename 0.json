@@ -6,6 +6,7 @@
 //jar
 "spider":"./jar/0322.jar;md5;737df5dd5b53e37ec7e8719a7e47c88a",
 
+
 //壁纸
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
@@ -52,36 +53,35 @@
 
 {"key":"直播转点播","name":"📺电视直播","type":3,"api":"./js/直播转点播.js","ext":"./json/直播仓.json"},
 
-{"key":"csp_XPath腾讯体育","name":"🐧腾讯体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/txty.json"},
+{"key":"csp_XPath腾讯体育","name":"🐧腾讯体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,
+"ext":"./json/txty.json"},
 
-{"key":"csp_XYQBiu斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/dy.json"},
+{"key":"csp_XYQBiu斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
+"ext":"./json/dy.json"},
 
-{"key":"csp_XYQHiker虎牙直播","name":"🐯虎牙直播","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/hy.json"},
+{"key":"csp_XYQHiker虎牙直播","name":"🐯虎牙直播","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,
+"ext":"./json/hy.json"},
 
 {"key":"csp_Yj1211","name":"💿直播集合","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"csp_XBPQ短视频","name":"📹短视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/短视频.json"},
+{"key":"csp_XBPQ短视频","name":"📹短视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,
+"ext":"./json/短视频.json"},
 
 
 
 
 //阿里
+{"key":"csp_Paper","name":"🐶小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,
+"ext": "clan://localhost/xiaohu/jar/token.txt"},
 
-{"key":"纸条","name":"🍌小纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1",
-"ext":"https://pastebin.com/raw/dDi2qymt","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
-
-{"key":"易搜","name":"🍌易搜","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/dDi2qymt","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
-
-{"key":"盘搜","name":"🍌盘搜","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/dDi2qymt","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
-
-{"key":"云搜","name":"🍌云搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/dDi2qymt","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
-
-{"key":"推送","name":"🍌推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/dDi2qymt","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
-
+{"key":"Upyunso","name":"🐭云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,
+"ext": "clan://localhost/xiaohu/jar/token.txt"},
+    
+{"key":"Alips","name":"🐹盘搜","type": 3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,
+"ext": "clan://localhost/xiaohu/jar/token.txt"},
+    
+{"key":"Yisou","name":"🐰易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,
+"ext": "clan://localhost/xiaohu/jar/token.txt"},
 
 
 
@@ -205,9 +205,11 @@
 
 //XYQHiker
 
-{"key":"野荷塘影院","name":"🍈野荷塘","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/野荷塘影院.json"},
+{"key":"野荷塘影院","name":"🍈野荷塘","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XYQH/野荷塘影院.json"},
 
-{"key":"红领巾影院","name":"🍈红领巾影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/红领巾影院.json"},
+{"key":"红领巾影院","name":"🍈红领巾影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XYQH/红领巾影院.json"},
 
 {"key":"55影视","name":"🍈55影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/55影视.json"},
