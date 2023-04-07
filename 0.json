@@ -72,16 +72,16 @@
 
 //阿里
 {"key":"csp_Paper","name":"🐶小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,
-"ext": "clan://localhost/xiaohu/jar/token.txt"},
+"ext":"./jar/token.txt","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
 {"key":"Upyunso","name":"🐭云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,
-"ext": "clan://localhost/xiaohu/jar/token.txt"},
+"ext":"./jar/token.txt","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
     
 {"key":"Alips","name":"🐹盘搜","type": 3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,
-"ext": "clan://localhost/xiaohu/jar/token.txt"},
+"ext":"./jar/token.txt","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
     
 {"key":"Yisou","name":"🐰易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,
-"ext": "clan://localhost/xiaohu/jar/token.txt"},
+"ext":"./jar/token.txt","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
 
 
