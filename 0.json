@@ -144,8 +144,7 @@
 
 {"key":"明帝","name":"️🤴明帝","type":1,"api": "https://ys.md214.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["连续剧","电影","综艺","动漫","直播"]},
 
-{"key":"草民","name":"🍀草民","api":"https://www.xsgj.net/api.php/provide/vod/","type":1,"filterable":1,"quickSearch":1,"searchable":1,
-"categories":["国产剧","港台剧","动画片","大陆综艺","国产动漫","武侠片","电影","剧集","综艺","动漫","纪录片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","日韩剧","欧美剧","奇幻片","犯罪片"]},
+{"key":"草民","name":"🍀草民","api":"https://www.xsgj.net/api.php/provide/vod/","type":1,"filterable":1,"quickSearch":1,"searchable":1},
 
 
 
