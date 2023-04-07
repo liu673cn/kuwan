@@ -67,23 +67,20 @@
 
 //阿里
 
-{"key":"纸条","name":"🍌小纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1",
-"ext":"https://pastebin.com/raw/rkGDFtCG","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
+{"key":"纸条","name":"🍌小纸条","type":3,"api":"csp_Paper","searchable":1,"filterable":1,"changeable":1,
+"ext":"自己扫码把拜拜您嘞","jar":"./jar/fm.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
-{"key":"Gitcafe","name":"️🍌小纸条②","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/rkGDFtCG","jar":"./jar/x.txt;md5;12e33200402c861bd09e2eb637021589"},
+{"key":"易搜","name":"🍌易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"自己扫码把拜拜您嘞","jar":"./jar/fm.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
-{"key":"易搜","name":"🍌易搜","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/rkGDFtCG","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
+{"key":"盘搜","name":"🍌盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"自己扫码把拜拜您嘞","jar":"./jar/fm.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
-{"key":"盘搜","name":"🍌盘搜","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/rkGDFtCG","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
-
-{"key":"云搜","name":"🍌云搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/rkGDFtCG","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
+{"key":"云搜","name":"🍌云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"自己扫码把拜拜您嘞","jar":"./jar/fm.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
 {"key":"推送","name":"🍌推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/rkGDFtCG","jar":"./jar/al.txt;md5;debd4cf545c08d546b477c80319b9ad0"},
+"ext":"自己扫码把拜拜您嘞","jar":"./jar/fm.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
 
 
@@ -144,7 +141,6 @@
 
 {"key":"明帝","name":"️🤴明帝","type":1,"api": "https://ys.md214.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["连续剧","电影","综艺","动漫","直播"]},
 
-{"key":"草民","name":"🍀草民","api":"https://www.xsgj.net/api.php/provide/vod/","type":1,"filterable":1,"quickSearch":1,"searchable":1},
 
 
 
