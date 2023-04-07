@@ -68,19 +68,19 @@
 //阿里
 
 {"key":"纸条","name":"🍌小纸条","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1",
-"ext":"https://pastebin.com/raw/rkGDFtCG","jar":"./jar/fm.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
+"ext":"https://pastebin.com/raw/dDi2qymt","jar":"./jar/fm.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
 {"key":"易搜","name":"🍌易搜","type":3,"api":"csp_YiSo","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/rkGDFtCG","jar":"./jar/fm.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
+"ext":"https://pastebin.com/raw/dDi2qymt","jar":"./jar/fm.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
 {"key":"盘搜","name":"🍌盘搜","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/rkGDFtCG","jar":"./jar/fm.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
+"ext":"https://pastebin.com/raw/dDi2qymt","jar":"./jar/fm.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
 {"key":"云搜","name":"🍌云搜","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/rkGDFtCG","jar":"./jar/fm.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
+"ext":"https://pastebin.com/raw/dDi2qymt","jar":"./jar/fm.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
 {"key":"推送","name":"🍌推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/rkGDFtCG","jar":"./jar/fm.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
+"ext":"https://pastebin.com/raw/dDi2qymt","jar":"./jar/fm.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
 
 
