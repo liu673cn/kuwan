@@ -123,9 +123,6 @@
 {"key":"csp_Nmys","name":"👨‍🌾农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./json/nmys.json"},
 
-{"key":"xp_rr","name":"👨‍👧人人","type":3,"api":"csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,
-"ext": "./json/rrys.json"},
-
 {"key":"YQK_spider","name":"📰一起看","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,
 "searchable":1, "m3u8ads": "hd.youyhn.com","ext":"https://api-tx.11ty.top"},
 
