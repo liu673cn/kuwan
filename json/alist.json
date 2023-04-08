@@ -1,0 +1,49 @@
+
+{
+  "drives": [	
+    {
+     "name": "🎢arhome",
+     "server": "https://xn--ar-4g8e.tk"
+    },
+   {
+      "name": "👨‍🎓Lan同学",
+      "server": "https://player.boylan1.repl.co/"
+    },	
+   {
+      "name": "💢姹莱坞",
+      "server": "https://a.aa01.ml",
+	  "passwd": "agree"
+    },
+    {
+     "name": "🌟云星",
+     "server": "http://alist.itvbox.cc"
+    },	
+    {
+     "name": "🧬杜比",
+     "server": "https://dubi.tk"
+    },
+    {
+     "name" : "👠丫仙女",
+     "server" : "http://alist.xiaoya.pro",
+     "startPage" : "/测试（不限速）",
+     "showAll" : false,
+     "search" : true
+    },  	
+    {
+     "name": "🐉神族九帝",
+     "server": "https://alist.shenzjd.com"
+    },
+    {
+     "name": "✨星梦",
+     "server": "https://pan.bashroot.top"
+    },
+    {
+     "name": "💫触光",
+     "server": "https://pan.ichuguang.com"
+    },
+    {
+	 "name":"🌬️八面来风",
+     "server":"https://z7e8w0-5244.csb.app"
+    }	
+  ]
+}  
