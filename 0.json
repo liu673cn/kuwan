@@ -109,6 +109,7 @@
 {"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/tengxun.js"},
 
 {"key":"csp_SP33","name":"🔍360┃影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"360","name":"🔍360┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/360.js"},
 
 {"key":"爱奇艺","name":"🥝奇艺┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/iqy.js"},
 
@@ -118,6 +119,7 @@
 
 {"key":"Mtv","name":"🥭芒果┃TV","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
+{"key":"芒果","name":"🥭芒果┃TV","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/mangguo.js"},
 
 
 
