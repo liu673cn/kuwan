@@ -215,6 +215,8 @@
 {"key":"传递","name":"🍉传递┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/传递.json"},
 
+{"key":"奈飞中文","name":"🍉奈飞┃中文","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XBPQ/奈飞.json"},
 
 
 
@@ -255,9 +257,17 @@
 
 //js
 
+{"key":"城市影视","name":"🍦城市┃电影","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/城市.js"},
+
 {"key":"米爱影视","name":"🍦米爱┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/米爱.js"},
 
 {"key":"饭团影视","name":"🍦饭团┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/饭团.js"},
+
+{"key":"七年影视","name":"🍦七年┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/七年.js"},
+
+{"key":"素白白","name":"🍦素白白┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/白白.js"},
+
+{"key":"ddys","name":"🍦低端┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/ddys.js"},
 
 
 
