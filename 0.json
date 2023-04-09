@@ -209,11 +209,6 @@
 {"key":"兔兔瓜","name":"🍉兔兔瓜┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,
 "ext":"./XBPQ/兔兔瓜.json"},
 
-{"key":"传递","name":"🍉传递┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./XBPQ/传递.json"},
-
-{"key":"奈飞中文","name":"🍉奈飞┃中文","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./XBPQ/奈飞.json"},
 
 
 
