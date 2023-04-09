@@ -192,9 +192,6 @@
 {"key":"007","name":"🍉007┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/007.json"},
 
-{"key":"低端","name":"🍉低端┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./XBPQ/低端.json"},
-
 {"key":"电影先生","name":"🍉电影┃先生","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/tvxs.json"},
 
