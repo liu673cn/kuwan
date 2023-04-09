@@ -195,9 +195,6 @@
 {"key":"电影先生","name":"🍉电影┃先生","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/tvxs.json"},
 
-{"key":"兰花影院","name":"🍉兰花┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./XBPQ/兰花影院.json"},
-
 {"key":"奇优","name":"🍉奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XBPQ/奇优影视.json"},
 
