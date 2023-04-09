@@ -63,6 +63,7 @@
 
 {"key":"csp_Anime1","name":"💀日本┃动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"路漫漫","name":"🚶路漫漫┃动漫","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/路漫漫.js"},
 
 
 
@@ -105,15 +106,15 @@
 
 //官源
 
-{"key":"drpy_js_腾讯","name":"🐧腾讯┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/tengxun.js"},
+{"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/tengxun.js"},
 
 {"key":"csp_SP33","name":"🔍360┃影视","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
-{"key":"drpy_js_爱奇艺","name":"🥝奇艺┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/iqy.js"},
+{"key":"爱奇艺","name":"🥝奇艺┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/iqy.js"},
 
-{"key":"drpy_js_优酷","name":"🆒优酷┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/youku.js"},
+{"key":"优酷","name":"🆒优酷┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/youku.js"},
 
-{"key":"drpy_js_菜狗","name":"🐶搜狗┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/sougou.js"},
+{"key":"菜狗","name":"🐶搜狗┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/sougou.js"},
 
 {"key":"Mtv","name":"🥭芒果┃TV","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 
@@ -248,6 +249,8 @@
 "ext":"./XYQB/大米星球.json"},
 
 
+
+{"key":"米爱影视","name":"🔥米爱┃影视","type":3,"api":"./js/libs/drpy.min.js","ext":"./js/米爱.js"},
 
 
 
