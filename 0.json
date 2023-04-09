@@ -15,7 +15,7 @@
 "lives": [{
 "name": "live",
 "type": 0,
-"url": "https://jihulab.com/xiaohutx/box/-/raw/main/%E5%A4%AE%E8%A7%86%E5%8D%AB%E8%A7%86.txt",
+"url": "https://agit.ai/xiaohu/tvbox/raw/branch/main/央视卫视.txt",
 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 "logo": "https://epg.112114.xyz/logo/{name}.png"
 }],
