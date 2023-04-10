@@ -15,7 +15,7 @@
 "lives": [{
 "name": "live",
 "type": 0,
-"url": "https://agit.ai/xiaohu/tvbox/raw/branch/main/央视卫视.txt",
+"url": "https://agit.ai/xiaohu/tvbox/raw/branch/main/live.txt",
 "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 "logo": "https://epg.112114.xyz/logo/{name}.png"
 }],
