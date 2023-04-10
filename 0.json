@@ -274,7 +274,7 @@
 //{"name": "Json聚合","type":3,"url": "Demo"}, 
 //{"name":"Json并发","type":2,"url":"Parallel"},
 //{"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"1","type":0,"url":"https://json.84jia.com/api/bfq/?key=JF2Q0E4XTeojmI0rfH&url="},
+{"name":"1","type":1,"url":"https://json.84jia.com/api/json.php/?key=JF2Q0E4XTeojmI0rfH&url="},
 
 {"name":"秒播","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
