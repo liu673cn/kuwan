@@ -286,10 +286,6 @@
 
 {"name":"icu2","type":1,"url":"https://api.json.icu/api/?key=5c22918440e3fa30cfd2da50264ff210&url="},
 
-{"name":"mys","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=3063926&key=bdilrtvxAGIJRTX167&url="},
-
-{"name":"mys2","type":1,"url":"https://api.maoyingshi.cc/home/api?type=app&uid=2893307&key=bfilpuwBCDHIORSZ56&url="},
-
 {"name":"飞云","type":1,"url":"http://124.221.180.169:999/api/?key=3aeb63012c04f9323ef796ee31aad652&url="},
 
 {"name":"BL","type":0,"url":"https://svip.bljiex.cc/index.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","sohu","SoHu","搜狐","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
