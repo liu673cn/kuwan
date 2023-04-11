@@ -12,20 +12,21 @@
 
 
 //直播	
-"lives":[
-    
-{"name": "live",
-"url": "https://agit.ai/xiaohu/tvbox/raw/branch/main/live.txt",
-"type": 0,
-"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-"logo": "https://epg.112114.xyz/logo/{name}.png",
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"},  
+"lives":[ 
+{
+      "name": "live",
+      "url": "https://agit.ai/xiaohu/tvbox/raw/branch/main/live.txt",
+      "type": 0,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+    },    
+    {"group":"redirect",
+    "channels":[{
+    "name":"redirect",
+    "urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvdHZ6Yi50eHQ="]}]
+    }],
 
-{"group":"redirect",
-"channels":[{
-"name":"redirect",
-"urls":["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvNzkxMTkvWkIudHh0P3NpZ249aUNoRFhEQzdXSlJUcDd5V0F5VmRiWTNzaTVzSjVlRndFZ2FSMzVZUUdTbyUzRCUzQTA="]}]
-}],
 
 
 //提示
