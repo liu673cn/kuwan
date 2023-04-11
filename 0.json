@@ -268,12 +268,12 @@
 
 {"key":"鸭奈飞","name":"🍦鸭奈飞┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/鸭奈飞.js"},
 
-//{"key":"大豆影院","name":"🍦大豆┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/大豆.js"},
+{"key":"大豆影院","name":"🍦大豆┃影视","type":3,"api":"./js/lib/drpy.min.js","searchable":2,"ext":"./js/大豆.js"},
 
-//{"key":"九酷影院","name":"🍦九酷┃影院","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/九酷.js"},
+{"key":"九酷影院","name":"🍦九酷┃影院","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/九酷.js"},
 
-{"key":"drpy_js_大豆影院","name":"DRPY┃大豆影院","type":3,"api":"http://dm.abuhu.com/box/app/js/lib/drpy.min.js","searchable":2,"ext":"http://dm.abuhu.com/box/app/js/大豆.js"},
-{"key":"drpy_js_九酷影院","name":"DRPY┃九酷影院","type":3,"api":"http://dm.abuhu.com/box/app/js/lib/drpy.min.js","searchable":2,"ext":"http://dm.abuhu.com/box/app/js/九酷.js"},
+//{"key":"drpy_js_大豆影院","name":"DRPY┃大豆影院","type":3,"api":"http://dm.abuhu.com/box/app/js/lib/drpy.min.js","searchable":2,"ext":"http://dm.abuhu.com/box/app/js/大豆.js"},
+//{"key":"drpy_js_九酷影院","name":"DRPY┃九酷影院","type":3,"api":"http://dm.abuhu.com/box/app/js/lib/drpy.min.js","searchable":2,"ext":"http://dm.abuhu.com/box/app/js/九酷.js"},
 
 
 
