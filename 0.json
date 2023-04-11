@@ -66,6 +66,7 @@
 
 {"key":"路漫漫","name":"🚶路漫漫┃动漫","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/路漫漫.js"},
 
+{"key":"nt动漫","name":"🧬NT┃动漫","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/nt动漫.js"},
 
 
 
@@ -270,6 +271,7 @@
 
 {"key":"九酷影院","name":"🍦九酷┃影院","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/九酷.js"},
 
+{"key":"libvio","name":"🍦libvio┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/libvio.js"},
 
 
 
