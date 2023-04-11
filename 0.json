@@ -12,8 +12,9 @@
 
 
 //直播	
-{
-"name": "live",
+"lives":[
+    
+{"name": "live",
 "url": "https://agit.ai/xiaohu/tvbox/raw/branch/main/live.txt",
 "type": 0,
 "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
