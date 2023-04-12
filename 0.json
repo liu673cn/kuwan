@@ -167,6 +167,8 @@
 {"key":"789看片","name":"7️⃣789┃看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./json/789.json"},
 
+{"key":"csp_Vofl","name":"🧿Vof[SP]","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+
 
 
 
