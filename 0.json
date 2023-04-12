@@ -46,9 +46,6 @@
 {"key":"csp_Bili","name":"🅱️哔哩┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"./json/bz.json"},
 
-{"key":"csp_Sp哗哩合集","name":"🅱️哔哩┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,
-"ext":"./json/bz2.json"},
-
 {"key":"py_mstd","name":"🅱️哔哩┃美食","type": 3,"api":"py_mstd","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"./py/mstd.py"},
 
