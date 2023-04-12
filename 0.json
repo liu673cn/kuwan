@@ -43,10 +43,10 @@
 
 //bilibili
 
-{"key":"csp_Bili","name":"🅱️哔哩┃哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"csp_Bili","name":"🅱️哔哩┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"./json/bz.json"},
 
-{"key":"csp_Sp哗哩合集","name":"🅱️哔哩┃合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":0,
+{"key":"csp_Sp哗哩合集","name":"🅱️哔哩┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"./json/bz2.json"},
 
 {"key":"py_mstd","name":"🅱️哔哩┃美食","type": 3,"api":"py_mstd","searchable":0,"quickSearch":0,"filterable":1,
@@ -86,7 +86,7 @@
 {"key":"虎牙","name":"🐯虎牙┃直播","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"./XYQH/hy.json"},
 
-{"key":"csp_Yj1211","name":"💿直播┃集合","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Yj1211","name":"💿直播┃集合","type": 3,"api": "csp_Yj1211","searchable":0,"quickSearch":0,"filterable":0},
 
 
 
@@ -153,7 +153,7 @@
 {"key":"csp_Nmys","name":"👨‍🌾影视┃农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./json/nmys.json"},
 
-{"key":"YQK_spider","name":"📰影视┃一起","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1, "m3u8ads": "hd.youyhn.com","ext":"https://api-tx.11ty.top"},
+{"key":"YQK_spider","name":"📰影视┃一起","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1, "m3u8ads":"hd.youyhn.com","ext":"https://api-tx.11ty.top"},
 
 {"key":"csp_555","name":"5️⃣影视┃555","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://www.555dyy1.com"},
