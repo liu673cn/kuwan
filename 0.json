@@ -104,22 +104,22 @@
 
 //阿里
 {"key":"csp_Paper","name":"💥阿里┃纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/WpWd9haL","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
+"ext":"https://pastebin.com/raw/Zts7dzj8","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
 {"key":"Upyunso","name":"💥阿里┃云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/WpWd9haL","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
+"ext":"https://pastebin.com/raw/Zts7dzj8","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
     
 {"key":"Alips","name":"💥阿里┃盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/WpWd9haL","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
+"ext":"https://pastebin.com/raw/Zts7dzj8","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
     
 {"key":"Yisou","name":"💥阿里┃易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/WpWd9haL","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
+"ext":"https://pastebin.com/raw/Zts7dzj8","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
 {"key":"csp_WoGG","name":"😮玩偶┃哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/WpWd9haL","jar":"./jar/1.txt;md5;32c757da348977564fe29a4098a3c9d9"},
+"ext":"https://pastebin.com/raw/Zts7dzj8","jar":"./jar/1.txt;md5;32c757da348977564fe29a4098a3c9d9"},
 
 {"key":"csp_FanYY","name":"🤒饭饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/WpWd9haL","jar":"./jar/1.txt;md5;32c757da348977564fe29a4098a3c9d9"},
+"ext":"https://pastebin.com/raw/Zts7dzj8","jar":"./jar/1.txt;md5;32c757da348977564fe29a4098a3c9d9"},
 
 
 
