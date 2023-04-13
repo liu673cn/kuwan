@@ -49,6 +49,10 @@
 {"key":"py_mstd","name":"🅱️哔哩┃美食","type": 3,"api":"py_mstd","searchable":0,"quickSearch":0,"filterable":1,
 "ext":"./py/mstd.py"},
 
+{"key":"bili直播","name":"🅱️哔哩┃直播","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/blzb.js"},
+
+
+
 
 
 //动漫
@@ -65,6 +69,10 @@
 
 {"key":"nt动漫","name":"🧬NT┃动漫","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/ntdm.js"},
 
+{"key":"去看吧","name":"💨去看吧┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XBPQ/去看吧.json"},
+
+
 
 
 //直播==
@@ -78,6 +86,8 @@
 
 {"key":"抓饭","name":"🍚抓饭┃直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"./XYQB/抓饭.json"},
+
+{"key":"310直播","name":"⚽310┃直播","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/310.js"},
 
 {"key":"斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"./XYQB/dy.json"},
