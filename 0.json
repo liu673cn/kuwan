@@ -240,7 +240,7 @@
 "ext":"./XYQH/voflix.json"},
 
 {"key":"UM影院.json","name":"🍈UM┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./XYQH/UM影院.json.json"},
+"ext":"./XYQH/UM影院.json"},
 
 {"key":"l0l影院","name":"🍈l0l┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/l0l影院.json"},
