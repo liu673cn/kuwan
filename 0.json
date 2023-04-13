@@ -236,6 +236,19 @@
 {"key":"双十","name":"🍈双十┃电影","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/1010.json"},
 
+{"key":"voflix","name":"🍈voflix┃HD","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XYQH/voflix.json"},
+
+{"key":"UM影院.json","name":"🍈UM┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XYQH/UM影院.json.json"},
+
+{"key":"l0l影院","name":"🍈l0l┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XYQH/l0l影院.json"},
+
+{"key":"段友影视","name":"🍈段友┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XYQH/段友影视.json"},
+
+
 
 
 
