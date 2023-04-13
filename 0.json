@@ -121,7 +121,7 @@
 {"key":"csp_FanYY","name":"🤒饭饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://pastebin.com/raw/Zts7dzj8","jar":"./jar/1.txt;md5;32c757da348977564fe29a4098a3c9d9"},
 
-{"key":"资源库","name":"🥇资源┃1","type":1,"api":"https://api.dovx.tk/ali/search?wd=","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"资源1库","name":"🥇1┃1","type":1,"api":"https://api.dovx.tk/ali/search?wd=","searchable":1,"quickSearch":1,"filterable":1},
 
 
 //官源
