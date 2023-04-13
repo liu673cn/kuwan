@@ -195,11 +195,9 @@
 
 {"key":"tvb云播","name":"⛅资源┃TVB","type":0,"api":"http://www.tvyb03.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"明帝","name":"️🤴资源┃明帝","type":1,"api": "https://ys.md214.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"草民","name":"🌿资源┃草民","type": 1,"api": "https://www.xsgj.net/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable":1},
 
-{"key":"摩羯","name":"🦂资源┃摩羯","type":1,"api":"https://www.2248.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
+
 
 
 
