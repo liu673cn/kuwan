@@ -316,7 +316,7 @@
 
 {"name":"线路3","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
-{"name":"线路4","type": 0,"url": "https://jx.zhanlangbu.com/?url="},
+{"name":"线路4","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 
 {"name":"线路5","type":0,"url":"https://jx.maoyingshi.cc/player/?url="},
 
@@ -332,9 +332,9 @@
 
 {"name":"飞云","type":1,"url":"http://124.221.180.169:999/api/?key=40e2fea89feeebc026443fe19b2ccd74&url="},
 
-{"name":"1","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2148&my=ehjlmqtuFGJKLNPRU0&url="},
+{"name":"11","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2148&my=ehjlmqtuFGJKLNPRU0&url="},
 
-{"name":"2","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2412&my=bceklrstvGLNUWY456&url="},
+{"name":"22","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2412&my=bceklrstvGLNUWY456&url="},
 
 
 
@@ -344,7 +344,7 @@
 
 {"name":"全民","type":0,"url":"http://api.wpsseo.cn/jx/?url="},
 
-{"name": "jxdp","type": 0,"url": "https://jxdp.codermart.net/?url="},
+{"name":"jxdp","type": 0,"url": "https://jxdp.codermart.net/?url="},
 
 {"name":"诺讯","type":0,"url":"https://www.nxflv.com/?url="},
 
@@ -356,7 +356,7 @@
 
 {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 
-{"name": "bozrc","type": 0,"url": "https://jx.bozrc.com:4433/player/?url="},
+{"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 
 {"name":"菜菜","type":0,"url":"https://jx.cainisi.cf/?v="},
 
@@ -370,9 +370,9 @@
 
 {"name":"1717云","url":"https://www.1717yun.com/jx/ty.php?url="},
 
-{"name":"m2090","url":"https://m2090.com/?url="},
+{"name":"m2090","type":0,"url":"https://m2090.com/?url="},
 
-{"name":"8090","url":"https://www.8090.la/8090/?url="},
+{"name":"8090","type":0,"url":"https://www.8090.la/8090/?url="},
 
 {"name":"全民","type":0,"url":"http://api.quanminjiexi.com/?v="},
 
@@ -388,7 +388,7 @@
 
 {"name":"猪蹄","type":0,"url":"https://jx.iztyy.com/svip/?url="},
 
-{"name":"playerjy","type": 0,"url":"https://jx.playerjy.com/?url="}
+{"name":"playerjy","type":0,"url":"https://jx.playerjy.com/?url="}
 
 
 
