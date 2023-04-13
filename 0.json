@@ -193,9 +193,9 @@
 
 {"key":"米杏","name":"🍊资源┃米杏","type":1,"api":"https://www.mixing.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","剧集","综艺","动漫","纪录片"]},
 
-{"key":"tvb云播","name":"⛅资源┃TVB","type":0,"api":"http://www.tvyb03.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","电影","电视剧","综艺","动漫"]},
+{"key":"tvb云播","name":"⛅资源┃TVB","type":0,"api":"http://www.tvyb03.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"明帝","name":"️🤴资源┃明帝","type":1,"api": "https://ys.md214.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["连续剧","电影","综艺","动漫","直播"]},
+{"key":"明帝","name":"️🤴资源┃明帝","type":1,"api": "https://ys.md214.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"草民","name":"🌿资源┃草民","type": 1,"api": "https://www.xsgj.net/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable":1},
 
