@@ -309,6 +309,19 @@
 //{"name": "Json聚合","type":3,"url": "Demo"}, 
 //{"name":"Json并发","type":2,"url":"Parallel"},
 //{"name":"Json轮询","type":2,"url":"Sequence"},
+{ "name" : "左岸1", "type" : 1, "url" : "http://110.42.2.115:880/analysis/json/?uid=2148&my=ehjlmqtuFGJKLNPRU0&url="},
+
+{ "name" : "左岸2", "type" : 1, "url" : "http://110.42.2.115:880/analysis/json/?uid=2412&my=bceklrstvGLNUWY456&url="},
+{ "name" : "虎虎", "type" : 1, "url" : "http://ghost.laohu.cool/yhys.php?url="},
+{ "name" : "尘烟", "type" : 1, "url" : "https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
+{"name":"王牌","type":1,"url":"http://49.235.75.85:417/api/?key=BmDZNTG2N6MDG6cMZa&url="},
+{"name":"创信","type":1,"url":"http://jx.jxcxin.cn/home/api?type=ys&uid=858553&key=bceikmopqyBCKOUWZ5&url="},
+{"name":"创信","type":1,"url":"http://jx.jxcxin.cn/home/api?type=ys&uid=866057&key=fjklrswFGHIMOQT025&url="},
+{"name":"飞飞", "type" : 0, "url" : "http://a.210457.xyz/js/?url="},
+{"name":"奇艺","type":0,"url":"https://jxdp.codermart.net/?url="},
+{"name":"茶韵","type":0,"url":"https://chaxun.truechat365.com/?url="},
+{"name":"耗耗","type":0,"url":"https://jx.haozi88.cn/player/?url="}
+
 
 {"name":"秒播","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
