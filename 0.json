@@ -121,7 +121,7 @@
 {"key":"csp_FanYY","name":"🤒饭饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://pastebin.com/raw/Zts7dzj8","jar":"./jar/1.txt;md5;32c757da348977564fe29a4098a3c9d9"},
 
-
+{"key":"资源库","name":"🥇资源┃1","type":1,"api":"https://api.dovx.tk/ali/search?wd=","searchable":1,"quickSearch":1,"filterable":1},
 
 
 //官源
@@ -184,7 +184,7 @@
 
 //资源
 
-{"key":"资源库","name":"🥇资源┃1080","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1 ,"categories": ["国产剧","欧美剧","海外剧"]},
+{"key":"资源库","name":"🥇资源┃1080","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1,"categories": ["国产剧","欧美剧","海外剧"]},
 
 {"key":"非凡","name":"🦉资源┃非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod","playUrl":"json:https://www.itvbox.cc/fflz.php?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["记录片","国产剧","欧美剧","香港剧"]},
 //https://dx.maclsj.com/players/ali/pc.php?url=
@@ -196,7 +196,9 @@
 
 {"key":"明帝","name":"️🤴资源┃明帝","type":1,"api": "https://ys.md214.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["连续剧","电影","综艺","动漫","直播"]},
 
-{"key": "草民","name": "🌿资源┃草民","type": 1,"api": "https://www.xsgj.net/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","港台剧","综艺","动漫","海外剧"]},
+{"key":"草民","name":"🌿资源┃草民","type": 1,"api": "https://www.xsgj.net/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable":1,"categories": ["国产剧","港台剧","综艺","动漫","海外剧"]},
+
+{"key":"摩羯","name":"🦂资源┃摩羯","type":1,"api":"https://www.2248.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 
 
 
