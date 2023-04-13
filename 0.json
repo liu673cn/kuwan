@@ -121,7 +121,8 @@
 {"key":"csp_FanYY","name":"🤒饭饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://pastebin.com/raw/Zts7dzj8"},
 
-
+{"key":"蜂蜜天下第一","name":"🐝阿里┃蜂蜜","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,
+"ext":"https://pastebin.com/raw/Zts7dzj8","jar":"./jar/fm.jar;md5;f2064f61914f9fe0258820ab04b5abce"},
 
 
 
