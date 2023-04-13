@@ -4,7 +4,7 @@
 
 {
 //jar
-"spider":"./jar/0322.jar;md5;737df5dd5b53e37ec7e8719a7e47c88a",
+"spider":"./jar/1.txt;md5;32c757da348977564fe29a4098a3c9d9",
 
 
 //壁纸
@@ -116,10 +116,10 @@
 "ext":"https://pastebin.com/raw/Zts7dzj8","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
 {"key":"csp_WoGG","name":"😮玩偶┃哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/Zts7dzj8","jar":"./jar/1.txt;md5;32c757da348977564fe29a4098a3c9d9"},
+"ext":"https://pastebin.com/raw/Zts7dzj8"},
 
 {"key":"csp_FanYY","name":"🤒饭饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/Zts7dzj8","jar":"./jar/1.txt;md5;32c757da348977564fe29a4098a3c9d9"},
+"ext":"https://pastebin.com/raw/Zts7dzj8"},
 
 
 
