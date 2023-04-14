@@ -104,28 +104,28 @@
 
 //阿里
 {"key":"纸条","name":"💥阿里┃纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/SRQNPtRk","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
+"ext":"https://pastebin.com/raw/gJANsEAK","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
 {"key":"云搜","name":"💥阿里┃云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/SRQNPtRk","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
+"ext":"https://pastebin.com/raw/gJANsEAK","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
     
 {"key":"盘搜","name":"💥阿里┃盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/SRQNPtRk","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
+"ext":"https://pastebin.com/raw/gJANsEAK","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
     
 {"key":"易搜","name":"💥阿里┃易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/SRQNPtRk","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
+"ext":"https://pastebin.com/raw/gJANsEAK","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
 {"key":"找资源","name":"💥阿里┃找资源","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":1,"changeable":1,
-"ext":"111111$$$xiaohutx$$$xiaohutx","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
+"ext":"https://pastebin.com/raw/gJANsEAK $$$xiaohutx$$$xiaohutx","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
 {"key":"csp_WoGG","name":"😮玩偶┃哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/SRQNPtRk"},
+"ext":"https://pastebin.com/raw/gJANsEAK"},
 
 {"key":"csp_FanYY","name":"🤒饭饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/SRQNPtRk"},
+"ext":"https://pastebin.com/raw/gJANsEAK"},
 
 {"key":"蜂蜜天下第一","name":"🐝阿里┃七夜","type":3,"api":"csp_Dovx","searchable":1,"filterable":1,"changeable":1,
-"ext":"https://pastebin.com/raw/SRQNPtRk","jar":"./jar/fm.jar;md5;fec1811bad085e87682f64be8bc9885a"},
+"ext":"https://pastebin.com/raw/gJANsEAK","jar":"./jar/fm.jar;md5;fec1811bad085e87682f64be8bc9885a"},
 
 
 
