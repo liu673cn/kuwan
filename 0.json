@@ -164,8 +164,6 @@
 
 {"key":"Vofl","name":"🎈影视┃voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"双十","name":"❤️影视┃双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"YQK","name":"📰影视┃一起","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"m3u8ads":"hd.youyhn.com","ext":"https://api-tx.11ty.top"},
 
 {"key":"555","name":"5️⃣影视┃555","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
