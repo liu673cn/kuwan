@@ -292,8 +292,6 @@
 
 {"key":"素白白","name":"🍦素白白┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/白白.js"},
 
-{"key":"鸭奈飞","name":"🍦鸭奈飞┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/鸭奈飞.js"},
-
 {"key":"九酷影院","name":"🍦九酷┃影院","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/九酷.js"},
 
 {"key":"libvio","name":"🍦libvio┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/libvio.js"},
