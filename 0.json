@@ -138,7 +138,7 @@
 
 {"key":"搜狗","name":"🐶搜狗┃视频","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/sougou.js"},
 
-{"key":"芒果","name":"🥭芒果┃TV","type":3,"playerType":2,"api":"./js/lib/drpy.min.js","ext":"./js/mangguo.js"},
+{"key":"芒果","name":"🥭芒果┃TV","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/mangguo.js"},
 
 
 
