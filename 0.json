@@ -214,7 +214,9 @@
 
 {"key":"兔兔瓜","name":"🍉兔兔瓜┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/兔兔瓜.json"},
 
+{"key":"3377","name":"🍉3377┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/3377影视.json"},
 
+{"key":"鸡婆","name":"🍉鸡婆┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/鸡婆影视.json"},
 
 
 
