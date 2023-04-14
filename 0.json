@@ -104,16 +104,16 @@
 
 //阿里
 {"key":"纸条","name":"💥阿里┃纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/gJANsEAK","jar":"./jar/AL.jar;md5;3ee59ed8249427d5c0e6c114f566f9a9"},
+"ext":"https://pastebin.com/raw/gJANsEAK","jar":"./jar/fm.jar;md5;fec1811bad085e87682f64be8bc9885a"},
 
 {"key":"云搜","name":"💥阿里┃云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/gJANsEAK","jar":"./jar/AL.jar;md5;3ee59ed8249427d5c0e6c114f566f9a9"},
+"ext":"https://pastebin.com/raw/gJANsEAK","jar":"./jar/fm.jar;md5;fec1811bad085e87682f64be8bc9885a"},
     
 {"key":"盘搜","name":"💥阿里┃盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/gJANsEAK","jar":"./jar/AL.jar;md5;3ee59ed8249427d5c0e6c114f566f9a9"},
+"ext":"https://pastebin.com/raw/gJANsEAK","jar":"./jar/fm.jar;md5;fec1811bad085e87682f64be8bc9885a"},
     
 {"key":"易搜","name":"💥阿里┃易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/gJANsEAK","jar":"./jar/AL.jar;md5;3ee59ed8249427d5c0e6c114f566f9a9"},
+"ext":"https://pastebin.com/raw/gJANsEAK","jar":"./jar/fm.jar;md5;fec1811bad085e87682f64be8bc9885a"},
 
 {"key":"找资源","name":"💥阿里┃找资源","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
 "ext":"https://pastebin.com/raw/gJANsEAK $$$xiaohutx$$$xiaohutx","jar":"./jar/AL.jar;md5;3ee59ed8249427d5c0e6c114f566f9a9"},
@@ -125,7 +125,7 @@
 "ext":"https://pastebin.com/raw/gJANsEAK"},
 
 {"key":"蜂蜜天下第一","name":"🐝阿里┃七夜","type":3,"api":"csp_Dovx","searchable":1,"filterable":1,"changeable":1,
-"ext":"https://pastebin.com/raw/gJANsEAK","jar":"./jar/fm.jar;md5;209e49921f768d2a2495f96f6ca4dc41"},
+"ext":"https://pastebin.com/raw/gJANsEAK","jar":"./jar/fm.jar;md5;fec1811bad085e87682f64be8bc9885a"},
 
 
 
