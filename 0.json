@@ -104,7 +104,7 @@
 
 //阿里
 {"key":"csp_Paper","name":"💥阿里┃纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./tok.txt","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
+"ext":"https://pastebin.com/raw/SRQNPtRk","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
 
 {"key":"Upyunso","name":"💥阿里┃云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://pastebin.com/raw/SRQNPtRk","jar":"./jar/al.txt;md5;5b77e550fc0e997d1c7ec4dc9eca695a"},
