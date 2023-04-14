@@ -139,33 +139,35 @@
 
 //精选
 
-{"key":"csp_77","name":"👂影视┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   
+{"key":"","name":"👂影视┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   
 
-{"key":"mtv_pc_神马影视","name":"🐴影视┃神马","type":3,"api":"csp_Smdyy","filterable":1,"quickSearch":1,"searchable":1}, 
+{"key":"神马影视","name":"🐴影视┃神马","type":3,"api":"csp_Smdyy","filterable":1,"quickSearch":1,"searchable":1}, 
 
-{"key":"csp_AppMr","name":"🥪影视┃明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"明明","name":"🥪影视┃明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Kuaikan","name":"👁影视┃快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"快看","name":"👁影视┃快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Bttoo","name":"2️⃣影视┃2BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Bttoo","name":"2️⃣影视┃2BT","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Czsapp","name":"👷影视┃厂长","type":3,"api":"csp_Czsapp","m3u8ads":"hd.youyhn.com","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"厂长","name":"👷影视┃厂长","type":3,"api":"csp_Czsapp","m3u8ads":"hd.youyhn.com","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_apple","name":"🍎影视┃苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"apple","name":"🍎影视┃苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Auete","name":"👾影视┃奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Auete","name":"👾影视┃奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Nmys","name":"👨‍🌾影视┃农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
-
-{"key":"YQK_spider","name":"📰影视┃一起","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"m3u8ads":"hd.youyhn.com","ext":"https://api-tx.11ty.top"},
-
-{"key":"csp_555","name":"5️⃣影视┃555","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
-
-{"key":"csp_Xinsj","name":"🙈影视┃新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
-
-{"key":"棉花影视","name":"💮影视┃棉花","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126"},
+{"key":"Vofl","name":"🎈影视┃voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"双十","name":"❤️影视┃双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"YQK","name":"📰影视┃一起","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"m3u8ads":"hd.youyhn.com","ext":"https://api-tx.11ty.top"},
+
+{"key":"555","name":"5️⃣影视┃555","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
+
+{"key":"新视觉","name":"🙈影视┃新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
+
+{"key":"棉花","name":"💮影视┃棉花","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://118.190.144.126"},
+
+{"key":"农民","name":"👨‍🌾影视┃农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
 
 {"key":"工人","name":"👨‍🏭影视┃工人","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/工人.json"},
 
@@ -267,6 +269,8 @@
 {"key":"九酷影院","name":"🍦九酷┃影院","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/九酷.js"},
 
 {"key":"libvio","name":"🍦libvio┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/libvio.js"},
+
+{"key":"鸭奈飞","name":"🍦鸭奈飞┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/鸭奈飞.js"},
 
 
 
