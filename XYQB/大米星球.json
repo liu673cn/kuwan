@@ -6,7 +6,8 @@
     "SUserAgent":"User-Agent$MOBILE_UA",
     "firstpage": "1",
     "class_url": "https://www.dmys1.com/vodshow/{cateId}--------{catePg}---/pjax/YES.html",
-    "class_name": "电影&电视剧&综艺&动漫&福利",
+    "class_name": "电影&电视剧&综艺&动漫",
+    //&福利
     "class_value": "20&21&23&22&35",
     "filterdata": {},
     "cat_YN_twice": "1",
