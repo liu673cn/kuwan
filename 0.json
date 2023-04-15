@@ -220,6 +220,9 @@
 
 {"key":"3377影视","name":"🍉3377┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/3377影视.json"},
 
+{"key":"freeok","name":"🍉freeok┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/free.json"},
+
+
 
 
 
