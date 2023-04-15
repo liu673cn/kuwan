@@ -117,10 +117,10 @@
 {"key":"找资源","name":"💥阿里┃找资源","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
 "ext":"https://pastebin.com/raw/gJANsEAK $$$xiaohutx$$$xiaohutx","jar":"./jar/fm.jar;md5;fec1811bad085e87682f64be8bc9885a"},
 
-{"key":"csp_WoGG","name":"😮玩偶┃哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"csp_WoGG","name":"😮阿里┃玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://pastebin.com/raw/gJANsEAK"},
 
-{"key":"csp_FanYY","name":"🤒饭饭┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"csp_FanYY","name":"🤒阿里┃饭饭","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://pastebin.com/raw/gJANsEAK"},
 
 {"key":"蜂蜜天下第一","name":"🐝阿里┃七夜","type":3,"api":"csp_Dovx","searchable":1,"filterable":1,"changeable":1,
