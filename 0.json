@@ -44,8 +44,6 @@
 
 {"key":"csp_Bili","name":"🅱️哔哩┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/bz.json"},
 
-{"key":"py_mstd","name":"🅱️哔哩┃美食","type": 3,"api":"py_mstd","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/mstd.py"},
-
 {"key":"bili直播","name":"🅱️哔哩┃直播","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/blzb.js"},
 
 
@@ -141,7 +139,6 @@
 
 {"key":"芒果","name":"🥭芒果┃TV","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/mangguo.js"},
 
-{"key":"西瓜","name":"🍉西瓜┃视频","type": 3,"api":"py_xigua","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/xigua.py"},
 
 
 
@@ -179,9 +176,7 @@
 
 {"key":"789看片","name":"7️⃣789┃看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/789.json"},
 
-{"key":"喝茶","name":"🍵喝茶┃影视","type": 3,"api":"py_hecha","searchable":0,"quickSearch":1,"filterable":1,"ext":"./py/喝茶.py"},
 
-{"key":"cokemv","name":"🆚cokemv┃影视","type": 3,"api":"py_hecha","searchable":0,"quickSearch":1,"filterable":1,"ext":"./py/cokemv.py"},
 
 
 
@@ -191,9 +186,9 @@
 
 {"key":"资源库","name":"🥇资源┃1080","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1},
 
-{"key":"非凡","name":"🦉资源┃非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod","playUrl":"json:https://www.itvbox.cc/fflz.php?url=","searchable":1,"quickSearch":1,"filterable":1},
-//https://dx.maclsj.com/players/ali/pc.php?url=
-{"key":"量子","name":"🏂资源┃量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","playUrl":"json:https://www.itvbox.cc/fflz.php?url=","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"非凡","name":"🦉资源┃非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod","playUrl":"https://dx.maclsj.com/players/ali/pc.php?url=","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"量子","name":"🏂资源┃量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","playUrl":"https://dx.maclsj.com/players/ali/pc.php?url=","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"米杏","name":"🍊资源┃米杏","type":1,"api":"https://www.mixing.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
