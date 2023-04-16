@@ -51,7 +51,6 @@
 
 
 
-{"key":"py_xigua","name":"🅱️xigua┃","type": 3,"api":"py_xigua","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/xigua.py"},
 
 
 //动漫
@@ -142,6 +141,10 @@
 
 {"key":"芒果","name":"🥭芒果┃TV","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/mangguo.js"},
 
+{"key":"西瓜","name":"🍉西瓜┃视频","type": 3,"api":"py_xigua","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/xigua.py"},
+
+
+
 
 
 //精选
@@ -201,25 +204,25 @@
 
 
 //XBPQ
-{"key":"555影视","name":"🍉555┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/555.json"},
+{"key":"555影视","name":"🍒555┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/555.json"},
 
-{"key":"乐猪影视","name":"🍉乐猪┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/乐猪.json"},
+{"key":"乐猪影视","name":"🍒乐猪┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/乐猪.json"},
 
-{"key":"007影视","name":"🍉007┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/007.json"},
+{"key":"007影视","name":"🍒007┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/007.json"},
 
-{"key":"电影先生","name":"🍉电影┃先生","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/tvxs.json"},
+{"key":"电影先生","name":"🍒电影┃先生","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/tvxs.json"},
 
-{"key":"奇优","name":"🍉奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优影视.json"},
+{"key":"奇优","name":"🍒奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优影视.json"},
 
-{"key":"天空","name":"🍉天空┃影视","type":3,"api":"csp_XBPQ","m3u8ads": "hd.youyhn.com","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/天空.json"},
+{"key":"天空","name":"🍒天空┃影视","type":3,"api":"csp_XBPQ","m3u8ads": "hd.youyhn.com","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/天空.json"},
 
-{"key":"淘剧","name":"️🍉淘剧┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/淘剧.json"},
+{"key":"淘剧","name":"️🍒淘剧┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/淘剧.json"},
 
-{"key":"兔兔瓜","name":"🍉兔兔瓜┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/兔兔瓜.json"},
+{"key":"兔兔瓜","name":"🍒兔兔瓜┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/兔兔瓜.json"},
 
-{"key":"3377影视","name":"🍉3377┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/3377影视.json"},
+{"key":"3377影视","name":"🍒3377┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/3377影视.json"},
 
-{"key":"freeok","name":"🍉freeok┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/free.json"},
+{"key":"freeok","name":"🍒freeok┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/free.json"},
 
 
 
