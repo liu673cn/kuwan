@@ -17,8 +17,8 @@
       "name": "live",
       "url": "https://agit.ai/xiaohu/tvbox/raw/branch/main/live.txt",
       "type": 0,
-      "epg": "https://itvbox.cc/epg/epg.php",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}",
+      "logo": "http://epg.51zmt.top:8000/{logo}"
     }],    
 
 
