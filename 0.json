@@ -179,9 +179,9 @@
 
 {"key":"789看片","name":"7️⃣789┃看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/789.json"},
 
-{"key":"喝茶","name":"🍵喝茶┃影视","type": 3,"api":"py_hecha","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/喝茶.py"},
+{"key":"喝茶","name":"🍵喝茶┃影视","type": 3,"api":"py_hecha","searchable":0,"quickSearch":1,"filterable":1,"ext":"./py/喝茶.py"},
 
-{"key":"cokemv","name":"🆚cokemv┃影视","type": 3,"api":"py_hecha","searchable":0,"quickSearch":0,"filterable":1,"ext":"./py/cokemv.py"},
+{"key":"cokemv","name":"🆚cokemv┃影视","type": 3,"api":"py_hecha","searchable":0,"quickSearch":1,"filterable":1,"ext":"./py/cokemv.py"},
 
 
 
