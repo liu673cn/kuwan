@@ -256,6 +256,8 @@
 
 {"key":"酷客影视","name":"🥟酷客┃影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQB/酷客影视.json"},
 
+{"key":"花猫","name":"🥟花猫┃TV","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQB/花猫.json"},
+
 {"key":"大米星球","name":"🥟大米┃星球","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQB/大米星球.json"},
 
 
