@@ -48,9 +48,9 @@
 
 
 
-{"key":"兔小贝","name":"🐰兔兔┃小贝","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/兔小贝.json"},
+{"key":"兔小贝","name":"🐰兔兔┃小贝","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/兔小贝.json"},
 
-{"key":"兔小贝2","name":"🐇兔兔┃小贝②","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/兔小贝2.json"},
+{"key":"兔小贝2","name":"🐇兔兔┃小贝②","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/兔小贝2.json"},
 
 
 
