@@ -318,57 +318,37 @@
 
 {"name":"jy","type":0,"url":"https://jy.we-vip.com:2053/?url="},
 
+{"name":"猫影视","type":1,"url":"https://www.itvbox.cc/bhc.php?url="},
 
-{"name":"猫影视json③","type":1,"url":"https://www.itvbox.cc/bhc.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 
 
-{"name":"BL","type":0,"url":"https://svip.bljiex.cc/index.php?url="},
-
-{"name":"全民","type":0,"url":"http://api.wpsseo.cn/jx/?url="},
-
-{"name":"jxdp","type": 0,"url": "https://jxdp.codermart.net/?url="},
-
-{"name":"诺讯","type":0,"url":"https://www.nxflv.com/?url="},
-
-{"name":"jn1","type":0,"url":"https://yparse.jn1.cc/index.php?url="},
-
-{"name":"OK","type":0,"url":"https://okjx.cc/?url="},
+{"name":"BL","type":0,"playerType":2,"url":"https://svip.bljiex.cc/index.php?url="},
 
 {"name":"player","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 
 {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 
+{"name":"jxdp","type": 0,"url": "https://jxdp.codermart.net/?url="},
+
+{"name":"OK","type":0,"url":"https://okjx.cc/?url="},
+
 {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 
 {"name":"菜菜","type":0,"url":"https://jx.cainisi.cf/?v="},
-
-{"name":"Mao","type":0,"url":"https://www.mtosz.com/erzi.php?url="},
 
 {"name":"夜幕","type":0,"url":"https://www.yemu.xyz/v/d.php?url="},
 
 {"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},
 
-{"name":"aidou","type":0,"url":"https://jx.aidouer.net/?url="},
-
-{"name":"1717云","url":"https://www.1717yun.com/jx/ty.php?url="},
-
-{"name":"m2090","type":0,"url":"https://m2090.com/?url="},
+{"name":"1717","url":"https://www.1717yun.com/jx/ty.php?url="},
 
 {"name":"8090","type":0,"url":"https://www.8090.la/8090/?url="},
 
 {"name":"全民","type":0,"url":"http://api.quanminjiexi.com/?v="},
 
-{"name":"瞄影视","type":0,"url":"http://www.miaoys.cc/vip/?url="},
-
 {"name":"M3U8","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
 
-{"name":"爱解析","type":0,"url":"https://jx.t7g.cn/?url="},
-
-{"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url="},
-
 {"name":"剖云","type":0,"url":"https://www.pouyun.com/?url="},
-
-{"name":"猪蹄","type":0,"url":"https://jx.iztyy.com/svip/?url="},
 
 {"name":"playerjy","type":0,"url":"https://jx.playerjy.com/?url="}
 
