@@ -160,19 +160,23 @@
 //精选
 {"key":"布雷","name":"🌩️影视┃布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Xinsj","name":"🙈影视┃新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
+{"key":"新视觉","name":"🙈影视┃新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 
 {"key":"七七","name":"👂影视┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   
 
-{"key":"快看","name":"👁影视┃快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Libvio","name":"🧰libvio┃影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
+
+{"key":"神马","name":"🐎影视┃神马","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"农民","name":"🌾影视┃农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
 
 {"key":"apple","name":"🍎影视┃苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"Cokemv","name":"🥥影视┃cokemv","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_AppMr","name":"🔆影视┃明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"明明","name":"🔆影视┃明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_Btwtoo","name":"2️⃣影视┃2Bt","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Btwtoo","name":"2️⃣影视┃2Bt","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"图图","name":"📚影视┃图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 
@@ -230,11 +234,7 @@
 
 //js
 
-{"key":"libvio","name":"🍦libvio┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/libvio.js"},
-
 {"key":"鸭奈飞","name":"🍦鸭奈飞┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/鸭奈飞.js"},
-
-{"key":"农民影视","name":"🍦农民┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/农民影视.js"},
 
 {"key":"厂长","name":"🍦厂长┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/厂长.js"},
 
@@ -287,8 +287,6 @@
 
 
 //XYQbiu
-
-{"key":"神马影院","name":"🥟神马┃影院","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQB/神马影院.json"},
 
 {"key":"酷客影视","name":"🥟酷客┃影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQB/酷客影视.json"},
 
