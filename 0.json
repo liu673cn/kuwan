@@ -35,9 +35,9 @@
 
 {"key":"豆瓣","name":"👩🏻‍❤️‍👨🏻豆瓣推荐┃接口免费-开心追剧-Q群497567220","type":3,"api":"./js/lib/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"./js/douban.js"},
 
-{"key":"AList","name":"🦄Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":0,"ext":"./json/alist.json"},
+{"key":"AList","name":"🦄Alist┃网盘","type":3,"api":"csp_AList","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/alist.json"},
 
-{"key":"WebDAV","name":"🎉Web┃DAV","type":3,"api":"csp_WebDAV","searchable":1,"filterable":1,"changeable":0,"ext":"./json/webdav.json","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
+{"key":"WebDAV","name":"🎉Web┃DAV","type":3,"api":"csp_WebDAV","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/webdav.json","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
 
 
 
