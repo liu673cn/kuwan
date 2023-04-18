@@ -55,7 +55,7 @@
 
 {"key":"芒果","name":"🥭芒果┃TV","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/mangguo.js"},
 
-{"key":"py_xigua","name": "🔥西瓜视频","type": 3,"api": "py_cctv","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/raw.githubusercontent.com/52670576/tvbox/main/py/py_xigua.py"},
+{"key":"py_xigua","name":"🍉西瓜┃视频","type":3,"api":"py_xigua","searchable":1,"quickSearch":1,"filterable":1,"ext":"./py/xigua.py"},
 
 
 
