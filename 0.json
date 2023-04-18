@@ -289,7 +289,7 @@
 
 {"key":"视觉","name":"🍦视觉┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/新视觉.js"},
 
-{"key":"农民","name":"🍦农民┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/农民影视.js"},
+{"key":"农民","name":"🍦农民┃视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/农民影视.js"},
 
 
 
