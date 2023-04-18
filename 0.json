@@ -253,7 +253,7 @@
 
 {"key":"段友影视","name":"🍈段友┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/段友影视.json"},
 
-{"key":"农民影视","name":"🍈农民┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/农民影视.json"},
+
 
 
 
@@ -289,6 +289,7 @@
 
 {"key":"视觉","name":"🍦视觉┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/新视觉.js"},
 
+{"key":"农民","name":"🍦农民┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/农民影视.js"},
 
 
 
