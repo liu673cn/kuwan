@@ -157,6 +157,8 @@
 //精选
 {"key":"布雷","name":"🌩️影视┃布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"csp_Xinsj","name":"🙈影视┃新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
+
 {"key":"七七","name":"👂影视┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   
 
 {"key":"快看","name":"👁影视┃快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
@@ -224,7 +226,6 @@
 
 
 //js
-{"key":"新视觉","name":"🍦新视觉┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/新视觉.js"},
 
 {"key":"libvio","name":"🍦libvio┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/libvio.js"},
 
