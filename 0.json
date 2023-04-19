@@ -143,13 +143,16 @@
 {"key":"找资源","name":"💥阿里┃找资源","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
 "ext":"https://pastebin.com/raw/A4Ksj3wb $$$xiaohutx$$$xiaohutx","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
 
-{"key":"csp_WoGG","name":"😮阿里┃玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"WoGG","name":"😮阿里┃玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://pastebin.com/raw/A4Ksj3wb"},
+
+{"key":"FanYY","name":"😝阿里┃剥饭","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,
 "ext":"https://pastebin.com/raw/A4Ksj3wb"},
 
 {"key":"蜂蜜天下第一","name":"🐝阿里┃七夜","type":3,"api":"csp_Dovx","searchable":1,"filterable":1,"changeable":1,
 "ext":"https://pastebin.com/raw/A4Ksj3wb","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
 
-{"key":"push_agent","name":"📤发射┃推送","type":3,"api":"csp_Push","searchable":1,"filterable":0,"changeable":0,
+{"key":"agent","name":"📤发射┃推送","type":3,"api":"csp_Push","searchable":1,"filterable":0,"changeable":0,
 "ext":"https://pastebin.com/raw/A4Ksj3wb","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
 
 
@@ -166,6 +169,8 @@
 
 {"key":"Libvio","name":"🧰libvio┃影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
 
+{"key":"饭团","name":"🍙影视┃饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
+
 {"key":"神马","name":"🐎影视┃神马","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"农民","name":"🌾影视┃农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
@@ -179,6 +184,8 @@
 {"key":"快看","name":"👀影视┃快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"明明","name":"🔆影视┃明明","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"YQK","name":"🙌一起看┃TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
 
 {"key":"图图","name":"📚影视┃图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 
@@ -202,8 +209,6 @@
 {"key":"城市影视","name":"🍦城市┃电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/城市.js"},
 
 {"key":"米爱影视","name":"🍦米爱┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/米爱.js"},
-
-{"key":"饭团影视","name":"🍦饭团┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/饭团.js"},
 
 {"key":"七年影视","name":"🍦七年┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/七年.js"},
 
