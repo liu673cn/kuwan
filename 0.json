@@ -345,13 +345,7 @@
 	
 {"name":"虾米", "type":0,"url":"https://jx.xmflv.com/?url=", "showType":1},
 
-  {"name":"腾讯备用2","type":0,"url":"https://parse.mw0.cc/?url=",   "ext": {
-      "flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
-      "header": {
-        "User-Agent": "Mozilla/5.0"
-      }
-    }
-  },
+{"name":"parse","type":0,"url":"https://parse.mw0.cc/?url="},
 
 
 
