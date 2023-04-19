@@ -170,6 +170,8 @@
 
 {"key":"新视觉","name":"🙈影视┃新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 
+{"key":"1010","name":"🔟双十┃影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"七七","name":"👂影视┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   
 
 {"key":"Libvio","name":"🧰libvio┃影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
@@ -198,7 +200,7 @@
 
 {"key":"789看片","name":"7️⃣789┃看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/789.json"},
 
-{"key":"csp_Jianying","name":"🎆简影","type":3,"api":"csp_Jianying","searchable":1,"quickSearch":1,"filterable":1,"ext":"hjju123@qq.com$$$123456"},
+
 
 
 
@@ -250,8 +252,6 @@
 
 //XYQHiker
 {"key":"爱看影院","name":"🍈爱看┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/爱看影院.json"},
-
-{"key":"双十电影","name":"🍈双十┃电影","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/双十.json"},
 
 {"key":"爱看影视","name":"🍈爱看┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/爱看.json"},
 
