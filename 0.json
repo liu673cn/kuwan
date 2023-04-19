@@ -305,9 +305,9 @@
 
 //解析
 "parses": [
-//{"name": "Json聚合","type":3,"url": "Demo"}, 
-//{"name":"Json并发","type":2,"url":"Parallel"},
-//{"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"解析聚合","type":3,"url":"Demo"},
+
+{"name":"Web聚合","type":3,"url":"Web"},
 
 {"name":"线路1","type":1,"url":"http://ghost.laohu.cool/yhys.php?url="},
 
