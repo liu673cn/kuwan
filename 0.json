@@ -190,22 +190,26 @@
 
 
 
+//js
+{"key":"皮皮鸭","name":"🍦皮皮鸭┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/皮皮鸭.js"},
 
+{"key":"影视之家","name":"🍦影视┃之家","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/影视之家.js"},
 
-//资源
+{"key":"鸭奈飞","name":"🍦鸭奈飞┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/鸭奈飞.js"},
 
-{"key":"资源库","name":"🥇资源┃1080","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"厂长","name":"🍦厂长┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/厂长.js"},
 
-{"key":"非凡","name":"🦉资源┃非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod","playUrl":"https://dx.maclsj.com/players/ali/pc.php?url=","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"城市影视","name":"🍦城市┃电影","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/城市.js"},
 
-{"key":"量子","name":"🏂资源┃量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","playUrl":"https://dx.maclsj.com/players/ali/pc.php?url=","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"米爱影视","name":"🍦米爱┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/米爱.js"},
 
-{"key":"米杏","name":"🍊资源┃米杏","type":1,"api":"https://www.mixing.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"饭团影视","name":"🍦饭团┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/饭团.js"},
 
-{"key":"tvb云播","name":"⛅资源┃TVB","type":0,"api":"http://www.tvyb03.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"七年影视","name":"🍦七年┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/七年.js"},
 
-{"key":"击破","name":"🐓资源┃击破","type":1,"api":"https://www.jipo.tv/api.php/provide/vod","filterable":1,"quickSearch":1,"searchable":1},
+{"key":"素白白","name":"🍦素白白┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/白白.js"},
 
+{"key":"九酷影院","name":"🍦九酷┃影院","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/九酷.js"},
 
 
 
@@ -229,31 +233,6 @@
 {"key":"3377影视","name":"🍒3377┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/3377影视.json"},
 
 {"key":"freeok","name":"🍒freeok┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/free.json"},
-
-
-
-
-
-//js
-
-{"key":"鸭奈飞","name":"🍦鸭奈飞┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/鸭奈飞.js"},
-
-{"key":"厂长","name":"🍦厂长┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/厂长.js"},
-
-{"key":"城市影视","name":"🍦城市┃电影","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/城市.js"},
-
-{"key":"米爱影视","name":"🍦米爱┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/米爱.js"},
-
-{"key":"饭团影视","name":"🍦饭团┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/饭团.js"},
-
-{"key":"七年影视","name":"🍦七年┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/七年.js"},
-
-{"key":"素白白","name":"🍦素白白┃影视","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/白白.js"},
-
-{"key":"九酷影院","name":"🍦九酷┃影院","type":3,"api":"./js/lib/drpy.min.js","ext":"./js/九酷.js"},
-
-
-
 
 
 
@@ -286,8 +265,6 @@
 
 
 
-
-
 //XYQbiu
 
 {"key":"酷客影视","name":"🥟酷客┃影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQB/酷客影视.json"},
@@ -299,6 +276,20 @@
 
 
 
+
+//资源
+
+{"key":"资源库","name":"🥇资源┃1080","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1},
+
+{"key":"非凡","name":"🦉资源┃非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod","playUrl":"https://dx.maclsj.com/players/ali/pc.php?url=","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"量子","name":"🏂资源┃量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","playUrl":"https://dx.maclsj.com/players/ali/pc.php?url=","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"米杏","name":"🍊资源┃米杏","type":1,"api":"https://www.mixing.tv/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"tvb云播","name":"⛅资源┃TVB","type":0,"api":"http://www.tvyb03.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
+
+{"key":"击破","name":"🐓资源┃击破","type":1,"api":"https://www.jipo.tv/api.php/provide/vod","filterable":1,"quickSearch":1,"searchable":1},
 
 
 
