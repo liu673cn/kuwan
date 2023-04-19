@@ -296,7 +296,8 @@
 
 {"key":"大米星球","name":"🥟大米┃星球","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQB/大米星球.json"},
 
-
+{"key":"磁力熊","name":"磁力熊","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XYQB/磁力熊.json"},
 
 
 
