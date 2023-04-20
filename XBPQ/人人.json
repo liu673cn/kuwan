@@ -3,10 +3,13 @@
 
   "站名": "人人",
 
-  "主页url": "https://www.renren.pro/",
+  "主页url": "https://www.rrets.cc/",
   
-  "分类": "影视库$all"
-  
+  "分类": "电影$category-1#连续剧$category-2#动漫$category-3#综艺$category-4",
+
+  "分类url":"https://www.rrets.cc/{cateId}/",
+
+
 
   
 
