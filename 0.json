@@ -332,19 +332,24 @@
 
 {"name":"线路6","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2412&my=bceklrstvGLNUWY456&url="},
 
-{"name":"线路7","type":1,"url":"https://www.itvbox.cc/bhc.php?url="},
+{"name":"线路7","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=abhstwDGRSUVYZ0127&mgtv=app&url="},
 
-{"name":"线路8","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
+{"name":"线路8","type":1,"url":"https://www.itvbox.cc/bhc.php?url="},
 
-{"name":"线路9","type":1,"url":"https://api.json.icu/api/?key=5c22918440e3fa30cfd2da50264ff210&url=","ext":{"header":{"User-Agent":"Mozilla/5.0(Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"}}}
+{"name":"线路9","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
 
+{"name":"线路10","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
 
+{"name":"线路11","type":1,"url":"https://api.json.icu/api/?key=5c22918440e3fa30cfd2da50264ff210&url=","ext":{"header":{"User-Agent":"Mozilla/5.0(Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"}}},
 
+{"name":"线路12","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 
+{"name":"线路13","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 
-
+{"name":"线路14","type":0,"url":"https://jx.777jiexi.com/player/?url="}
 
 ],
+
 
 
 
