@@ -1,16 +1,10 @@
-{
-  "作者": "小胡",
-
   "站名": "人人",
 
-  "主页url": "https://www.tuhao.tv/",
+  "主页url": "https://www.renren.pro/",
   
-  "分类": "电影$1#连续剧$2#综艺$3#动漫$4#纪录片$5",
-
-  "分类url":"https://www.tuhao.tv/vt/{cateId}.html",
-
-
-
+  "分类": "影视库$all"
+  "主页url": "https://www.rrets.cc/",
   
+  "分类": "电影$category-1#连续剧$category-2#动漫$category-3#综艺$category-4",
 
-}
+  "分类url":"https://www.rrets.cc/{cateId}/"
