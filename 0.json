@@ -77,7 +77,7 @@
 
 {"key":"兔小贝","name":"🐰兔兔┃小贝","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/兔小贝.json"},
 
-{"key":"兔小贝2","name":"🐇兔兔┃小贝②","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/兔小贝2.json"},
+{"key":"兔小贝2","name":"🐇兔兔┃小贝2","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/兔小贝2.json"},
 
 
 
@@ -136,7 +136,13 @@
 {"key":"纸条","name":"📋纸条┃阿里","type":3,"api":"csp_Paper","searchable":1,"quickSearch":0,"filterable":0,
 "ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
 
-{"key":"Gitcafe","name":"📰纸条┃本地","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"Gitcafe","name":"📰纸条┃阿里2","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/xyq.jar;md5;1fde7d6401bf9df7dd42abc0ccfe21ad"},
+
+{"key":"纸条2","name":"📋纸条┃本地","type":3,"api":"csp_Paper","searchable":1,"quickSearch":0,"filterable":0,
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
+
+{"key":"Gitcafe2","name":"📰纸条┃本地2","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/xyq.jar;md5;1fde7d6401bf9df7dd42abc0ccfe21ad"},
 
 {"key":"云搜","name":"🐬云搜┃阿里","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":0,"filterable":0,
