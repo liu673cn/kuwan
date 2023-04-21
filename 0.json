@@ -91,7 +91,7 @@
 "ext":"https://pastebin.com/raw/kH58Q8fU6"},
 
 {"key":"蜂蜜天下第一","name":"🐝七夜┃阿里","type":3,"api":"csp_Dovx","searchable":1,"filterable":1,"changeable":1,
-"ext":"https://pastebin.com/raw/kH58Q8fU"},
+"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar"},
 
 {"key":"agent","name":"📤推送┃发射","type":3,"api":"csp_Push","searchable":1,"filterable":0,"changeable":0,
 "ext":"https://pastebin.com/raw/kH58Q8fU"},
