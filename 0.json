@@ -118,7 +118,7 @@
 
 {"key":"310直播","name":"⚽310┃直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/310.js"},
 
-{"key":"JRS","name":"🏐JRS┃直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/Jrs直播.json"},
+{"key":"JRS","name":"🏐JRS┃直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/jrs直播.json"},
 
 {"key":"斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQB/dy.json"},
 
