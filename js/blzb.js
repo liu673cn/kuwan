@@ -5,7 +5,7 @@ var rule = {
     url:'/xlive/web-interface/v1/second/getList?platform=web&parent_area_id=fyclass&area_id=fyfilter&sort_type=online&page=fypage',
     class_name:'娱乐&网游&手游&单机游戏&电台&虚拟主播&生活&知识&赛事&购物',
     class_url:'10&2&3&6&1&5&9&11&13&300',
-    filterable: 1,
+    filterable: 0,
     filter_url: '{{fl.area}}',
     filter_def:{
         10:{area:'33'},
@@ -35,7 +35,7 @@ var rule = {
     // detailUrl:'https://api.live.bilibili.com/xlive/web-room/v1/playUrl/playUrl?cid=fyid&platform=h5&otype=json&quality=0',//二级详情拼接链接(json格式用)
     // searchUrl:'/x/web-interface/search/type?__refresh__=true&page=fypage&page_size=42&order=online&platform=pc&highlight=1&single_column=0&keyword=**&search_type=live&dynamic_offset=0&preload=true',
     searchUrl:'https://api.bilibili.com/x/web-interface/search/type?search_type=live&keyword=**&page=1',
-    searchable:2,
+    searchable:0,
     quickSearch:0,
     headers:{
         "User-Agent":"PC_UA",
