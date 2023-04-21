@@ -64,28 +64,28 @@
 
 //阿里
 {"key":"纸条","name":"📋纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/kH58Q8fU"},
+"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar"},
 
 {"key":"Gitcafe","name":"📰纸条2┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/xyq.jar"},
 
 {"key":"纸条2","name":"📋纸条┃本地","type":3,"api":"csp_Paper","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/fm.jar"},
 
 {"key":"Gitcafe2","name":"📰纸条2┃本地","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/xyq.jar"},
 
 {"key":"云搜","name":"🍂云搜┃阿里","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/kH58Q8fU"},
+"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar"},
     
 {"key":"盘搜","name":"🍂盘搜┃阿里","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/kH58Q8fU"},
+"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar"},
     
 {"key":"易搜","name":"🍂易搜┃阿里","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/kH58Q8fU"},
+"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar"},
 
 {"key":"找资源","name":"🍂找资源┃阿里","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
-"ext":"https://pastebin.com/raw/kH58Q8fU $$$xiaohutx$$$xiaohutx"},
+"ext":"https://pastebin.com/raw/kH58Q8fU $$$xiaohutx$$$xiaohutx","jar":"./jar/fm.jar"},
 
 {"key":"WoGG","name":"🧸玩偶┃阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://pastebin.com/raw/kH58Q8fU6"},
@@ -94,7 +94,7 @@
 "ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar"},
 
 {"key":"agent","name":"📤推送┃发射","type":3,"api":"csp_Push","searchable":1,"filterable":0,"changeable":0,
-"ext":"https://pastebin.com/raw/kH58Q8fU"},
+"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar"},
 
 
 
