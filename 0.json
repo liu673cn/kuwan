@@ -42,6 +42,14 @@
 {"key":"WebDAV","name":"🎉Web┃DAV","type":3,"api":"csp_WebDAV","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/webdav.json","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
 
 
+{"key": "csp_XBPQ_m9080",
+  "name": "m9080",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "{\"分类\":\"电影$vodshow-1#剧集$vodshow-2#动漫$vodshow-3#综艺$vodshow-4\",\"分类url\":\"https://www.14ll.tv/cateId/{area}/{class}/{lang}/{year}/{catePg}\"}"}, 
 
 
 //官源
