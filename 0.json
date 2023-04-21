@@ -185,8 +185,6 @@
 
 {"key":"Cokemv","name":"🥥cokemv┃影视","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"Bdys","name":"💦影视┃哔嘀","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"Btwtoo","name":"2️⃣影视┃2Bt","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"快看","name":"👀影视┃快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
