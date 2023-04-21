@@ -238,6 +238,8 @@
 
 {"key":"007影视","name":"🍆007┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/007.json"},
 
+{"key":"看看剧","name":"🍆看看┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
+
 {"key":"电影先生","name":"🍆电影┃先生","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/tvxs.json"},
 
 {"key":"奇优","name":"🍆奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优影视.json"},
