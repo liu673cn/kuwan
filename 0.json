@@ -4,7 +4,7 @@
 
 {
 //jar
-"spider":"./jar/1.jar;md5;613066b0150c902b3d51bde7a433be83",
+"spider":"./jar/0421.jar;md5;613066b0150c902b3d51bde7a433be83",
 
 
 //壁纸
@@ -64,37 +64,37 @@
 
 //阿里
 {"key":"纸条","name":"📋纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
+"ext":"https://pastebin.com/raw/kH58Q8fU"},
 
 {"key":"Gitcafe","name":"📰纸条2┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/xyq.jar;md5;1fde7d6401bf9df7dd42abc0ccfe21ad"},
+"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/xyq.jar"},
 
 {"key":"纸条2","name":"📋纸条┃本地","type":3,"api":"csp_Paper","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 
 {"key":"Gitcafe2","name":"📰纸条2┃本地","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/xyq.jar;md5;1fde7d6401bf9df7dd42abc0ccfe21ad"},
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/xyq.jar"},
 
 {"key":"云搜","name":"🍂云搜┃阿里","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
+"ext":"https://pastebin.com/raw/kH58Q8fU"},
     
 {"key":"盘搜","name":"🍂盘搜┃阿里","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
+"ext":"https://pastebin.com/raw/kH58Q8fU"},
     
 {"key":"易搜","name":"🍂易搜┃阿里","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
+"ext":"https://pastebin.com/raw/kH58Q8fU"},
 
 {"key":"找资源","name":"🍂找资源┃阿里","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
-"ext":"https://pastebin.com/raw/kH58Q8fU $$$xiaohutx$$$xiaohutx","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
+"ext":"https://pastebin.com/raw/kH58Q8fU $$$xiaohutx$$$xiaohutx"},
 
 {"key":"WoGG","name":"🧸玩偶┃阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://pastebin.com/raw/kH58Q8fU6"},
 
 {"key":"蜂蜜天下第一","name":"🐝七夜┃阿里","type":3,"api":"csp_Dovx","searchable":1,"filterable":1,"changeable":1,
-"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
+"ext":"https://pastebin.com/raw/kH58Q8fU"},
 
 {"key":"agent","name":"📤推送┃发射","type":3,"api":"csp_Push","searchable":1,"filterable":0,"changeable":0,
-"ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar;md5;b6ec08b3b229db2be16b5975104b7e56"},
+"ext":"https://pastebin.com/raw/kH58Q8fU"},
 
 
 
