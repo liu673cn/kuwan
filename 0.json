@@ -193,7 +193,7 @@
 
 {"key":"农民","name":"🌾影视┃农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
 
-{"key":"图图","name":"📚影视┃图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+{"key":"图图","name":"📚影视┃图图","type":3,"api":"csp_AppTT2","searchable":1,"quickSearch":1,"filterable":1,"ext":"dk1YWXFYbkhNbmlsU1JLI01kMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiTXpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 
 {"key":"工人","name":"👨‍🏭影视┃工人","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/工人.json"},
 
