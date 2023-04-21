@@ -87,9 +87,6 @@
 {"key":"找资源","name":"🍂找资源┃阿里","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
 "ext":"https://pastebin.com/raw/kH58Q8fU $$$xiaohutx$$$xiaohutx","jar":"./jar/fm.jar"},
 
-{"key":"WoGG","name":"🧸玩偶┃阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://pastebin.com/raw/kH58Q8fU6","jar":"./jar/0421.jar"},
-
 {"key":"蜂蜜天下第一","name":"🐝七夜┃阿里","type":3,"api":"csp_Dovx","searchable":1,"filterable":1,"changeable":1,
 "ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar"},
 
