@@ -7,6 +7,7 @@ var rule = {
     searchUrl:'',
     searchable:0,
     quickSearch:0,
+    filterable: 0,
     class_parse:'.nav-pills li;a&&Text;a&&href;/match/(\\d+)/live',
     headers:{
         'User-Agent':'PC_UA'
