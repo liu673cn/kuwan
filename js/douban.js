@@ -4,9 +4,9 @@ var rule = {
     apidoc:'https://www.doubanapi.com',
     homeUrl:'',
     searchUrl:'',
-    searchable:1,
-    quickSearch:1,
-    filterable:1,
+    searchable:0,
+    quickSearch:0,
+    filterable:0,
     // 分类链接fypage参数支持1个()表达式
     url:'/?pg=fypage&class=fyclass&douban=$douban',
     filter_url:'fl={{fl}}',
