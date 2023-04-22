@@ -87,7 +87,8 @@
 {"key":"找资源","name":"🍂找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
 "ext":"https://pastebin.com/raw/kH58Q8fU $$$xiaohutx$$$xiaohutx","jar":"./jar/fm.jar"},
 
-{"key":"玩偶","name":"🧸玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/kH58Q8fU"},
+{"key":"玩偶","name":"🧸玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://pastebin.com/raw/kH58Q8fU"},
 
 {"key":"蜂蜜天下第一","name":"🐝七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":1,"changeable":1,
 "ext":"https://pastebin.com/raw/kH58Q8fU","jar":"./jar/fm.jar"},
