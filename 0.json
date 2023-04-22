@@ -4,7 +4,7 @@
 
 {
 //jar
-"spider":"./jar/2.jar;md5;9e68633384b46594946581e4c49e799f",
+"spider":"./jar/1.jar;md5;613066b0150c902b3d51bde7a433be83",
 
 
 //壁纸
@@ -259,7 +259,7 @@
 
 //XYQHiker
 
-{"key":"异视琳琅","name":"🍋异视┃琳琅","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/异视琳琅.json"},
+{"key":"异视琳琅","name":"🍋异视┃琳琅","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/异视琳琅.json","jar":"./jar/xyq.jar"},
 
 {"key":"新视觉影视","name":"🍋新视觉┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/新视觉影院.json"},
 
