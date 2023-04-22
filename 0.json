@@ -4,7 +4,7 @@
 
 {
 //jar
-"spider":"./jar/0422.jar;md5;43927c91e9c631d24057be2e400dc8a5",
+"spider":"./jar/0.jar;md5;e0f1834b9ab1e4ee1ff37cdb21c4ca12",
 
 
 //壁纸
@@ -176,8 +176,6 @@
 {"key":"Cokemv","name":"🥥cokemv┃影视","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"Btwtoo","name":"2️⃣影视┃2Bt","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"1010","name":"🔟双十┃影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"七七","name":"👂影视┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   
 
