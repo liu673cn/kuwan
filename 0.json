@@ -283,6 +283,12 @@
 
 {"key":"段友影视","name":"🍋段友┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/段友影视.json"},
 
+{"key":"曲奇","name":"🍋曲奇┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/曲奇动漫.json"},
+
+{"key":"电影港影视","name":"🍋电影港┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/电影港磁力.json"},
+
+
+
 
 
 
