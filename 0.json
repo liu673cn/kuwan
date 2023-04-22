@@ -225,7 +225,6 @@
 
 {"key":"素白白","name":"🍓素白白┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/白白.js"},
 
-{"key":"九酷影院","name":"🍓九酷┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/九酷.js"},
 
 
 
@@ -247,8 +246,6 @@
 {"key":"淘剧","name":"️🍆淘剧┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/淘剧.json"},
 
 {"key":"兔兔瓜","name":"🍆兔兔瓜┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/兔兔瓜.json"},
-
-{"key":"3377影视","name":"🍆3377┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/3377影视.json"},
 
 {"key":"freeok","name":"🍆freeok┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/free.json"},
 
