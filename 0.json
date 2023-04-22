@@ -4,7 +4,7 @@
 
 {
 //jar
-"spider":"./jar/0.jar;md5;e0f1834b9ab1e4ee1ff37cdb21c4ca12",
+"spider":"./jar/0422.jar;md5;43927c91e9c631d24057be2e400dc8a5",
 
 
 //壁纸
@@ -179,8 +179,6 @@
 {"key":"Btwtoo","name":"2️⃣影视┃2Bt","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"七七","name":"👂影视┃七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   
-
-{"key":"百影","name":"🍳百影┃视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175"},
 
 {"key":"Libvio","name":"🧰libvio┃影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
 
