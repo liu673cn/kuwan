@@ -249,14 +249,17 @@
 
 {"key":"freeok","name":"🍆freeok┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/free.json"},
 
+{"key": "csp_XBPQ_异视",  "name": "异视",  "type": 3,  "api": "csp_XBPQ",  "searchable": 1,  "quickSearch": 1,  "filterable": 1,  "ext": "{\"免嗅\":\"1\",\"线路数组\": \"data-dropdown-value=&&</div>[排序:线路2]\",\"线路标题\": \"a&&Tex\",\"分类\":\"电影$1#剧集$2#动漫$3#综艺$4#纪录$5\",\"分类url\":\"https://www.14ll.tv/vodshow-{cateId}/class/{class}/area/{area}/year/{year}/by/{by}/page/{catePg}\"}"}, 
+
 
 
 
 
 
 //XYQHiker
+{"key":"爱看影院","name":"🍋爱看┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/爱看影院.json"},
 
-{"key":"新视觉影视","name":"🍋新视觉┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/新视觉影院.json"},
+{"key":"异视琳琅","name":"🍋异视┃琳琅","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/异视琳琅.json"},
 
 {"key":"爱看影院","name":"🍋爱看┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/爱看影院.json"},
 
