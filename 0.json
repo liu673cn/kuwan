@@ -170,7 +170,7 @@
 
 //精选
 
-{"key":"布雷","name":"🌩️影视┃布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"布雷","name":"🌩️影视┃布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://movie.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
 
 {"key":"神马","name":"🐎影视┃神马","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 
