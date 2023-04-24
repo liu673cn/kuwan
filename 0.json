@@ -234,6 +234,8 @@
 //XBPQ
 {"key":"voflix","name":"🍆voflix┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/voflix.json"},
 
+{"key":"新视觉","name":"🍆新视觉┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/新视觉.json"},
+
 {"key":"555影视","name":"🍆555┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/555.json"},
 
 {"key":"乐猪影视","name":"🍆乐猪┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/乐猪.json"},
@@ -261,7 +263,6 @@
 {"key":"看看剧","name":"🍆看看┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
 
 
-{"key":"11","name":"🍆11┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/miao.json"},
 
 
 
