@@ -270,6 +270,8 @@
 
 //XYQHiker
 
+{"key":"新视觉影院","name":"🍋新视觉┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/新视觉.json"},
+
 {"key":"异视琳琅","name":"🍋异视┃琳琅","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/异视琳琅.json","jar":"./jar/xyq.jar"},
 
 {"key":"爱看影院","name":"🍋爱看┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/爱看影院.json"},
