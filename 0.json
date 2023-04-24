@@ -192,7 +192,7 @@
 
 {"key":"YQK","name":"🙌一起看┃TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
 
-{"key":"新视觉","name":"🙈新视觉┃影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
+{"key":"视觉","name":"🙈新视觉┃影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 
 {"key":"快看","name":"👀影视┃快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -269,8 +269,6 @@
 
 
 //XYQHiker
-
-{"key":"新视觉影视","name":"🍋新视觉┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/新视觉影院.json"},
 
 {"key":"异视琳琅","name":"🍋异视┃琳琅","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/异视琳琅.json","jar":"./jar/xyq.jar"},
 
