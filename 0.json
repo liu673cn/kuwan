@@ -100,13 +100,14 @@
 
 
 
-//bilibili
+//bilibili--et
 
-{"key":"csp_Bili","name":"🅱️哔哩┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/bz.json"},
+{"key":"Bili","name":"🅱️哔哩┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/bz.json"},
 
 {"key":"bili直播","name":"🅱️哔哩┃直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/blzb.js"},
 
 
+{"key":"少儿","name":"🧒少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/少儿教育.json"},
 
 {"key":"兔小贝","name":"🐰兔兔┃小贝","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/兔小贝.json"},
 
@@ -204,7 +205,7 @@
 
 {"key":"789看片","name":"7️⃣789┃看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/789.json"},
 
-{"key":"AppMr","name":"🧒影视┃小明","type":3,"api":"csp_AppMr","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"AppMr","name":"👼影视┃小明","type":3,"api":"csp_AppMr","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 
 
 
