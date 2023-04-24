@@ -242,8 +242,6 @@
 
 {"key":"007影视","name":"🍆007┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/007.json"},
 
-{"key":"看看剧","name":"🍆看看┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
-
 {"key":"电影先生","name":"🍆电影┃先生","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/tvxs.json"},
 
 {"key":"奇优","name":"🍆奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优影视.json"},
@@ -252,7 +250,12 @@
 
 {"key":"兔兔瓜","name":"🍆兔兔瓜┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/兔兔瓜.json"},
 
-{"key":"freeok","name":"🍆freeok┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/free.json"},
+{"key":"free","name":"🍆freeok┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/free.json"},
+
+{"key":"野荷塘","name":"🍆野荷塘┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/野荷塘.json"},
+
+{"key":"看看剧","name":"🍆看看┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
+
 
 
 
@@ -268,8 +271,6 @@
 {"key":"爱看影院","name":"🍋爱看┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/爱看影院.json"},
 
 {"key":"爱看影视","name":"🍋爱看┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/爱看.json"},
-
-{"key":"野荷塘影院","name":"🍋野荷塘┃影院","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/野荷塘影院.json"},
 
 {"key":"红领巾影院","name":"🍋红领巾┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/红领巾影院.json"},
 
