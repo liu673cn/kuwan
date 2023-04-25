@@ -42,7 +42,7 @@
 
 //官源
 
-{"key":"小猫咪","name":"🐱小猫咪┃官采","type":1,"api":"http://zy.xiaomaomi.vip/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+{"key":"小猫咪","name":"🐱小猫咪┃官采","type":1,"api":"http://zy.xiaomaomi.vip/api.php/provide/vod","searchable":1,"quickSearch":1},
 
 {"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 
