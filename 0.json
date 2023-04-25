@@ -266,6 +266,13 @@
 
 {"key":"影视大全","name":"🍆影视┃大全","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/影视大全.json"},
 
+{"key":"胖虎","name":"🍆胖虎┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/胖虎.json"},
+
+{"key":"思古","name":"🍆思古┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/思古.json"},
+
+
+
+
 
 
 
