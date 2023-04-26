@@ -1,3 +1,22 @@
+/* 直播弹幕 -> vod_area:'bililivedanmu'
+目前只有皮皮虾大佬的DMBox, 支持弹幕
+DMBox下载:https://t.me/pipixiawerun
+设置 > 窗口预览 > 开启
+*/
+
+/* Cookie设置
+Cookie获取方法 https://github.com/UndCover/PyramidStore/blob/main/list.md#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9
+
+Cookie设置方法1: DR-PY 后台管理界面
+CMS后台管理 > 设置中心 > 环境变量 > {"bili_cookie":"XXXXXXX","vmid":"XXXXXX"} > 保存
+
+Cookie设置方法2: 手动替换Cookie
+底下代码 headers的
+"Cookie":"$bili_cookie"
+手动替换为
+"Cookie":"将获取的Cookie黏贴在这"
+*/
+
 var rule = {
     title:'哔哩直播',
     host:'https://api.live.bilibili.com',
@@ -5,7 +24,7 @@ var rule = {
     url:'/xlive/web-interface/v1/second/getList?platform=web&parent_area_id=fyclass&area_id=fyfilter&sort_type=online&page=fypage',
     class_name:'娱乐&网游&手游&单机游戏&电台&虚拟主播&生活&知识&赛事&购物',
     class_url:'10&2&3&6&1&5&9&11&13&300',
-    filterable: 0,
+    filterable: 1,
     filter_url: '{{fl.area}}',
     filter_def:{
         10:{area:'33'},
@@ -35,7 +54,7 @@ var rule = {
     // detailUrl:'https://api.live.bilibili.com/xlive/web-room/v1/playUrl/playUrl?cid=fyid&platform=h5&otype=json&quality=0',//二级详情拼接链接(json格式用)
     // searchUrl:'/x/web-interface/search/type?__refresh__=true&page=fypage&page_size=42&order=online&platform=pc&highlight=1&single_column=0&keyword=**&search_type=live&dynamic_offset=0&preload=true',
     searchUrl:'https://api.bilibili.com/x/web-interface/search/type?search_type=live&keyword=**&page=1',
-    searchable:0,
+    searchable:2,
     quickSearch:0,
     headers:{
         "User-Agent":"PC_UA",
@@ -55,5 +74,5 @@ var rule = {
     // 二级:'*',
     二级:"js:let aid=input.match(/\\/(\\d+)/)[1];log(aid);let html=request('https://api.live.bilibili.com/room/v1/Room/get_info?room_id='+aid);let jo=JSON.parse(html).data;let title=jo['title'];let pic=jo['keyframe'];let desc=jo['description'];let dire=jo['uid'];let typeName=jo['area_name'];let remark='在线人数:'+jo['online'];let vod={vod_id:aid,vod_name:title,vod_pic:pic,type_name:typeName,vod_area:'bililivedanmu',vod_remarks:remark,vod_actor:'直播间id-'+aid,vod_director:dire,vod_content:desc};vod['vod_play_from']='B站';vod['vod_play_url']='flv线路原画$platform=web&quality=4_'+aid+'#flv线路高清$platform=web&quality=3_'+aid+'#h5线路原画$platform=h5&quality=4_'+aid+'#h5线路高清$platform=h5&quality=3_'+aid;VOD=vod;",
     // 搜索:'json:data.result.live_room;title;cover;uname;roomid',
-    搜索:'js:let html=request(input);let msg=JSON.parse(html).message;if(msg!=="0"){VODS=[{vod_name:KEY+"➢"+msg,vod_id:"no_data",vod_remarks:"别点,缺少bili_cookie",vod_pic:"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/404.jpg"}]}else{let videos=[];let vodList=JSON.parse(html).data.result.live_room;vodList.forEach(function(vod){let aid=vod["roomid"];let title="直播间："+vod["title"].replace(\'<em class="keyword">\',"").replace("</em>","");let img="https:"+vod["user_cover"];let remark=vod["watched_show"]["text_small"]+"  "+vod["uname"];videos.push({vod_id:aid,vod_name:title,vod_pic:img,vod_remarks:remark})});VODS=videos}',
+    搜索:'js:let html=request(input);let msg=JSON.parse(html).message;if(msg!=="0"){VODS=[{vod_name:KEY+"➢"+msg,vod_id:"no_data",vod_remarks:"别点,缺少bili_cookie",vod_pic:"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/404.jpg"}]}else{let videos=[];let vodList=JSON.parse(html).data.result.live_room;vodList.forEach(function(vod){let aid=vod["roomid"];let title="直播间："+vod["title"].replace(\'<em class="keyword">\',"").replace("</em>","");let img="https:"+vod["user_cover"];let remark=vod["watched_show"]["text_small"]+"  "+vod["uname"];videos.push({vod_id:aid,vod_name:title,vod_pic:img,vod_remarks:remark})});VODS=videos}',
 }
