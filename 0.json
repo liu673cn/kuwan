@@ -265,8 +265,7 @@
 
 {"key":"思古","name":"🍆思古┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/思古.json"},
 
-{"key":"rr","name":"🍆rr┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/rr.json"},
-
+    {"key":"csp_XBPQ_ren","name":"ren丨xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"数组":"class=\"module-item\"&&</div>","分类":"影视库$all","分类url":"https://www.renren.pro/list/{cateId}?page={catePg}"}},
 
 
 
