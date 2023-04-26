@@ -4,7 +4,7 @@ var rule = {
     url:'/fyclass-fypage&vmid=$vmid',
     detailUrl:'/pgc/view/web/season?season_id=fyid',
     filter_url:'fl={{fl}}',
-    vmid获取教程:'登录后访问https://api.bilibili.com/x/web-interface/nav,搜索mid就是,cookie需要 bili_jct,DedeUserID,SESSDATA参数',
+    vmid获取教程:'86486423',
     searchUrl:'/x/web-interface/search/type?keyword=**&search_type=',
     searchable:1,
     filterable:1,
@@ -12,7 +12,7 @@ var rule = {
     headers:{
         'User-Agent':'PC_UA',
         "Referer": "https://www.bilibili.com",
-        "Cookie":"$bili_cookie"
+        "Cookie":"buvid3=2615F1B8-EFDC-E9FF-0D9A-EF0DEDCCD32791177infoc; b_nut=1681359091; CURRENT_FNVAL=4048; _uuid=1083ADDE7-E7DC-375A-F5EA-884499422A6391162infoc; CURRENT_PID=457cf7d0-d9b1-11ed-8c45-436e6ad51751; rpdid=|(umRJJYJJ|m0J'uY)uJlm|mk; i-wanna-go-back=-1; FEED_LIVE_VERSION=V8; header_theme_version=CLOSE; nostalgia_conf=-1; fingerprint=513fc940f3432b1abb193c81e17046e5; buvid_fp_plain=undefined; DedeUserID=86486423; DedeUserID__ckMd5=c6b8205b530ab631; buvid_fp=513fc940f3432b1abb193c81e17046e5; buvid4=537FCD52-87A8-DC52-364E-D698B1D6908292318-023041312-6KVx/MIlcVvpnErLy4yhbg==; b_ut=5; CURRENT_QUALITY=80; bp_video_offset_86486423=787001449521348600; PVID=1; SESSDATA=0dc9d233,1698026181,2d9d8*41; bili_jct=b1141b524be1be109700c7ab0b3c5050; sid=gmbrmxaa; innersign=0; b_lsid=C1F9B14A_187BC49C9C8; home_feed_column=4; browser_resolution=1060-964"
     },
     timeout:5000,
     class_name:'番剧&国创&电影&电视剧&纪录片&综艺&全部&追番&追剧&时间表',
