@@ -2,7 +2,7 @@
 "数组":"class=\"module-item\"&&</div>",
 "分类":"影视库$all",
 "分类url":"https://www.renren.pro/list/{cateId}?page={catePg}",
-"搜索模式": "0",
+"搜索模式": "1",
 "搜索url": "/search?wd={wd}"
 
 
