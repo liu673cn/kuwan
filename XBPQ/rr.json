@@ -3,7 +3,7 @@
 "分类":"影视库$all",
 "分类url":"https://www.renren.pro/list/{cateId}?page={catePg}",
 "搜索模式": "1",
-"搜索url": "/search?wd={wd}"
+"搜索url": "https://www.renren.pro/search?wd={wd}"
 
 
 },
