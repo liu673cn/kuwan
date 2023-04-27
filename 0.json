@@ -226,6 +226,9 @@
 
 {"key":"饭团","name":"🍓饭团┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/饭团影视.js"},
 
+{"key":"低端","name":"🍓低端┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/低端.js"},
+
+
 
 
 
@@ -242,8 +245,6 @@
 {"key":"乐猪影视","name":"🍆乐猪┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/乐猪.json"},
 
 {"key":"二次萌","name":"🍆二次萌┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/二次萌.json"},
-
-{"key":"一龙","name":"🍆一龙┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/一龙.json"},
 
 {"key":"奇优","name":"🍆奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优影视.json"},
 
