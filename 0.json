@@ -142,11 +142,11 @@
 {"key":"找资源","name":"🐷找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt $$$xiaohutx$$$xiaohutx","jar":"./jar/fm.jar"},
 
+{"key":"七夜","name":"🐨七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":1,"changeable":1,
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/fm.jar"},
+
 {"key":"玩偶","name":"🧸玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
-
-{"key":"蜂蜜天下第一","name":"🐝七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":1,"changeable":1,
-"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/fm.jar"},
 
 {"key":"agent","name":"📤推送┃发射","type":3,"api":"csp_Push","searchable":1,"filterable":0,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/fm.jar"},
