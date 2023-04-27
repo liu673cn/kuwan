@@ -259,6 +259,11 @@
 
 {"key":"思古","name":"🍆思古┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/思古.json"},
 
+{"key":"人人","name":"🍆人人┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/人人影视.json"},
+
+{"key":"霹雳","name":"🍆霹雳┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/霹雳影视.json"},
+
+{"key":"23影视","name":"🍆23┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/23影视.json"},
 
 
 
