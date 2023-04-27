@@ -356,7 +356,7 @@
 
 {"name":"线路10","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
 
-{"name":"线路11","type":1,"url":"https://api.json.icu/api/?key=5c22918440e3fa30cfd2da50264ff210&url=","ext":{"header":{"User-Agent":"Mozilla/5.0(Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36"}}},
+{"name":"线路11","type":1,"url":"https://api.json.icu/api/?key=5c22918440e3fa30cfd2da50264ff210&url="},
 
 {"name":"线路12","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 
