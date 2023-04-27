@@ -208,8 +208,6 @@
 //js
 {"key":"低端","name":"🍓低端┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/低端.js"},
 
-{"key":"大豆","name":"🍓大豆┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大豆.js"},
-
 {"key":"双十","name":"🍓双十┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/1010.js"},
 
 {"key":"皮皮鸭","name":"🍓皮皮鸭┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
