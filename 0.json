@@ -331,7 +331,11 @@
 
 {"name":"Web聚合","type":3,"url":"Web"},
 
-{"name":"线路0","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
+{"name":"线路0","type":0,"url":"https://player.iizny.com/?url="},
+
+{"name":"线路00","type":0,"url":"http://jxapi.wutao7.top/miui/?url="},
+
+{"name":"线路000","type":1,"url":"http://jxapi.wutao7.top/XL/?url="},
 
 {"name":"线路1","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="},
 
