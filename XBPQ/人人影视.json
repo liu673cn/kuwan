@@ -1,0 +1,25 @@
+{
+  "站名": "人人影视",
+  "主页url": "https://www.renren.pro",
+  "数组": "<div class=\"module-item-pic\">&&<div class=\"module-item\">",
+  "副标题":"class=\"module-item-text\">&&</div>",
+      
+  "分类": "影视库$all",
+  "分类url": "https://www.renren.pro/list/all?page={catePg}",
+    
+  "搜索url":"/search?wd={wd}",
+  "搜索数组": "<div class=\"module-item-pic\">&&<h3>",
+  "搜索图片": "data-src=\"&&\"",
+  "搜索标题": "alt=\"&&\"",
+  "搜索链接": "href=\"&&\"",
+  "搜索副标题": "<a class=\"video-serial*\">&&</a>",
+  
+
+  
+  "类型":"<a class=\"tag-link\">&&</div>",
+  "简介":"<h1 class=\"title-info\">&&<br>",
+  
+  "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+  
+  "播放数组": "<div class=\"module-blocklist\">&&</main>"
+  }
