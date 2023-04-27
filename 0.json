@@ -175,8 +175,6 @@
 
 {"key":"csp_555","name":"5️⃣555┃影视","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
 
-{"key":"饭团","name":"🍙饭团┃影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
-
 {"key":"农民","name":"🌾农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
 
 {"key":"YQK","name":"🙌一起看┃TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
