@@ -188,8 +188,6 @@
 
 //{"key":"bidi","name":"💧哔嘀┃影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"工人","name":"👨‍🏭工人┃影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XPath/工人.json"},
-
 {"key":"789看片","name":"7️⃣789┃看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XPath/789.json"},
 
 {"key":"AppMr","name":"👼小明┃影视","type":3,"api":"csp_AppMr","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
