@@ -52,7 +52,7 @@
 
 {"key":"搜狗","name":"🐶搜狗┃视频","type":3,"api":"./lib/drpy2.min.js","ext":"./js/sougou.js"},
 
-{"key":"芒果","name":"🥭芒果┃TV","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mangguo.js"},
+{"key":"芒果","name":"🥭芒果┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/mangguo.js"},
 
 {"key":"py_xigua","name":"🍉西瓜┃视频","type":3,"api":"py_xigua","searchable":0,"quickSearch":0,"filterable":0,"ext":"./py/xigua.py"},
 
@@ -124,28 +124,28 @@
 
 
 //阿里
-{"key":"纸条","name":"📋纸条┃4K","type":3,"api":"csp_Paper","searchable":1,"quickSearch":0,"filterable":0,
+{"key":"纸条","name":"📋纸条┃阿里","type":3,"api":"csp_Paper","searchable":1,"quickSearch":0,"filterable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/fm.jar"},
 
-{"key":"Gitcafe","name":"📰纸条2┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"Gitcafe","name":"📰纸条┃阿里","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/xyq.jar"},
 
-{"key":"云搜","name":"🐷云搜┃4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":0,"filterable":0,
+{"key":"云搜","name":"🐷云搜┃阿里","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":0,"filterable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/fm.jar"},
     
-{"key":"盘搜","name":"🐷盘搜┃4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":0,"filterable":0,
+{"key":"盘搜","name":"🐷盘搜┃阿里","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":0,"filterable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/fm.jar"},
     
-{"key":"易搜","name":"🐷易搜┃4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":0,"filterable":0,
+{"key":"易搜","name":"🐷易搜┃阿里","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":0,"filterable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/fm.jar"},
 
-{"key":"找资源","name":"🐷找资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
+{"key":"找资源","name":"🐷资源┃阿里","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt $$$xiaohutx$$$xiaohutx","jar":"./jar/fm.jar"},
 
-{"key":"七夜","name":"🐨七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":1,"changeable":1,
+{"key":"七夜","name":"🐨七夜┃阿里","type":3,"api":"csp_Dovx","searchable":1,"filterable":1,"changeable":1,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/fm.jar"},
 
-{"key":"玩偶","name":"🧸玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"玩偶","name":"🧸玩偶┃阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 
 {"key":"agent","name":"📤推送┃发射","type":3,"api":"csp_Push","searchable":1,"filterable":0,"changeable":0,
@@ -162,7 +162,7 @@
 
 {"key":"神马","name":"🐎神马┃影视","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"Cokemv","name":"🥥cokemv┃影视","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Cokemv","name":"🥥coke┃影视","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Czsapp","name":"🏭厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -170,11 +170,11 @@
 
 //{"key":"vofl","name":"🔰Voflix┃影视","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"视觉","name":"🙈新视觉┃影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
+{"key":"视觉","name":"🙈视觉┃影视","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 
 {"key":"七七","name":"👂七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   
 
-{"key":"Libvio","name":"🧰libvio┃影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
+{"key":"Libvio","name":"🧰libv┃影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
 
 //{"key":"饭团","name":"🍙饭团┃影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 
