@@ -70,7 +70,7 @@
 
 {"key":"兔小贝","name":"🐰兔兔┃小贝","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/兔小贝.json"},
 
-{"key":"兔小贝2","name":"🐇兔兔┃小贝2","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/兔小贝2.json"},
+{"key":"兔小贝2","name":"🐇兔兔┃小贝","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/兔小贝2.json"},
 
 
 
@@ -85,11 +85,11 @@
 
 {"key":"csp_Ying","name":"🌸樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"路漫漫","name":"🚶路漫漫┃动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/路漫漫.js"},
+{"key":"路漫漫","name":"🚶漫漫┃动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/路漫漫.js"},
 
 {"key":"nt动漫","name":"🧬NT┃动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ntdm.js"},
 
-{"key":"去看吧","name":"💨去看吧┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/去看吧.json"},
+{"key":"去看吧","name":"💨去看┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/去看吧.json"},
 
 {"key":"维奇","name":"🧣维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/维奇.json"},
 
@@ -212,7 +212,7 @@
 
 {"key":"皮皮鸭","name":"🍓皮皮鸭┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 
-{"key":"libvio","name":"🍓libvio┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/libvio.js"},
+//{"key":"libvio","name":"🍓libvio┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/libvio.js"},
 
 {"key":"影视之家","name":"🍓影视┃之家","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影视之家.js"},
 
