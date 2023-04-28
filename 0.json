@@ -231,7 +231,7 @@
 
 {"key":"大米","name":"🍓大米┃星球","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球.js"},
 
-{"key":"花猫","name":"🍓花猫┃TV","type":3,"api":"./lib/drpy2.min.js","ext":"./js/花猫TV.js"},
+{"key":"花猫","name":"🍓花猫┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/花猫TV.js"},
 
 
 
