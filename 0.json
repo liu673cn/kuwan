@@ -103,11 +103,11 @@
 
 {"key":"直播转点播","name":"📺电视┃直播","type":3,"api":"./js/直播转点播.js","ext":"./json/直播仓.json"},
 
-{"key":"腾讯体育","name":"🐧腾讯┃体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/txty.json"},
+{"key":"腾讯体育","name":"🐧腾讯┃体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/txty.json"},
 
 {"key":"88看球","name":"🏀八八┃看球","type":3,"api":"./lib/drpy2.min.js","ext":"./js/88kq.js"},
 
-{"key":"JRS","name":"🏐JRS┃直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/jrs直播.json"},
+{"key":"JRS","name":"🏐JRS┃直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/jrs直播.json"},
 
 {"key":"310直播","name":"⚽310┃直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/310.js"},
 
@@ -188,9 +188,9 @@
 
 //{"key":"bidi","name":"💧哔嘀┃影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"工人","name":"👨‍🏭工人┃影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/工人.json"},
+{"key":"工人","name":"👨‍🏭工人┃影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XPath/工人.json"},
 
-{"key":"789看片","name":"7️⃣789┃看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/789.json"},
+{"key":"789看片","name":"7️⃣789┃看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XPath/789.json"},
 
 {"key":"AppMr","name":"👼小明┃影视","type":3,"api":"csp_AppMr","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 
