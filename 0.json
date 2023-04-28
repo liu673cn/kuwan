@@ -212,7 +212,7 @@
 
 {"key":"皮皮鸭","name":"🍓皮皮鸭┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 
-//{"key":"libvio","name":"🍓libvio┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/libvio.js"},
+{"key":"libvio","name":"🍓Libo┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/libvio.js"},
 
 {"key":"影视之家","name":"🍓影视┃之家","type":3,"api":"./lib/drpy2.min.js","ext":"./js/影视之家.js"},
 
