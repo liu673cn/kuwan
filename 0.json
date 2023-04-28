@@ -202,7 +202,6 @@
 
 
 
-
 //js
 {"key":"低端","name":"🍓低端┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/低端.js"},
 
@@ -237,46 +236,32 @@
 
 
 
-
 //XBPQ
 {"key":"热播","name":"🍆热播┃之家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/热播.json"},
 
 {"key":"人人","name":"🍆人人┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/人人影视.json"},
 
-{"key":"voflix","name":"🍆Vofx┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/voflix.json"},
-
 {"key":"555影视","name":"🍆555┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/555.json"},
+
+{"key":"奇优","name":"🍆奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优影视.json"},
+
+{"key":"vofx","name":"🍆Vofx┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/voflix.json"},
+
+{"key":"007影视","name":"🍆007┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/007.json"},
 
 {"key":"乐猪影视","name":"🍆乐猪┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/乐猪.json"},
 
 {"key":"二次萌","name":"🍆二萌┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/二次萌.json"},
 
-{"key":"奇优","name":"🍆奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优影视.json"},
-
-{"key":"干饭","name":"🍆干饭┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/干饭.json"},
-
-{"key":"淘剧","name":"️🍆淘剧┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/淘剧.json"},
-
 {"key":"兔兔瓜","name":"🍆兔兔┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/兔兔瓜.json"},
 
 {"key":"free","name":"🍆Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/free.json"},
 
-{"key":"野荷塘","name":"🍆荷塘┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/野荷塘.json"},
-
-{"key":"007影视","name":"🍆007┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/007.json"},
-
-{"key":"电影先生","name":"🍆电影┃先生","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/tvxs.json"},
-
 {"key":"看看剧","name":"🍆看看┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
-
-{"key":"端木","name":"🍆端木┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/端木.json"},
 
 {"key":"影视大全","name":"🍆影视┃大全","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/影视大全.json"},
 
 {"key":"思古","name":"🍆思古┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/思古.json"},
-
-{"key":"23影视","name":"🍆二三┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/23影视.json"},
-
 
 
 
@@ -286,15 +271,9 @@
 
 {"key":"异视琳琅","name":"🍋异视┃琳琅","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/异视琳琅.json","jar":"./jar/xyq.jar"},
 
-{"key":"红领巾影院","name":"🍋红巾┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/红领巾影院.json"},
-
 {"key":"55影视","name":"🍋五五┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/55影视.json"},
 
-{"key":"星辰影院","name":"🍋星辰┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/星辰.json"},
-
 {"key":"段友影视","name":"🍋段友┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/段友影视.json"},
-
-
 
 
 
@@ -309,9 +288,6 @@
 {"key":"非凡","name":"🦉资源┃非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod","playUrl":"https://dx.maclsj.com/players/ali/pc.php?url=","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"量子","name":"🏂资源┃量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","playUrl":"https://dx.maclsj.com/players/ali/pc.php?url=","searchable":1,"quickSearch":1,"filterable":1},
-
-
-
 
 
 
