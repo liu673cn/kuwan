@@ -210,6 +210,8 @@
 
 {"key":"双十","name":"🍓双十┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/1010.js"},
 
+{"key":"酷客","name":"🍓酷客┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷客.js"},
+
 {"key":"皮皮鸭","name":"🍓皮皮鸭┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 
 {"key":"libvio","name":"🍓Libo┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/libvio.js"},
@@ -229,6 +231,11 @@
 {"key":"饭团","name":"🍓饭团┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/饭团影视.js"},
 
 {"key":"爱看","name":"🍓爱看┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
+
+{"key":"大米","name":"🍓大米┃星球","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球.js"},
+
+{"key":"花猫","name":"🍓花猫┃TV","type":3,"api":"./lib/drpy2.min.js","ext":"./js/花猫TV.js"},
+
 
 
 
@@ -292,15 +299,6 @@
 {"key":"段友影视","name":"🍋段友┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/段友影视.json"},
 
 
-
-
-//XYQbiu
-
-{"key":"酷客影视","name":"🍄酷客┃影视","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQB/酷客影视.json"},
-
-{"key":"花猫","name":"🍄花猫┃TV","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQB/花猫.json"},
-
-{"key":"大米星球","name":"🍄大米┃星球","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQB/大米星球.json"},
 
 
 
