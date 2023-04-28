@@ -1,7 +1,7 @@
 // 网址发布页 https://fb.pan.lu/
 // 搜索安全验证
 var rule={
-    title:'追剧兔',
+    title:'速搜影院',
     host:'https://www.sstv.pw',
     // url:'/vodshow-fyclass/page/fypage/',
     url:'/vodshow-fyclassfyfilter/',
