@@ -212,11 +212,11 @@
 
 {"key":"速搜","name":"🍓速搜┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/速搜影院.js"},
 
-{"key":"皮皮鸭","name":"🍓皮皮鸭┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
+{"key":"皮皮鸭","name":"🍓皮皮┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 
 {"key":"libvio","name":"🍓Libo┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/libvio.js"},
 
-{"key":"鸭奈飞","name":"🍓鸭奈飞┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/鸭奈飞.js"},
+{"key":"鸭奈飞","name":"🍓奈飞┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/鸭奈飞.js"},
 
 {"key":"城市影视","name":"🍓城市┃电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/城市.js"},
 
@@ -224,7 +224,7 @@
 
 {"key":"七年影视","name":"🍓七年┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/七年.js"},
 
-{"key":"素白白","name":"🍓素白白┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/白白.js"},
+{"key":"素白白","name":"🍓白白┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/白白.js"},
 
 {"key":"饭团","name":"🍓饭团┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/饭团影视.js"},
 
@@ -249,7 +249,7 @@
 
 {"key":"乐猪影视","name":"🍆乐猪┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/乐猪.json"},
 
-{"key":"二次萌","name":"🍆二次萌┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/二次萌.json"},
+{"key":"二次萌","name":"🍆二萌┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/二次萌.json"},
 
 {"key":"奇优","name":"🍆奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优影视.json"},
 
@@ -257,11 +257,11 @@
 
 {"key":"淘剧","name":"️🍆淘剧┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/淘剧.json"},
 
-{"key":"兔兔瓜","name":"🍆兔兔瓜┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/兔兔瓜.json"},
+{"key":"兔兔瓜","name":"🍆兔兔┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/兔兔瓜.json"},
 
 {"key":"free","name":"🍆Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/free.json"},
 
-{"key":"野荷塘","name":"🍆野荷塘┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/野荷塘.json"},
+{"key":"野荷塘","name":"🍆荷塘┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/野荷塘.json"},
 
 {"key":"007影视","name":"🍆007┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/007.json"},
 
