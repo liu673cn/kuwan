@@ -168,7 +168,7 @@
 
 {"key":"TT","name":"🐰图图┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"dldYWXFObkhNTWlsV1pMdFNSSyN0ME1JdzVJQVJyY3I=$$$Q2hpbko5UzdvNnNZbU1WTQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 
-//{"key":"vofl","name":"🔰Vofx┃影视","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"vofl","name":"🔰Vofx┃影视","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"视觉","name":"🙈视觉┃影院","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 
@@ -206,9 +206,11 @@
 //js
 {"key":"低端","name":"🍓低端┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/低端.js"},
 
+{"key":"酷客","name":"🍓酷客┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷客.js"},
+
 {"key":"双十","name":"🍓双十┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/1010.js"},
 
-{"key":"酷客","name":"🍓酷客┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷客.js"},
+{"key":"速搜","name":"🍓速搜┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/速搜影院.js"},
 
 {"key":"皮皮鸭","name":"🍓皮皮鸭┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 
