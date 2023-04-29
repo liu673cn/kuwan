@@ -245,6 +245,8 @@
 
 {"key":"人人","name":"🍆人人┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/人人影视.json"},
 
+{"key":"大豆","name":"🍆大豆┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/大豆.json"},
+
 {"key":"555影视","name":"🍆555┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/555.json"},
 
 {"key":"奇优","name":"🍆奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优影视.json"},
