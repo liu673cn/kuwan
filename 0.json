@@ -272,8 +272,6 @@
 
 
 //XYQHiker
-{"key":"大豆影视","name":"🍐大豆┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/大豆影视.json"},
-
 {"key":"异视琳琅","name":"🍐异视┃琳琅","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/异视琳琅.json","jar":"./jar/xyq.jar"},
 
 {"key":"55影视","name":"🍐五五┃影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/55影视.json"},
