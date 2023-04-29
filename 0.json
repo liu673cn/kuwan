@@ -41,8 +41,6 @@
 
 {"key":"泥巴","name":"🗻NiB┃起飞","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":1},
 
-{"key":"101","name":"🪕101┃起飞","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"trj","name":"🛫TRJ┃起飞","type":3,"api": "csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 
 
