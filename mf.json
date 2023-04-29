@@ -1,5 +1,5 @@
 {
-  "spider": "fm.jar;md5;9eb909e7a180e28b617c5fd15bda5b22",
+  "spider": "./jar/fm.jar;md5;9eb909e7a180e28b617c5fd15bda5b22",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "sites": [
     {
