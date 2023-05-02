@@ -142,7 +142,10 @@
     
 {"key":"盘搜","name":"🐷盘搜┃原画","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":0,"filterable":0,
 "ext":"http://127.0.0.1:9978/file/xiaohu/tok.txt","jar":"./jar/fm.jar"},
-    
+
+{"key":"Yisou","name":"🐷易搜┃原画","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/xyq.jar"},
+
 //{"key":"易搜","name":"🐷易搜┃原画","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":0,"filterable":0,
 //"ext":"http://127.0.0.1:9978/file/xiaohu/tok.txt","jar":"./jar/fm.jar"},
 
