@@ -1,0 +1,46 @@
+{
+
+"站名": "bttwoo",
+"主页url": "https://www.bttwo.net",
+"请求头": "",
+"头部集合": "",
+
+//"二次截取": "class=\"bt_img&&/ul",
+"数组": "<li>&&</a>",
+"图片":"data-original=\"&&\"",
+"标题":"alt=\"&&\"",
+"链接":"href=\"&&\"",
+"副标题":"class=\"jidi\">&&</span>",
+
+"搜索模式": "1",
+"搜索url": "https://www.bttwoo.com/xssearch?q={wd}",
+"搜索二次截取": "class=\"bt_img&&footer",
+"数组": "<li><a&&</li>",
+"搜索图片":"data-original=\"&&\"",
+"搜索标题":"alt=\"&&\"",
+"搜索链接":"href=\"&&\"",
+"搜索副标题":"class=\"jidi\">&&</span>",
+
+
+"线路数组": "在线播放&&</div>",
+"线路标题": "<span>&&</span>",
+
+"类型": "年份：&&</li>",
+"导演": "导演：&&</li>",
+"主演": "主演：&&</li>",
+"简介": "电影介绍&&</p>",
+
+
+"播放数组":"<div class=\"paly_list_btn\">&&</div>",
+"播放列表":"<a&&/a>",
+"播放标题":">&&<",
+"播放链接":"href=\"&&\"",
+//"播放链接前缀":"https://www.bttwoo.com",
+
+
+"免嗅":"0",
+"分类":"电影$new-movie#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv",
+"分类url":"https://www.bttwo.net/{cateId}/page/{catePg}"
+
+
+}
