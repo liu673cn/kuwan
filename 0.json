@@ -141,7 +141,7 @@
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/fm.jar"},
 
 {"key":"易搜","name":"🐷易搜┃阿里","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":0,"filterable":0,
-"ext":"http://127.0.0.1:9978/file/xiaohu/tok.txt","jar":"./jar/fm1.jar"},
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/fm1.jar"},
 
 {"key":"找资源","name":"🐷资源┃阿里","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt $$$xiaohutx$$$xiaohutx","jar":"./jar/fm.jar"},
