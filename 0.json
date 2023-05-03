@@ -131,8 +131,6 @@
 
 
 //阿里
-{"key":"Gitcafe","name":"📀小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/xyq.jar"},
 
 {"key":"盤搜索","name":"🐷搜索┃阿里","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/1.jar"},
