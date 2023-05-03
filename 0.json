@@ -238,6 +238,8 @@
 
 
 //XBPQ
+{"key":"vidhub","name":"🍆Vidh┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/vidhub.json"},
+
 {"key":"热播","name":"🍆热播┃之家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/热播.json"},
 
 {"key":"人人","name":"🍆人人┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/人人影视.json"},
