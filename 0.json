@@ -193,15 +193,7 @@
 
 {"key":"69美剧","name":"🏕️六九┃美剧","type":3,"api":"csp_AppYsV2","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 
-//{"key":"Btwtoo","name":"2️⃣2BT┃影视","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 
-//{"key":"饭团","name":"🍙饭团┃影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
-
-//{"key":"1010","name":"🔟双十┃影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-
-//{"key":"vofl","name":"🔰Vofx┃影视","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
-
-//{"key":"bidi","name":"💧哔嘀┃影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
 
 
@@ -240,6 +232,11 @@
 
 {"key":"花猫","name":"🍓花猫┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/花猫TV.js"},
 
+{"key":"乐猪","name":"🍓乐猪┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/乐猪.js"},
+
+{"key":"厂长","name":"🍓厂长┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/厂长.js"},
+
+{"key":"骚火","name":"🍓骚火┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/骚火.js"},
 
 
 
@@ -256,8 +253,6 @@
 
 {"key":"二次萌","name":"🍆二萌┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/二次萌.json"},
 
-{"key":"2bt","name":"🍆2BT┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/2bt.json"},
-
 {"key":"热播库","name":"🍆热播┃影库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/热播库.json"},
 
 {"key":"野荷塘","name":"🍆荷塘┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/野荷塘.json"},
@@ -267,8 +262,6 @@
 {"key":"007影视","name":"🍆007┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/007.json"},
 
 {"key":"影视大全","name":"🍆影视┃大全","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/影视大全.json"},
-
-{"key":"乐猪影视","name":"🍆乐猪┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/乐猪.json"},
 
 {"key":"free","name":"🍆Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/free.json"},
 
