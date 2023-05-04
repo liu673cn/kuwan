@@ -218,6 +218,8 @@
 
 {"key":"爱看","name":"😎爱看┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
 
+{"key":"奥特","name":"😎奥特┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奥特.js"},
+
 {"key":"花猫","name":"😎花猫┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/花猫TV.js"},
 
 
