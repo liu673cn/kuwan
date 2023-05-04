@@ -242,6 +242,8 @@
 
 {"key":"爱看影院","name":"🤡爱看┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/爱看影院.json"},
 
+{"key":"wz","name":"🤡王者┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/wz.json"},
+
 {"key":"奇优","name":"🤡奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优.json"},
 
 {"key":"vofx","name":"🤡Vofx┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/voflix.json"},
