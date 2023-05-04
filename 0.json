@@ -236,35 +236,35 @@
 
 
 //XBPQ
-{"key":"vidhub","name":"💜Vidh┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/vidhub.json"},
+{"key":"vidhub","name":"🤡Vidh┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/vidhub.json"},
 
-//{"key":"热播","name":"💜热播┃之家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/热播.json"},
+//{"key":"热播","name":"🤡热播┃之家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/热播.json"},
 
-{"key":"人人","name":"💜人人┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/人人影视.json"},
+{"key":"人人","name":"🤡人人┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/人人影视.json"},
 
-{"key":"555影视","name":"💜555┃影视","type":3 ,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/555.json"},
+{"key":"555影视","name":"🤡555┃影视","type":3 ,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/555.json"},
 
-{"key":"奇优","name":"💜奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优影视.json"},
+{"key":"奇优","name":"🤡奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优影视.json"},
 
-{"key":"二次萌","name":"💜二萌┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/二次萌.json"},
+{"key":"二次萌","name":"🤡二萌┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/二次萌.json"},
 
-{"key":"一龙","name":"💜一龙┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/一龙.json"},
+{"key":"一龙","name":"🤡一龙┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/一龙.json"},
 
-{"key":"野荷塘","name":"💜荷塘┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/野荷塘.json"},
+{"key":"野荷塘","name":"🤡荷塘┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/野荷塘.json"},
 
-{"key":"爱看","name":"💜爱看┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/爱看影院.json"},
+{"key":"爱看","name":"🤡爱看┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/爱看影院.json"},
 
-{"key":"vofx","name":"💜Vofx┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/voflix.json"},
+{"key":"vofx","name":"🤡Vofx┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/voflix.json"},
 
-{"key":"007影视","name":"💜007┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/007.json"},
+{"key":"007影视","name":"🤡007┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/007.json"},
 
-{"key":"影视大全","name":"💜影视┃大全","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/影视大全.json"},
+{"key":"影视大全","name":"🤡影视┃大全","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/影视大全.json"},
 
-{"key":"free","name":"💜Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/free.json"},
+{"key":"free","name":"🤡Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XBPQ/free.json"},
 
-{"key":"看看剧","name":"💜看看┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
+{"key":"看看剧","name":"🤡看看┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
 
-{"key":"段友","name":"💜段友┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/段友.json"},
+{"key":"段友","name":"🤡段友┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/段友.json"},
 
 
 
@@ -272,7 +272,7 @@
 
 //XYQHiker
 
-{"key":"异视琳琅","name":"💚异视┃琳琅","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/异视琳琅.json","jar":"./jar/xyq.jar"},
+{"key":"异视琳琅","name":"🤑异视┃琳琅","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/异视琳琅.json","jar":"./jar/xyq.jar"},
 
 
 
