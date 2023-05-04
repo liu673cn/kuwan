@@ -35,7 +35,7 @@
 
 {"key":"豆瓣","name":"🌝豆瓣推荐┃接口免费-开心追剧-Q群497567220","type":3,"api":"./lib/drpy2.min.js","ext":"./js/douban.js"},
 
-{"key":"yinfans","name":"🎻音范丝┃4K","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/音范丝.json"},
+{"key":"yinfans","name":"🎻范丝┃精选","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/音范丝.json"},
 
 {"key":"磁力熊","name":"🐻磁力┃熊熊","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQB/磁力熊.json"},
 
