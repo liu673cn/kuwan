@@ -206,8 +206,6 @@
 
 {"key":"皮皮鸭","name":"😎皮皮┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 
-{"key":"libvio","name":"😎Libo┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/libvio.js"},
-
 {"key":"双十","name":"😎双十┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/1010.js"},
 
 {"key":"城市影视","name":"😎城市┃电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/城市.js"},
