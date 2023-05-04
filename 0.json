@@ -246,13 +246,15 @@
 
 {"key":"奇优","name":"🤡奇优┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优影视.json"},
 
-{"key":"二次萌","name":"🤡二萌┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/二次萌.json"},
-
 {"key":"一龙","name":"🤡一龙┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/一龙.json"},
+
+{"key":"思古","name":"🤡思古┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/思古.json"},
 
 {"key":"爱看","name":"🤡爱看┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/爱看影院.json"},
 
 {"key":"看看剧","name":"🤡看看┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
+
+{"key":"二次萌","name":"🤡二萌┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/二次萌.json"},
 
 {"key":"vofx","name":"🤡Vofx┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/voflix.json"},
 
