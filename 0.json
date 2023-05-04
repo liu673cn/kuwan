@@ -204,8 +204,6 @@
 
 {"key":"大豆","name":"😎大豆┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大豆.js"},
 
-{"key":"速搜","name":"😎速搜┃影院","type":3,"api":"./lib/drpy2.min.js","ext":"./js/速搜影院.js"},
-
 {"key":"皮皮鸭","name":"😎皮皮┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 
 {"key":"libvio","name":"😎Libo┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/libvio.js"},
@@ -216,8 +214,6 @@
 
 {"key":"城市影视","name":"😎城市┃电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/城市.js"},
 
-{"key":"米爱影视","name":"😎米爱┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/米爱.js"},
-
 {"key":"七年影视","name":"😎七年┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/七年.js"},
 
 {"key":"素白白","name":"😎白白┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/白白.js"},
@@ -225,8 +221,6 @@
 {"key":"饭团","name":"😎饭团┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/饭团影视.js"},
 
 {"key":"爱看","name":"😎爱看┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱看.js"},
-
-{"key":"大米","name":"😎大米┃星球","type":3,"api":"./lib/drpy2.min.js","ext":"./js/大米星球.js"},
 
 {"key":"花猫","name":"😎花猫┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/花猫TV.js"},
 
