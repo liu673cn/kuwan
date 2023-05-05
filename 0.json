@@ -286,9 +286,10 @@
 //解析
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
-{"name":"1","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
 
-{"name":"A+","type":1,"url":"http://api.playaaaa.com/qq/00167kkkk.php?url="},
+{"name":"aaaa","type":1,"url":"http://api.playaaaa.com/qq/00167kkkk.php?url="},
+
+{"name":"llk","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
 
 {"name":"110","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2148&my=ehjlmqtuFGJKLNPRU0&url="},
 
