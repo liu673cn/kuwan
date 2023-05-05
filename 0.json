@@ -287,7 +287,7 @@
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name":"1","type":1,"url":"http://api.playaaaa.com/qq/00167kkkk.php?url="},
+{"name":"A+","type":1,"url":"http://api.playaaaa.com/qq/00167kkkk.php?url="},
 
 {"name":"110","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2148&my=ehjlmqtuFGJKLNPRU0&url="},
 
