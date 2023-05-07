@@ -239,6 +239,8 @@
 
 {"key":"555影视","name":"🤡555┃影视","type":3 ,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/555.json"},
 
+{"key":"大米","name":"🤡大米┃星球","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/大米.json"},
+
 {"key":"一龙","name":"🤡一龙┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/一龙.json"},
 
 {"key":"思古","name":"🤡思古┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/思古.json"},
@@ -257,7 +259,9 @@
 
 {"key":"free","name":"🤡Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/free.json"},
 
-{"key":"大米","name":"🤡大米┃星球","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/大米.json"},
+{"key":"麦豆","name":"🤡麦豆┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/麦豆影视.json"},
+
+{"key":"淘剧","name":"🤡淘剧┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/淘剧影院.json"},
 
 
 
