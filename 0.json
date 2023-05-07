@@ -37,6 +37,12 @@
 
 {"key":"本地","name":"🕳️YYDS┃本地","type":3,"api":"csp_Local","searchable":0,"filterable":0,"changeable":0},
 
+{"key":"在线","name":"🧵在线┃之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
+
+{"key":"低端","name":"🔅低端┃影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"bdys","name":"💧哔嘀┃影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"yinfans","name":"🎻范丝┃精选","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/音范丝.json"},
 
 {"key":"磁力熊","name":"🐻磁力┃熊熊","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQB/磁力熊.json"},
@@ -201,7 +207,7 @@
 
 
 //js
-{"key":"低端","name":"😎低端┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/低端.js"},
+//{"key":"低端","name":"😎低端┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/低端.js"},
 
 {"key":"酷客","name":"😎酷客┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷客.js"},
 
