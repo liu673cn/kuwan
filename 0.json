@@ -32,16 +32,7 @@
 //数据接口
 
 "sites":[
-		{
-			"key":"csp_apptt_ttys",
-			"name":"ttys",
-			"type":3,
-			"api":"csp_AppTT",
-			"searchable":1,
-			"quickSearch":1,
-			"filterable":1,
-			"ext":"http://45.207.9.101:7771/","jar":"./jar/custom_spider.jar"
-		},
+
 {"key":"豆瓣","name":"🍓豆瓣推荐┃接口免费-开心追剧-Q群497567220","type":3,"api":"./lib/drpy2.min.js","ext":"./js/douban.js"},
 
 {"key":"本地","name":"🕳️YYDS┃本地","type":3,"api":"csp_Local","searchable":0,"filterable":0,"changeable":0},
