@@ -4,7 +4,7 @@
 
 {
 //jar
-"spider":"./jar/2.jar;md5;23eb2c534916e2787b4efc264b2ff2e5",
+"spider":"./jar/1.jar;md5;c5940bef8b0f3ebb0d8fb936c99cb99f",
 
 
 //壁纸
@@ -40,7 +40,7 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext":"http://45.207.9.101:7771/"
+			"ext":"http://45.207.9.101:7771/","jar":"./jar/custom_spider.jar"
 		},
 {"key":"豆瓣","name":"🍓豆瓣推荐┃接口免费-开心追剧-Q群497567220","type":3,"api":"./lib/drpy2.min.js","ext":"./js/douban.js"},
 
