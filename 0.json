@@ -4,7 +4,7 @@
 
 {
 //jar
-"spider":"./jar/1.jar;md5;6a2da203aa5bef6e9b67161fb4c21df2",
+"spider":"./jar/2.jar;md5;23eb2c534916e2787b4efc264b2ff2e5",
 
 
 //壁纸
@@ -32,7 +32,16 @@
 //数据接口
 
 "sites":[
-
+		{
+			"key":"csp_apptt_ttys",
+			"name":"ttys",
+			"type":3,
+			"api":"csp_AppTT",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"http://45.207.9.101:7771/"
+		},
 {"key":"豆瓣","name":"🍓豆瓣推荐┃接口免费-开心追剧-Q群497567220","type":3,"api":"./lib/drpy2.min.js","ext":"./js/douban.js"},
 
 {"key":"本地","name":"🕳️YYDS┃本地","type":3,"api":"csp_Local","searchable":0,"filterable":0,"changeable":0},
