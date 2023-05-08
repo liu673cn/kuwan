@@ -301,8 +301,6 @@
 
 {"name":"腾讯专用","type":1,"url":"http://api.playaaaa.com/qq/00167kkkk.php?url="},
 
-{"name":"llk","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
-
 {"name":"110","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2148&my=ehjlmqtuFGJKLNPRU0&url="},
 
 {"name":"5566","type":1,"url":"http://47.119.122.235:5566/json/free.php?url="},
@@ -310,6 +308,8 @@
 {"name":"113","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
 
 {"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+
+{"name":"LLK","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
 
 {"name":"ITV","type":1,"url":"https://www.itvbox.cc/bhc.php?url="},
 
