@@ -298,7 +298,6 @@
 //解析
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
-{"name":"1","type":0,"url":"https://jxjson.cf/?url="},
 
 {"name":"腾讯专用","type":1,"url":"http://api.playaaaa.com/qq/00167kkkk.php?url="},
 
@@ -321,6 +320,8 @@
 {"name":"WT1","type":1,"url":"http://jxapi.wutao7.top/XL/?url="},
 
 {"name":"WT2","type":0,"url":"http://jxapi.wutao7.top/miui/?url="},
+
+{"name":"cf","type":0,"url":"https://jxjson.cf/?url="},
 
 {"name":"泽云","type":0,"url":"https://player.iizny.com/?url="},
 
