@@ -298,6 +298,7 @@
 //解析
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"1","type":0,"url":"https://jxjson.cf/?url="},
 
 {"name":"腾讯专用","type":1,"url":"http://api.playaaaa.com/qq/00167kkkk.php?url="},
 
