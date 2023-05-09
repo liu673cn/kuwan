@@ -169,6 +169,9 @@
 {"key":"找资源","name":"🥶资源┃阿里","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt $$$xiaohutx$$$xiaohutx"},
 
+{"key":"小纸条","name":"🥶纸条┃阿里","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/xyq.jar"},
+
 {"key":"七夜","name":"🐨七夜┃阿里","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/ts.jar"},
 
@@ -191,7 +194,7 @@
 
 {"key":"csp_Czsapp","name":"🏭厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"视觉","name":"🙈视觉┃影院","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
+{"key":"视觉","name":"🙈视觉┃影院","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://6080dy3.com"},
 
 {"key":"七七","name":"👂七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   
 
