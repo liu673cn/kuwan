@@ -47,9 +47,23 @@
 
 {"key":"磁力熊","name":"🐻磁力┃熊熊","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQB/磁力熊.json"},
 
-{"key":"泥巴","name":"🗻NiB┃起飞","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":1},
+{"key":"泥巴","name":"🛩️泥巴┃墙外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":1},
 
-{"key":"trj","name":"🛫TRJ┃起飞","type":3,"api": "csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"trj","name":"🛩️TRJ┃墙外","type":3,"api": "csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"101","name":"🛩️101┃墙外","type":3,"api":"./lib/drpy2.min.js","ext":"./js/if101.js"},
+
+{"key":"欧帝","name":"🛩️欧帝┃墙外","type":3,"api":"./lib/drpy2.min.js","ext":"./js/欧帝.js"},
+
+{"key":"欧乐","name":"🛩️欧乐┃墙外","type":3,"api":"./lib/drpy2.min.js","ext":"./js/欧乐.js"},
+
+{"key":"楚门","name":"🛩️楚门┃墙外","type":3,"api":"./lib/drpy2.min.js","ext":"./js/楚门.js"},
+
+{"key":"华乐","name":"🛩️华乐┃墙外","type":3,"api":"./lib/drpy2.min.js","ext":"./js/华乐.js"},
+
+{"key":"独播","name":"🛩️独播┃墙外","type":3,"api":"./lib/drpy2.min.js","ext":"./js/独播.js"},
+
+{"key":"吼吼","name":"🛩️吼吼┃墙外","type":3,"api":"./lib/drpy2.min.js","ext":"./js/吼吼.js"},
 
 
 
