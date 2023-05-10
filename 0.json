@@ -47,6 +47,8 @@
 
 {"key":"磁力熊","name":"🐻磁力┃熊熊","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQB/磁力熊.json"},
 
+{"key":"酷影","name":"🚠酷影┃资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
+
 {"key":"泥巴","name":"🛩️泥巴┃墙外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":1},
 
 {"key":"trj","name":"🛩️TRJ┃墙外","type":3,"api": "csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
@@ -284,8 +286,6 @@
 
 
 //资源
-
-{"key":"酷影","name":"🚠资源┃酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
 
 {"key":"资源库","name":"🥇资源┃1080","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1},
 
