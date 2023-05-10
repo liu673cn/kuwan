@@ -126,6 +126,8 @@
 
 {"key":"曲奇","name":"🍪曲奇┃动漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/曲奇动漫.json"},
 
+{"key":"爱动漫","name":"😎爱上┃动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱动漫.js"},
+{"key":"好趣","name":"😎好趣┃电视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/好趣.js"},
 
 
 
@@ -243,6 +245,7 @@
 
 {"key":"花猫","name":"😎花猫┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/花猫TV.js"},
 
+{"key":"007","name":"😎007┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/007.js"},
 
 
 
