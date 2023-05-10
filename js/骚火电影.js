@@ -28,8 +28,8 @@ filter_def:{
 	4:{cateId:'4'}
 },
 searchUrl:'/search.php?searchword=**',
-searchable:2,
-quickSearch:0,
+searchable:1,
+quickSearch:1,
 
 headers:{'User-Agent':'MOBILE_UA', },
 class_name:'电影&电视剧&动漫&综艺',
