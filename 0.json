@@ -177,7 +177,7 @@
 {"key":"玩偶","name":"🧸玩偶┃阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 
-{"key":"agent","name":"📤推送┃发射","type":3,"api":"csp_Push","searchable":1,"filterable":0,"quickSearch":0,
+{"key":"agent","name":"📤推送┃发射","type":3,"api":"csp_Push","searchable":0,"filterable":0,"quickSearch":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 
 
