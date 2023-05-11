@@ -72,6 +72,34 @@
 
 
 
+//阿里
+
+{"key":"盤搜索","name":"💎PanS┃阿里","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/ts.jar"},
+
+{"key":"易搜","name":"💎易搜┃阿里","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":0,"filterable":0,
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/ts.jar"},
+
+{"key":"云搜","name":"💎云搜┃阿里","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":0,"filterable":0,
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/ts.jar"},
+    
+{"key":"盘搜","name":"💎盘搜┃阿里","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":0,"filterable":0,
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/ts.jar"},
+
+{"key":"七夜","name":"💎七夜┃阿里","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/ts.jar"},
+
+{"key":"找资源","name":"🐨资源┃阿里","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt $$$xiaohutx$$$xiaohutx"},
+
+{"key":"玩偶","name":"🧸玩偶┃阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
+
+
+
+
+
+
 //直播==
 
 {"key":"直播转点播","name":"📺电视┃直播","type":3,"api":"./js/直播转点播.js","ext":"./json/直播仓.json"},
