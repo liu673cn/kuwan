@@ -143,11 +143,11 @@
 
 {"key":"兔小贝2","name":"🐇兔兔┃小贝","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/兔小贝2.json"},
 
-{"key":"音悦台","name":"🎵音悦|台哦","type":3,"api":"./lib/drpy2.min.js","ext":"./js/音悦台.js"},
+{"key":"音悦台","name":"🎵音悦┃台哦","type":3,"api":"./lib/drpy2.min.js","ext":"./js/音悦台.js"},
 
-{"key":"喜马拉雅","name":"🦓喜马|拉雅","type":3,"api":"./lib/drpy2.min.js","ext":"./js/喜马拉雅.js"},
+{"key":"喜马拉雅","name":"🦓喜马┃拉雅","type":3,"api":"./lib/drpy2.min.js","ext":"./js/喜马拉雅.js"},
 
-{"key":"酷狗mv","name":"🐶酷狗|MV","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷狗mv.js"},
+{"key":"酷狗mv","name":"🐶酷狗┃MV","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷狗mv.js"},
 
 
 
