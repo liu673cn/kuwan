@@ -72,18 +72,31 @@
 
 
 
+//直播==
 
-//bilibili--et
+{"key":"直播转点播","name":"📺电视┃直播","type":3,"api":"./js/直播转点播.js","ext":"./json/直播仓.json"},
 
-{"key":"Bili","name":"🅱️哔哩┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/bz.json"},
+{"key":"腾讯体育","name":"🐧腾讯┃体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/txty.json"},
+
+{"key":"88看球","name":"🏀八八┃看球","type":3,"api":"./lib/drpy2.min.js","ext":"./js/88kq.js"},
+
+{"key":"JRS","name":"🏐JRS┃直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/jrs直播.json"},
+
+{"key":"310直播","name":"⚽310┃直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/310.js"},
+
+{"key":"抓饭","name":"🍚抓饭┃直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQB/抓饭.json"},
+
+{"key":"斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQB/dy.json"},
+
+{"key":"虎牙","name":"🐯虎牙┃直播","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/hy.json"},
 
 {"key":"bili直播","name":"🅱️哔哩┃直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/blzb.js"},
 
-{"key":"少儿","name":"🧒少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/少儿教育.json"},
+{"key":"网易","name":"🕸️网易┃直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQB/网易cc.json"},
 
-{"key":"兔小贝","name":"🐰兔兔┃小贝","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/兔小贝.json"},
+{"key":"csp_Yj1211","name":"💿直播┃集合","type": 3,"api": "csp_Yj1211","searchable":0,"quickSearch":0,"filterable":0},
 
-{"key":"兔小贝2","name":"🐇兔兔┃小贝","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/兔小贝2.json"},
+
 
 
 
@@ -104,6 +117,12 @@
 
 {"key":"爱动漫","name":"🎗️爱上┃动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱弹幕.js"},
 
+{"key":"妮可","name":"🏄‍♂️妮可┃动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/妮可动漫.js"},
+
+{"key":"anfuns","name":"🍫Anf┃动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/anfuns.js"},
+
+{"key":"怡萱动漫","name":"🍬怡萱┃动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/怡萱.js"},
+
 {"key":"去看吧","name":"💨去看┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/去看吧.json"},
 
 {"key":"维奇","name":"🧣维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/维奇.json"},
@@ -114,26 +133,21 @@
 
 
 
+//杂杂杂
 
-//直播==
+{"key":"Bili","name":"🅱️哔哩┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/bz.json"},
 
-{"key":"直播转点播","name":"📺电视┃直播","type":3,"api":"./js/直播转点播.js","ext":"./json/直播仓.json"},
+{"key":"少儿","name":"🧒少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/少儿教育.json"},
 
-{"key":"腾讯体育","name":"🐧腾讯┃体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/txty.json"},
+{"key":"兔小贝","name":"🐰兔兔┃小贝","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/兔小贝.json"},
 
-{"key":"88看球","name":"🏀八八┃看球","type":3,"api":"./lib/drpy2.min.js","ext":"./js/88kq.js"},
+{"key":"兔小贝2","name":"🐇兔兔┃小贝","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/兔小贝2.json"},
 
-{"key":"JRS","name":"🏐JRS┃直播","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/jrs直播.json"},
+{"key":"音悦台","name":"🎵音悦|台哦","type":3,"api":"./lib/drpy2.min.js","ext":"./js/音悦台.js"},
 
-{"key":"310直播","name":"⚽310┃直播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/310.js"},
+{"key":"喜马拉雅","name":"🦓喜马|拉雅","type":3,"api":"./lib/drpy2.min.js","ext":"./js/喜马拉雅.js"},
 
-{"key":"抓饭","name":"🍚抓饭┃直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQB/抓饭.json"},
-
-{"key":"斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQB/dy.json"},
-
-{"key":"虎牙","name":"🐯虎牙┃直播","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/hy.json"},
-
-{"key":"csp_Yj1211","name":"💿直播┃集合","type": 3,"api": "csp_Yj1211","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"酷狗mv","name":"🐶酷狗|MV","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷狗mv.js"},
 
 
 
