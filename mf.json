@@ -1,7 +1,25 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;e276d142b10b9f2c2971664d0b9dc9a3",
+  "spider": "./jar/fm.jar;md5;836941085af643869ef5e0d9dce6d301",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "sites": [
+      {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "drives": [
+          {
+            "name": "AV",
+            "server": "https://a74d291e-3b91-45a5-9ec6-9f08a9178e59.id.repl.co"
+          }
+        ]
+      }
+    },
+    
     {
       "key": "泥巴",
       "name": "泥巴",
