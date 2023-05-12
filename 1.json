@@ -33,12 +33,9 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"🍧豆瓣推荐┃接口免费-开心追剧-Q群497567220","type":3,"api":"./lib/drpy2.min.js","ext":"./js/douban.js"},
+{"key":"豆瓣","name":"🙊豆瓣推荐┃接口免费-开心追剧-Q群497567220","type":3,"api":"./lib/drpy2.min.js","ext":"./js/douban.js"},
 
 {"key":"Gitcafe","name":"🍼小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./alitoken.txt"},
-
-{"key":"csp_Zhaozy","name":"🍼找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
 "ext":"./alitoken.txt"},
 
 {"key":"csp_AliPS","name":"🍼盘搜","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
@@ -50,16 +47,19 @@
 {"key":"csp_Upyunso","name":"🍼云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
 "ext":"./alitoken.txt"},
 
+{"key":"csp_Zhaozy","name":"🍼找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
+"ext":"./alitoken.txt"},
+
 {"key":"土狗搜索","name":"🍼土狗搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/土狗搜索.json"},
 
-{"key":"DOVX搜索","name":"🍼DOVX搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
+{"key":"DOVX搜索","name":"🍼七夜搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/DOVX搜索.json"},
 
 {"key":"云盘分享","name":"🍼云盘分享","type":3,"api":"csp_XYQBiu","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQB/云盘分享.json"},
 
-{"key":"盘搜索","name":"🍼盘搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
+{"key":"盘搜索","name":"🍼PanS搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/盘搜索.json"},
 
 {"key":"push_agent","name":"🍸推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
