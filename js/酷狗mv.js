@@ -4,7 +4,7 @@ var rule = {
     homeUrl:'/mvweb/html/',
     url:'/mvweb/html/index_fyclass_fypage.html',
     searchUrl:'https://api.linhun.vip/api/kgmv?apiKey=e7e165ab27316db14467c07e00f3820d&name=**&n=',
-    searchable:2,
+    searchable:0,
     quickSearch:0,
     class_parse:'#radioList&&dd;a&&Text;a&&href;.*/index_(\\d+)_1.html',
     headers:{
