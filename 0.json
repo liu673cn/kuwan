@@ -52,8 +52,6 @@
 
 {"key":"如意","name":"😏如意┃资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},   
 
-{"key":"腐剧","name":"🤖腐剧┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腐剧.js"},
-
 
 
 
