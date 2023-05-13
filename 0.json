@@ -364,9 +364,9 @@
 
 {"name":"JY","type":0,"url":"https://jx.playerjy.com/?url="},
 
-{"name":"将就","type":0,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+{"name":"将就","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
-{"name":"um","type":0,"url":"https://b.umkan.cc/API.php?url="}
+{"name":"um","type":1,"url":"https://b.umkan.cc/API.php?url="}
 
 ],
 
