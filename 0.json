@@ -93,10 +93,9 @@
 {"key":"七夜","name":"🔥七夜┃阿里","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/ts.jar"},
 
-{"key":"玩偶","name":"🧸玩偶┃阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
+//{"key":"玩偶","name":"🧸玩偶┃阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+//"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 
-{"key":"推送","name":"📩推送┃推送","type":"3","api":"csp_Push","changeable":"0","searchable":"0","quickSearch":"0","filterable":"0"},
 
 
 
@@ -184,33 +183,25 @@
 
 
 //精选
-{"key":"布雷","name":"⚡布雷┃影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.ilime.cc$$$login$$$xiaohutx$$$xiaohutx"},
-
-{"key":"csp_555","name":"5️⃣555┃影视","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
-
-{"key":"Cokemv","name":"🥥COK┃影视","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"csp_Czsapp","name":"🏭厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"视觉","name":"🙈视觉┃影院","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://6080dy3.com"},
+{"key":"布雷","name":"⚡布雷┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/布雷.js"},
 
 {"key":"七七","name":"👂七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   
 
-{"key":"Libvio","name":"🧰Libo┃影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
+{"key":"Cokemv","name":"🥥COK┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/cokemv.json"},
 
-{"key":"神马","name":"🐎神马┃影视","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"厂长","name":"🏭厂长┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/厂长.json"},
 
-{"key":"农民","name":"🌾农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
+{"key":"视觉","name":"🙈视觉┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/新视觉.json"},
 
-{"key":"YQK","name":"🙌一起┃影视","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
+{"key":"Libvio","name":"🧰Libo┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/libvio.js"},
+
+{"key":"神马","name":"🐎神马┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/神马.json"},
+
+{"key":"农民","name":"🌾农民┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/农民.json"},
 
 {"key":"快看","name":"👀快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"2bt","name":"✌BTT┃影视","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"789看片","name":"7️⃣789┃看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XPath/789.json"},
-
-{"key":"AppMr","name":"👼小明┃影视","type":3,"api":"csp_AppMr","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"2bt","name":"✌BTT┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/两个BT.js"},
 
 {"key":"apple","name":"🍎苹果┃影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
