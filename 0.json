@@ -58,7 +58,7 @@
 
 //官源
 
-{"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":1,"ext":"./js/tengxun.js"},
+{"key":"腾讯","name":"🐧腾讯┃视频","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/tengxun.js"},
 
 {"key":"爱奇艺","name":"🥝奇艺┃视频","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/iqy.js"},
 
