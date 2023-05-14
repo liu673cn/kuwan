@@ -348,9 +348,15 @@
 
 {"name":"尘烟","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
 
+{"name":"janan","type":1,"url":"https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url="},
+
+{"name":"678","type":1,"url":"http://49.235.238.58:678/?url="},
+
 {"name":"WT1","type":1,"url":"http://jxapi.wutao7.top/XL/?url="},
 
 {"name":"WT2","type":0,"url":"http://jxapi.wutao7.top/miui/?url="},
+
+{"name":"yun","type":0,"url":"https://yun.ckmov.com/?url="},
 
 {"name":"cf","type":0,"url":"https://jxjson.cf/?url="},
 
