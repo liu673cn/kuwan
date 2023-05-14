@@ -329,7 +329,8 @@
 
 //解析
 "parses": [
-{"name":"解析聚合","type":3,"url":"Demo"},
+//{"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"4K","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="},
 
 {"name":"DYG","type":0,"url":"https://vip.lianfaka.com/vip/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1","Referer":"https://www.dy6g.com/"}}},
 
@@ -348,8 +349,6 @@
 {"name":"尘烟","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
 
 {"name":"678","type":1,"url":"http://49.235.238.58:678/?url="},
-
-{"name":"FM","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="},
 
 {"name":"OK","type":0,"url":"https://okjx.cc/?url="},
 
