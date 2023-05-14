@@ -78,7 +78,7 @@
 
 //阿里
 
-{"key":"盤搜索","name":"🔥PanS┃阿里","type":3,"api":"csp_PanSearch","searchable":0,"filterable":0,"changeable":0,
+{"key":"盤搜索","name":"🔥PanS┃阿里","type":3,"api":"csp_PanSearch","searchable":0,"quickSearch":1,"filterable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/ts.jar"},
 
 {"key":"易搜","name":"🔥易搜┃阿里","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":0,"filterable":0,
