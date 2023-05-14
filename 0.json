@@ -242,6 +242,8 @@
 
 {"key":"花猫","name":"😎花猫┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/花猫TV.js"},
 
+{"key":"新视觉","name":"😎视觉┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/新视觉.js"},
+
 
 
 
@@ -274,6 +276,7 @@
 
 {"key":"free","name":"🤡Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/free.json"},
 
+{"key":"端木","name":"🤡端木┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/端木.json"},
 
 
 
