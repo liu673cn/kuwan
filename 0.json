@@ -46,7 +46,7 @@
 
 {"key":"yinfans","name":"🎻范丝┃精选","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/音范丝.json"},
 
-{"key":"磁力熊","name":"🐻磁力┃熊熊","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQB/磁力熊.json"},
+{"key":"磁力熊","name":"🐻磁力┃熊熊","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/磁力熊.json"},
 
 {"key":"酷影","name":"🚠酷影┃资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
 
@@ -249,9 +249,8 @@
 
 
 //XBPQ
-{"key":"11","name":"🤡磁力┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/磁力熊.json"},
 
-{"key":"22","name":"🤡巨人┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/巨人影院.json"},
+{"key":"巨人","name":"🤡巨人┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/巨人影院.json"},
 
 {"key":"vidh","name":"🤡Vidh┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/vidhub.json"},
 
