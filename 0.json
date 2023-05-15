@@ -326,6 +326,8 @@
 //解析
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"MYS","type":1,"url":"https://www.itvbox.cc/api.maoyingshi.cc/api.php?url="},
+
 {"name":"RY","type":1,"url":"http://ry.maoyingshi.cc/api/?api_id=5&vod_url="},
 
 {"name":"4K","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="},
