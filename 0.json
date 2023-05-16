@@ -40,6 +40,8 @@
 
 {"key":"在线","name":"🧵在线┃之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 
+{"key":"Libo","name":"🧰Libo┃影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
+
 {"key":"低端","name":"🔅低端┃影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"bdys","name":"💧哔嘀┃影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
@@ -197,8 +199,6 @@
 //{"key":"视觉","name":"🙈视觉┃影院","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 
 {"key":"七七","name":"👂七七┃影视","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},   
-
-{"key":"Libvio","name":"🧰Libo┃影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
 
 {"key":"神马","name":"🐎神马┃影视","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 
