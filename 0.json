@@ -50,11 +50,12 @@
 
 {"key":"磁力熊","name":"🐻磁力┃熊熊","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/磁力熊.json"},
 
-{"key":"酷影","name":"🚠酷影┃资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
+//{"key":"酷影","name":"🚠酷影┃资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
+
+{"key":"酷影","name":"🚠酷影┃资源","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷影.js"},
 
 {"key":"如意","name":"😏如意┃资源","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},   
 
-{"key":"KY","name":"😎酷影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷影.js"},
 
 
 
