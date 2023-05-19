@@ -336,8 +336,6 @@
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name":"聚合1","type":3,"url":"Web"},
-
 {"name":"4k","type":1,"url":"http://124.222.202.180:5566/api/?key=U3w352pGlpap3DtB5Y&url="},
 
 {"name":"XCY","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="},
