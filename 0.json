@@ -342,13 +342,11 @@
 
 {"name":"880","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
 
-{"name":"5208","type":1,"url":"http://43.143.146.199:5208/api/?key=bh5YLTM058iwk3H6mu&url="},
-
-{"name":"5555","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
-
 {"name":"5566","type":1,"url":"http://47.119.122.235:5566/json/free.php?url="},
 
 {"name":"4567","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+
+{"name":"5555","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
 
 {"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 
@@ -356,29 +354,13 @@
 
 {"name":"尘烟","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
 
-{"name":"678","type":1,"url":"http://49.235.238.58:678/?url="},
-
-{"name":"OK","type":0,"url":"https://okjx.cc/?url="},
-
-{"name":"YK","type":0,"url":"https://yun.ckmov.com/?url="},
-
 {"name":"CF","type":0,"url":"https://jxjson.cf/?url="},
-
-{"name":"泽云","type":0,"url":"https://player.iizny.com/?url="},
 
 {"name":"JSPL","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 
-{"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-
-{"name":"CGD","type":0,"url":"https://www.cgdyw.net/jiexi/jiexi-gf/?url="},
-
-{"name":"夜幕", "type":0,"url":"https://www.yemu.xyz/?url=","showType":3},
-
 {"name":"JXDP","type":0,"url": "https://jxdp.codermart.net/?url="},
 
-{"name":"剖云","type":0,"url":"https://www.pouyun.com/?url="},
-
-{"name":"JY","type":0,"url":"https://jx.playerjy.com/?url="}
+{"name":"剖云","type":0,"url":"https://www.pouyun.com/?url="}
 
 
 
