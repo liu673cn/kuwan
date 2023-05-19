@@ -336,6 +336,8 @@
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
+{"name":"聚合1","type":3,"url":"Web"},
+
 {"name":"4k","type":1,"url":"http://124.222.202.180:5566/api/?key=U3w352pGlpap3DtB5Y&url="},
 
 {"name":"XCY","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="},
@@ -348,13 +350,11 @@
 
 {"name":"5555","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
 
-{"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url="},
-
 {"name":"LLK","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
 
 {"name":"尘烟","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
 
-{"name":"CF","type":0,"url":"https://jxjson.cf/?url="},
+{"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 
 {"name":"JSPL","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 
