@@ -84,22 +84,22 @@
 
 //阿里
 
-{"key":"盤搜索","name":"🧊PanS┃阿里","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":0,"filterable":0,
+{"key":"盤搜索","name":"🧨PanS┃阿里","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":0,"filterable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 
-{"key":"易搜","name":"🧊易搜┃阿里","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":0,"filterable":0,
+{"key":"易搜","name":"🧨易搜┃阿里","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":0,"filterable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 
-{"key":"云搜","name":"🧊云搜┃阿里","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":0,"filterable":0,
+{"key":"云搜","name":"🧨云搜┃阿里","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":0,"filterable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
     
-{"key":"盘搜","name":"🧊盘搜┃阿里","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":0,"filterable":0,
+{"key":"盘搜","name":"🧨盘搜┃阿里","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":0,"filterable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 
-{"key":"七夜","name":"🧊七夜┃阿里","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,
+{"key":"七夜","name":"🧨七夜┃阿里","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 
-{"key":"找资源","name":"🧊资源┃阿里","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
+{"key":"找资源","name":"🧨资源┃阿里","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt $$$xiaohutx$$$xiaohutx"},
 
 {"key":"土狗","name":"🐕土狗┃阿里","type":3,"api":"csp_TuGou","searchable":1,"quickSearch":1,"changeable":0,
