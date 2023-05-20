@@ -270,8 +270,6 @@
 
 
 //资源
-{"key":"飞云","name":"🥇资源┃飞云","type":0,"api":"https://fyzy.vip/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1},
-
 {"key":"资源库","name":"🥇资源┃1080","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1},
 
 {"key":"tvb云播","name":"⛅资源┃TVB","type":0,"api":"http://www.tvyb03.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
