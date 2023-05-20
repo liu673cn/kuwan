@@ -48,8 +48,6 @@
 
 {"key":"yinfans","name":"🎻范丝┃精选","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/音范丝.json"},
 
-{"key":"电影港","name":"🌌电影┃港湾","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/电影港.json"},
-
 {"key":"磁力熊","name":"🐻磁力┃熊熊","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQB/磁力熊.json"},
 
 {"key":"酷影","name":"🚠酷影┃蓝光","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷影.js"},
@@ -107,8 +105,8 @@
 {"key":"玩偶","name":"🧸玩偶┃阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 
-{"key":"push_agent","name":"🎠推送┃推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,
-"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./jar/custom_spider.jar"},
+{"key":"push_agent","name":"🎠推送┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 
 
 
