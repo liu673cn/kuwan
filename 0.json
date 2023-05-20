@@ -172,23 +172,6 @@
 
 {"key":"路漫漫","name":"🚶漫漫┃动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/路漫漫.js"},
 
-{"key":"nt动漫","name":"🧬拿铁┃动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ntdm.js"},
-
-{"key":"爱动漫","name":"🎗️爱上┃动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/爱弹幕.js"},
-
-{"key":"妮可","name":"🏄‍♂️妮可┃动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/妮可动漫.js"},
-
-{"key":"anfuns","name":"🍫ANF┃动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/anfuns.js"},
-
-{"key":"怡萱动漫","name":"🍬怡萱┃动漫","type":3,"api":"./lib/drpy2.min.js","ext":"./js/怡萱.js"},
-
-{"key":"去看吧","name":"💨去看┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/去看吧.json"},
-
-{"key":"维奇","name":"🧣维奇┃动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/维奇.json"},
-
-{"key":"曲奇","name":"🍪曲奇┃动漫","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/曲奇动漫.json"},
-
-
 
 
 
