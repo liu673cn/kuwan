@@ -320,7 +320,7 @@
 
 {"name":"4K","type":1,"url":"http://api.jiexi.plus/api/?key=f3793408d9745e266099a898dfa74831&url="},
 
-{"name":"yim","type":1,"url":"http://json.yimufund.net/jsonindex.php?url=","ext":{"header":"header":{"User-Agent":"LuaSocket 3.0-rc1"}},
+{"name":"yim","type":1,"url":"http://json.yimufund.net/jsonindex.php?url=","ext":{"header":"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
 
 {"name":"XCY","type":1,"url":"http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="},
 
