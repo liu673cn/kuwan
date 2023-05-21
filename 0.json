@@ -56,6 +56,8 @@
 
 {"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},   
 
+{"key":"飞云","name":"🐲腾飞┃影视","type":3,"api":"csp_AppYsV2","ext": "http://hdvod.top/ruifenglb_api.php/v1.vod"},
+
 //{"key":"酷影","name":"🚠酷影┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
 
 //{"key":"多米","name":"🍚多米┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/"}, 
