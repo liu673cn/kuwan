@@ -317,7 +317,6 @@
 //解析
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
-{"name":"1","type":1,"url":"http://xiaoxin.1080p.me/api/?key=d3a91bc81f93f81ddd5f902274ff532d&url="},
 
 {"name":"4K","type":1,"url":"http://api.jiexi.plus/api/?key=f3793408d9745e266099a898dfa74831&url="},
 
