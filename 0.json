@@ -272,6 +272,8 @@
 
 
 //资源
+{"key":"饭后","name":"🥇饭后┃1080","type":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod","searchable":1,"quickSearch":1},
+
 {"key":"资源库","name":"🥇资源┃1080","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1},
 
 {"key":"tvb云播","name":"⛅资源┃TVB","type":1,"api":"http://www.tvyb03.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
