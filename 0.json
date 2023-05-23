@@ -58,6 +58,10 @@
 
 {"key":"飞云","name":"🐲腾飞┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://hdvod.top/ruifenglb_api.php/v1.vod"},
 
+{"key":"非凡","name":"🦉非凡┃去广","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"量子","name":"🏂量子┃去广","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+
 //{"key":"酷影","name":"🚠酷影┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuying.kuyouk.top:9528/api.php/app/"},
 
 //{"key":"多米","name":"🍚多米┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680/api.php/app/"}, 
@@ -268,15 +272,7 @@
 
 
 
-//资源
-{"key":"资源库","name":"🥇资源┃1080","type":1,"api":"https://api.1080zyku.com/inc/apijson.php/provide/vod/","searchable":1,"quickSearch":1},
-
-{"key":"tvb云播","name":"⛅资源┃TVB","type":1,"api":"http://www.tvyb03.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
-
-{"key":"非凡","name":"🦉资源┃非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"量子","name":"🏂资源┃量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
-
+//墙外
 {"key":"泥巴","name":"🛩️泥巴┃墙外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":1},
 
 {"key":"trj","name":"🛩️TRJ┃墙外","type":3,"api": "csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
