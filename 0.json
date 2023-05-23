@@ -273,9 +273,9 @@
 
 {"key":"tvb云播","name":"⛅资源┃TVB","type":1,"api":"http://www.tvyb03.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0},
 
-{"key":"非凡","name":"🦉资源┃非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"非凡","name":"🦉资源┃非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"量子","name":"🏂资源┃量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"量子","name":"🏂资源┃量子","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"泥巴","name":"🛩️泥巴┃墙外","type":3,"api":"csp_NiNi","searchable":1,"filterable":1,"changeable":1},
 
