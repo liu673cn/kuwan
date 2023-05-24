@@ -48,7 +48,7 @@
 
 {"key":"yinfans","name":"🎻范丝┃精选","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XPath/音范丝.json"},
 
-{"key":"磁力熊","name":"🐻磁力┃熊熊","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","searchable": 1,"changeable": 1},
+{"key":"磁力熊","name":"🐻磁力┃熊熊","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.3412.net.cn/?url=","searchable":1,"changeable":1},
 
 //{"key":"酷影","name":"🚠酷影┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/"},
 
@@ -112,7 +112,7 @@
 {"key":"玩偶","name":"🧸玩偶┃阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 
-{"key":"土狗","name":"🐕土狗┃阿里","type": 3,"api": "csp_TuGou","searchable": 1,"quickSearch":1,"changeable":0
+{"key":"土狗","name":"🐕土狗┃阿里","type":3,"api": "csp_TuGou","searchable":1,"quickSearch":1,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 
 {"key":"push_agent","name":"🎠推送┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,
