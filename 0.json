@@ -138,7 +138,7 @@
 
 {"key":"斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQB/dy.json"},
 
-{"key":"虎牙","name":"🐯虎牙┃直播","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/hy.json"},
+{"key":"虎牙","name":"🐯虎牙┃直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/hy.js"},
 
 {"key":"bili直播","name":"🅱️哔哩┃直播","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/blzb.js"},
 
