@@ -186,7 +186,6 @@
 
 
 //精选
-//{"key":"布蕾蓝光","name":"⚡布雷┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","ext":"http://kan.bulei.cc/api.php/app/"},
 
 {"key":"布雷","name":"⚡布雷┃影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
 
@@ -210,7 +209,6 @@
 
 {"key":"YQK","name":"🙌一起┃影视","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
 
-//{"key":"视觉","name":"🙈视觉┃影院","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 
 
 
