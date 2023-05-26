@@ -66,8 +66,6 @@
 
 {"key":"量子","name":"🏂量子┃去广","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"4khdr","name":"🛹4K┃HDR","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/4KHDR.json"},
-
 
 
 
