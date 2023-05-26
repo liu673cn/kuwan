@@ -155,10 +155,6 @@
 
 {"key":"少儿","name":"🧒少儿┃教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"./json/少儿教育.json"},
 
-{"key":"兔小贝","name":"🐰兔兔┃小贝","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/兔小贝.json"},
-
-{"key":"兔小贝2","name":"🐇兔兔┃小贝","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQH/兔小贝2.json"},
-
 {"key":"音悦台","name":"🎵音悦┃台哦","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/音悦台.js"},
 
 {"key":"喜马拉雅","name":"🦓喜马┃拉雅","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/喜马拉雅.js"},
