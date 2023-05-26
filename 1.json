@@ -61,7 +61,8 @@
 
 {"key":"阿里云盘网","name":"🍼阿里云盘","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/阿里云盘网.json"},
 
-{"key":"豆豆飞","name":"🍼豆豆飞","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/豆豆飞.json"},
+{"key":"豆豆飞","name":"🍼豆豆飞","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XYQH/豆豆飞.json"},
 
 {"key":"土狗搜索","name":"🍼土狗搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/土狗搜索.json"},
@@ -76,7 +77,7 @@
 "ext":"./XYQH/盘搜索.json"},
 
 {"key":"push_agent","name":"🍸推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,
-"ext":"./alitoken.txt"},
+"ext":"./alitoken.txt"}
 
 
 
