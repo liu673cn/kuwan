@@ -36,7 +36,8 @@
 {"key":"豆瓣","name":"🙊豆瓣推荐┃接口免费-开心追剧-Q群497567220","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,
 "ext":"./js/douban.js"},
 
-{"key":"玩偶哥哥","name":"🍼玩偶哥哥","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/玩偶哥哥.json"},
+{"key":"玩偶哥哥","name":"🍼玩偶哥哥","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XYQH/玩偶哥哥.json"},
 
 {"key":"Gitcafe","name":"🍼小纸条","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./alitoken.txt"},
@@ -56,11 +57,14 @@
 {"key":"土拨鼠搜索","name":"🍼土拨鼠","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/土拨鼠搜索.json"},
 
-{"key":"云盘资源","name":"🍼云盘资源","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/云盘资源分享.json"},
+{"key":"云盘资源","name":"🍼云盘资源","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XYQH/云盘资源分享.json"},
 
-{"key":"我的小站","name":"🍼我的小站","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/我的小站.json"},
+{"key":"我的小站","name":"🍼我的小站","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XYQH/我的小站.json"},
 
-{"key":"阿里云盘网","name":"🍼阿里云盘","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/阿里云盘网.json"},
+{"key":"阿里云盘网","name":"🍼阿里云盘","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
+"ext":"./XYQH/阿里云盘网.json"},
 
 {"key":"豆豆飞","name":"🍼豆豆飞","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/豆豆飞.json"},
