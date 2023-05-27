@@ -1,0 +1,7 @@
+{
+
+    "分类": "电影$1#电视剧$2#综艺$3#动漫$4#记录$5",
+    "分类url": "http://v.xygua.com/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
+    "线路标题": "<span>&&</small>[替换:</span><small>>>👉]+集♥",
+}
+
