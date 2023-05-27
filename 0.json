@@ -313,7 +313,9 @@
 //解析
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
-{"name":"4K20次","type":1,"url":"http://api.jiexi.plus/api/?key=bd3e3f230b69883f6b4e5093a1378009&url="},
+//{"name":"4K20次","type":1,"url":"http://api.jiexi.plus/api/?key=bd3e3f230b69883f6b4e5093a1378009&url="},
+
+{"name":"一解","type":1,"url":" https://s4.s100.vip:37811/home/api?type=ys&uid=4315545&key=adhiostxFKMSUV3569&url="},
 
 {"name":"解析1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
