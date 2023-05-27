@@ -338,7 +338,7 @@
 
 {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 
-{"name":"8090","type":0,"url":"https://www.8090g.cn/jiexi/?url="}
+{"name":"8090","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}}
 
 ],
 
