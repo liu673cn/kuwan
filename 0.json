@@ -67,7 +67,9 @@
 {"key":"量子","name":"🏂量子┃去广","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"小鱼","name":"🐟小鱼┃去广","type":1,"api":"http://v.xygua.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"小鱼2","name":"😏小鱼┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://v.xygua.com/api.php/app"},  
+
+{"key":"1","name":"🤡1┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/小鱼.json"},
+
 
 
 
