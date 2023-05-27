@@ -346,8 +346,9 @@
 
 {"name":"嗅探9","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 
-{"name":"嗅探10","type":0,"url":"https://jx.playerjy.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}}
+{"name":"嗅探10","type":0,"url":"https://jx.playerjy.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 
+{"name":"嗅探11","type":0,"url":"https://api.jiexi.la/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}}
 
 ],
 
