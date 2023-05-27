@@ -313,9 +313,22 @@
 //解析
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
-//{"name":"4K20次","type":1,"url":"http://api.jiexi.plus/api/?key=bd3e3f230b69883f6b4e5093a1378009&url="},
 
-{"name":"一解","type":1,"url":" https://s4.s100.vip:37811/home/api?type=ys&uid=4315545&key=adhiostxFKMSUV3569&url="},
+{"name":"一解100次1","type":1,"url":"https://s4.s100.vip:37811/home/api?type=ys&uid=4315545&key=adhiostxFKMSUV3569&url="},
+
+{"name":"一解100次2","type":1,"url":"https://s4.s100.vip:37811/home/api?type=ys&uid=4322502&key=ajrtuwxACFGMORZ048&url="},
+
+{"name":"一解100次3","type":1,"url":"https://s4.s100.vip:37811/home/api?type=ys&uid=4338658&key=adgmpqszCKPUX12368&url="},
+
+{"name":"一解100次3","type":1,"url":" https://s4.s100.vip:37811/home/api?type=ys&uid=4343385&key=ekortuwxABDIOWZ078&url="},
+
+{"name":"4K20次1","type":1,"url":"http://api.jiexi.plus/api/?key=bd3e3f230b69883f6b4e5093a1378009&url="},
+
+{"name":"4K20次2","type":1,"url":"http://api.jiexi.plus/api/?key=e102e3244fae27a050199310da8074bd&url="},
+
+{"name":"4K20次3","type":1,"url":"http://api.jiexi.plus/api/?key=ad5178c22ece22a8da0e618d4957e101&url="},
+
+{"name":"4K20次4","type":1,"url":"http://api.jiexi.plus/api/?key=f1e146594a1da7d582a20fa4d3369fc3&url="},
 
 {"name":"解析1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
