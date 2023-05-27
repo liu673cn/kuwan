@@ -314,31 +314,36 @@
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name":"FY4K","type":1,"url":"https://daina.hk/api/?key=e7eeb27cfc347b8de7c1bf0c40b3d3bb&url="},
+{"name":"解析1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
-{"name":"yim","type":1,"url":"http://json.yimufund.net/jsonindex.php?url=","ext":{"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
+{"name":"解析2","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
 
-{"name":"880","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
+{"name":"解析3","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
 
-{"name":"4567","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+{"name":"解析4","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
 
-{"name":"5555","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
+{"name":"解析5","type":1,"url":"https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url="},
 
-{"name":"LLK","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
+{"name":"解析6","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
 
-{"name":"尘烟","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
+{"name":"解析7","type":1,"url":"http://json.yimufund.net/jsonindex.php?url=","ext":{"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
 
-{"name":"4433","type":1,"url":"https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url="},
+{"name":"嗅探1","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 
-{"name":"爱酷","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+{"name":"嗅探2","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 
-{"name":"JSPL","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+{"name":"嗅探3","type":0,"url":"http://91fanli.top/m3u8/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 
-{"name":"JXDP","type":0,"url":"https://jxdp.codermart.net/?url="},
+{"name":"嗅探4","type":0,"url":"https://jxdp.codermart.net/?url="},
 
-{"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+{"name":"嗅探5","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 
-{"name":"8090","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}}
+{"name":"嗅探6","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+
+{"name":"嗅探7","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+
+{"name":"嗅探8","type":0,"url":"https://jx.ppjbk.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}}
+
 
 ],
 
