@@ -308,10 +308,6 @@
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name":"一解100次","type":1,"url":"https://s4.s100.vip:37811/home/api?type=ys&uid=4441484&key=floquvzBHKNUWXZ039&url="},
-
-{"name":"4K20次","type":1,"url":"http://api.jiexi.plus/api/?key=89e30f989b8bff2c9e67f5b344d0ab17&url="},
-
 {"name":"解析1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
 {"name":"解析2","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
