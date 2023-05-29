@@ -33,14 +33,14 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"🖖豆瓣推荐┃接口通用-Q群497567220","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,
+{"key":"豆瓣","name":"🖖豆瓣推荐┃适配影视仓+影视app-Q群497567220","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,
 "ext":"./js/douban.js"},
 
 {"key":"本地","name":"🕳️YYDS┃本地","type":3,"api":"csp_Local","searchable":0,"filterable":0,"changeable":0},
 
 {"key":"在线","name":"🧵在线┃之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 
-{"key":"Libo","name":"🧰Libo┃影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
+{"key":"Libo","name":"🧰Libo┃影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.cc/"},
 
 {"key":"低端","name":"🔅低端┃影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -194,7 +194,11 @@
 
 {"key":"厂长","name":"🏭厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"图图","name":"🐰图图┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+{"key":"csp_Dy1010","name":"➕双十┃影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_fantuan","name":"🍙饭团┃影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
+
+{"key":"csp_Auete","name":"👨‍✈️奥特┃影视","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"神马","name":"🐎神马┃影视","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -204,9 +208,14 @@
 
 {"key":"apple","name":"🍎苹果┃影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"csp_Lgyy","name":"🌀蓝光┃影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},
+
 {"key":"快看","name":"👀快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"YQK","name":"🙌一起┃影视","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
+
+{"key":"图图","name":"🐰图图┃影视","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"SldYWXFabkhXTWlsTlpMdFNSSyN0ek1JdzlJQVJSY00=$$$Q01pbkowUzdvNnNZWk1WVw==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+
 
 
 
@@ -218,7 +227,7 @@
 
 {"key":"新视觉","name":"😎视觉┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/新视觉.js"},
 
-{"key":"饭团","name":"😎饭团┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/饭团影视.js"},
+//{"key":"饭团","name":"😎饭团┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/饭团影视.js"},
 
 {"key":"城市影视","name":"😎城市┃电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/城市.js"},
 
@@ -230,11 +239,11 @@
 
 {"key":"皮皮鸭","name":"😎皮皮┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 
-{"key":"双十","name":"😎双十┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/1010.js"},
+//{"key":"双十","name":"😎双十┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/1010.js"},
 
 {"key":"007","name":"😎007┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/007.js"},
 
-{"key":"奥特","name":"😎奥特┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奥特.js"},
+//{"key":"奥特","name":"😎奥特┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奥特.js"},
 
 
 
@@ -242,16 +251,13 @@
 
 
 //XBPQ
-
-{"key":"vidh","name":"🤡Vidh┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/vidhub.json"},
+{"key":"一龙","name":"🤡一龙┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/一龙.json"},
 
 {"key":"555影视","name":"🤡555┃影视","type":3 ,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/555.json"},
 
 {"key":"大米","name":"🤡大米┃星球","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/大米.json"},
 
-{"key":"一龙","name":"🤡一龙┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/一龙.json"},
-
-{"key":"思古","name":"🤡思古┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/思古.json"},
+{"key":"vidh","name":"🤡Vidh┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/vidhub.json"},
 
 {"key":"看看剧","name":"🤡看看┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
 
@@ -266,6 +272,8 @@
 {"key":"free","name":"🤡Free┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/free.json"},
 
 {"key":"端木","name":"🤡端木┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/端木.json"},
+
+{"key":"思古","name":"🤡思古┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/思古.json"},
 
 
 
@@ -354,6 +362,7 @@
 
 
 
+
 /*
 "rules": [
 {"name": "量子廣告","hosts": ["vip.lz","hd.lz"],
@@ -373,6 +382,7 @@
 
 
 
+
 "rules": [
 {"host": "*","rule": ["default.365yg.com"]},
 {"host": "dyxs20.com","rule": [".m3u8"]},
@@ -387,10 +397,10 @@
 
 
 
+
 //解码
 "ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"max-buffer-size","value":"5242880"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"max-buffer-size","value":"5242880"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
 
 
 
 "ads":["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]}
-
