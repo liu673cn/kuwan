@@ -54,6 +54,8 @@
 
 {"key":"多米","name":"🍚多米┃蓝光","type":3,"api":"./lib/drpy2.min.js","ext":"./js/多米.js"}, 
 
+{"key":"酷影","name":"😎酷影┃蓝光","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷影.js"}, 
+
 {"key":"快看资源","name":"💈快看┃切片","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 {"key":"小鱼","name":"🐟小鱼┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/小鱼.json"},
