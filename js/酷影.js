@@ -1,6 +1,6 @@
 var rule = {
 	title: '酷影[V2]', // csp_AppYsV2
-	host: 'http://kuyun.realku.cn/',
+	host: 'http://ys.realdou.cn/',
 	homeUrl:'/api.php/app/index_video',
 	// url: '/api.php/app/video?tid=fyclass&class=&area=&lang=&year=&limit=20&pg=fypage',
 	url: '/api.php/app/video?tid=fyclassfyfilter&limit=20&pg=fypage',
