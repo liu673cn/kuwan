@@ -196,10 +196,6 @@
 
 {"key":"厂长","name":"🏭厂长┃影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"1010","name":"➕双十┃影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"饭团","name":"🍙饭团┃影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
-
 {"key":"奥特","name":"👨‍✈️奥特┃影视","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"神马","name":"🐎神马┃影视","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
@@ -229,7 +225,7 @@
 
 {"key":"新视觉","name":"😎视觉┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/新视觉.js"},
 
-//{"key":"饭团","name":"😎饭团┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/饭团影视.js"},
+{"key":"饭团","name":"😎饭团┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/饭团影视.js"},
 
 {"key":"城市影视","name":"😎城市┃电影","type":3,"api":"./lib/drpy2.min.js","ext":"./js/城市.js"},
 
@@ -241,7 +237,7 @@
 
 {"key":"皮皮鸭","name":"😎皮皮┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 
-//{"key":"双十","name":"😎双十┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/1010.js"},
+{"key":"双十","name":"😎双十┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/1010.js"},
 
 {"key":"007","name":"😎007┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./js/007.js"},
 
