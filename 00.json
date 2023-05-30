@@ -196,8 +196,6 @@
 
 {"key":"1010","name":"➕双十┃影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"饭团","name":"🍙饭团┃影视","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
-
 {"key":"奥特","name":"👨‍✈️奥特┃影视","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"神马","name":"🐎神马┃影视","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
