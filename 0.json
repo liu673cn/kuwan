@@ -52,9 +52,9 @@
 
 {"key":"如意","name":"😏如意┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},  
 
-{"key":"多米","name":"🍚多米┃蓝光","type":3,"api":"./lib/drpy2.min.js","ext":"./js/多米.js"}, 
+{"key":"酷影","name":"😎酷影┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ys.realdou.cn/api.php/app/"},  
 
-{"key":"酷影","name":"😎酷影┃蓝光","type":3,"api":"./lib/drpy2.min.js","ext":"./js/酷影.js"}, 
+{"key":"多米","name":"🍚多米┃蓝光","type":3,"api":"./lib/drpy2.min.js","ext":"./js/多米.js"}, 
 
 {"key":"快看资源","name":"💈快看┃切片","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
