@@ -72,7 +72,9 @@
 
 {"key":"3","name":"迷你","type":3,"api":"./lib/drpy2.min.js","ext":"./js/迷你库.js"},
 
+{"key":"4","name":"如意","type":3,"api":"./lib/drpy2.min.js","ext":"./js/如意.js"},
 
+{"key":"5","name":"鸭鸭","type":3,"api":"./lib/drpy2.min.js","ext":"./js/鸭鸭.js"},
 
 
 
