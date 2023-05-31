@@ -305,7 +305,7 @@
 
 {"key":"xh3","name":"🇨🇳任何广告","type":3,"api":"csp_xh","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key":"TS","name":"🇨🇳告知","type":3,"api":"csp_Notice","ext":"影视天下第一！影视仓宇宙第一！"}
+{"key":"TS","name":"🇨🇳告知","type":3,"api":"csp_Notice","ext":"影视天下第一！影视仓宇宙第一！","jar":"./jar/fm.jar"}
 
 ],
 
