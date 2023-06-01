@@ -67,6 +67,7 @@
 
 {"key":"量子","name":"🏂量子┃资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/"},
 
+{"key":"来看","name":"😻来看┃点播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/来看点播.json"},
 
 
 
