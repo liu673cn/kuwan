@@ -1,18 +1,11 @@
 {
-  "vodPic": "./joy.ico",
+  "vodPic": "https://jihulab.com/xiaohutx/box/-/raw/main/json/joy.ico",
   "drives": [
     {
       "name": "小丫",
       "server": "http://alist.xiaoya.pro"
-    },
-    {
-      "name": "触光",
-      "server": "https://pan.ichuguang.com"
-    },
-    {
-      "name": "星梦",
-      "server": "https://pan.bashroot.top"
     }
+
     
   ]
 }
