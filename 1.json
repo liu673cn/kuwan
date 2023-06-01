@@ -69,9 +69,6 @@
 {"key":"豆豆飞","name":"🍼豆豆飞","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/豆豆飞.json"},
 
-{"key":"土狗搜索","name":"🍼土狗搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"./XYQH/土狗搜索.json"},
-
 {"key":"DOVX搜索","name":"🍼七夜搜索","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
 "ext":"./XYQH/DOVX搜索.json"},
 
