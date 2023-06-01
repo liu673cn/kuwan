@@ -114,9 +114,6 @@
 {"key":"找资源","name":"🌞资源┃阿里","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt $$$xiaohutx$$$xiaohutx"},
 
-{"key":"土狗","name":"🐕土狗┃阿里","type":3,"api": "csp_TuGou","searchable":1,"quickSearch":1,"changeable":0,
-"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
-
 {"key":"push_agent","name":"🎠推送┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,
 "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt"},
 
