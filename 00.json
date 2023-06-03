@@ -42,6 +42,8 @@
 
 {"key":"多米","name":"农民┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
 
+{"key":"酷影","name":"农民┃HD","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},
+
 {"key":"轻简","name":"农民┃VIP","type": 1,"api": "http://1.ahailove.cn:23455/cj/api.php/provide/vod/","categories": ["电影","电视剧","综艺","动漫"]},
 
 {"key":"看看剧","name":"农民┃看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
