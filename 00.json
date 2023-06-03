@@ -63,7 +63,8 @@
 {"key":"来看","name":"农民┃自建","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/来看点播.json"},
 
 {"key":"玩偶","name":"玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt"},
+"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt$$$http://wogg.xyz/"},
+
 
 {"key":"七夜","name":"七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt"}
 
