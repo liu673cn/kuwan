@@ -73,9 +73,47 @@
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name":"4K","type":1,"url":"http://json.key521.cn/api/?key=545dcd754879dc02a6087dd1d47e38d0&url="},
-
-{"name":"4K","type":1,"url":"http://xhww.fun:63/%E7%B1%B3%E9%A5%AD.php?url=","User-Agent":"okhttp/3.12.0"}, 
+{
+            "name": "4K", 
+            "type": 1, 
+            "url": "http://xhww.fun:63/好吃.php?url=", 
+            "User-Agent": "okhttp/3.12.0", 
+            "ext": {
+                "flag": [
+                    "qq", 
+                    "ruyi4K", 
+                    "腾讯", 
+                    "hgvip", 
+                    "hgyx", 
+                    "qiyi", 
+                    "爱奇艺", 
+                    "奇艺", 
+                    "youku", 
+                    "优酷", 
+                    "sohu", 
+                    "搜狐", 
+                    "letv", 
+                    "乐视", 
+                    "XAl",
+                    "yk", 
+                    "mgtv",
+                    "imgo",
+                    "芒果", 
+                    "CL4K", 
+                    "renrenmi", 
+                    "hulihuli-", 
+                    "ltnb", 
+                    "bilibili", 
+                    "BAGY", 
+                    "SLYS4K", 
+                    "DM-FT1", 
+                    "DM-FT3", 
+                    "bilibili", 
+                    "1905", 
+                    "xigua"
+                ]
+            }
+        },  
 
 {"name":"解析1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
