@@ -51,7 +51,7 @@
 
 {"key":"布雷","name":"布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
 
-{"key":"drpy_js_饭团电影","name":"农民┃高清","type":3,"api":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/api/v1/repos/hjdhnx/dr_py/raw/master/js/饭团影视.js"},
+{"key":"饭团","name":"农民┃高清","type":3,"api":"./lib/drpy2.min.js","ext":"./js/饭团影视.js"},
 
 {"key":"drpy_js_酷客影院","name":"农民┃速播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷客影院.js"},
 
