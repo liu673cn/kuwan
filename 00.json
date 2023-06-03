@@ -62,7 +62,7 @@
 
 {"key":"wz","name":"农民┃备用","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/wz.json"},
 
-{"key":"来看","name":"农民┃自建","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/来看点播.json"},
+{"key":"速度","name":"农民┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/速度.json"},
 
 {"key":"玩偶","name":"玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt$$$http://wogg.xyz/"},
