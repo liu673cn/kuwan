@@ -1,6 +1,6 @@
 {
 //jar
-"spider":"./jar/0602.jar;md5;61481b21ab128014bb527a0f0ad4a45b",
+"spider":"./jar/0603.jar;md5;9fcc2ed12545bcb180d1bbdbbf620102",
 
 
 //壁纸
@@ -72,7 +72,7 @@
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name":"农民┃4K","type":1,"url":"http://json.key521.cn/api/?key=545dcd754879dc02a6087dd1d47e38d0&url="},
+{"name":"4K","type":1,"url":"http://xhww.fun:63/%E7%B1%B3%E9%A5%AD.php?url=","User-Agent":"okhttp/3.12.0"},
 
 {"name":"解析1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
