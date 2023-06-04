@@ -37,6 +37,8 @@
 
 {"key":"看看剧","name":"农民┃看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
 
+{"key":"电影港","name":"电影┃港湾","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
+
 {"key":"热播","name":"农民┃热播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/热播之家.json"},
 
 {"key":"爱迪","name":"农民┃聚合","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
