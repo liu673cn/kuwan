@@ -27,21 +27,13 @@
 
 {"key":"HDmoli","name":"农民┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/js/moli.json"},
 
-{"key":"熊熊","name":"农民┃专用","type":3,"api":"csp_XBPQ","ext":"./XBPQ/磁力熊.json"},
-
-{"key":"磁力熊","name":"农民┃4K","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"changeable":1},
+{"key":"熊熊","name":"农民┃4K","type":3,"api":"csp_XBPQ","ext":"./XBPQ/磁力熊.json"},
 
 {"key":"多米","name":"农民┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
-
-{"key":"如意","name":"如意┃4K","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
-
-{"key":"轻简","name":"农民┃VIP","type": 1,"api": "http://1.ahailove.cn:23455/cj/api.php/provide/vod/","categories": ["电影","电视剧","综艺","动漫"]},
 
 {"key":"看看剧","name":"农民┃看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
 
 {"key":"热播","name":"农民┃热播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/热播之家.json"},
-
-{"key":"皮皮鸭","name":"农民┃推荐","type":3,"api":"https://jihulab.com/xiaohutx/box/-/raw/main/lib/drpy2.min.js","ext":"https://jihulab.com/xiaohutx/box/-/raw/main/js/皮皮鸭.js"},
 
 {"key":"爱迪","name":"农民┃聚合","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
@@ -50,10 +42,6 @@
 {"key":"drpy_js_酷客影院","name":"农民┃速播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷客影院.js"},
 
 {"key":"爱看影院","name":"农民┃爱看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/js/aikan.json"},
-
-{"key":"wz","name":"农民┃备用","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/xiaohutx/box/-/raw/main/XBPQ/wz.json"},
-
-{"key":"速度","name":"农民┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/速度.json"},
 
 {"key":"玩偶","name":"玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/tok.txt$$$http://wogg.xyz/"},
