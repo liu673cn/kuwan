@@ -60,49 +60,7 @@
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{
-            "name": "4K", 
-            "type": 1, 
-            "url": "http://xhww.fun:63/窗外.php?url=", 
-            "User-Agent": "okhttp/3.12.0", 
-            "ext": {
-                "flag": [
-                    "qq", 
-                    "ruyi4K", 
-                    "腾讯", 
-                    "hgvip", 
-                    "hgyx", 
-                    "qiyi", 
-                    "爱奇艺", 
-                    "奇艺", 
-                    "youku", 
-                    "优酷", 
-                    "sohu", 
-                    "搜狐", 
-                    "letv", 
-                    "乐视", 
-                    "XAl",
-                    "yk", 
-                    "mgtv",
-                    "imgo",
-                    "芒果", 
-                    "CL4K", 
-                    "renrenmi", 
-                    "hulihuli-", 
-                    "ltnb", 
-                    "bilibili", 
-                    "BAGY", 
-                    "SLYS4K", 
-                    "DM-FT1", 
-                    "DM-FT3", 
-                    "bilibili", 
-                    "1905", 
-                    "xigua"
-                ]
-            }
-        }, 
-
-{"name":"4K","type":1,"url":"http://xhww.fun:63/窗外.php?url=","User-Agent":"okhttp/3.12.0"},       
+{"name":"4K","type":1,"url":"http://xhww.fun:63/窗外.php?url=","User-Agent":"okhttp/3.12.0"},
 
 {"name":"解析1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
@@ -122,7 +80,7 @@
 
 {"name":"嗅探2","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 
-{"name":"嗅探3","type":0,"url":"http://91fanli.top/m3u8/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"嗅探3","type":0,"url":"https://vip.hfyj.ml/player/?url="},
 
 {"name":"嗅探4","type":0,"url":"https://jxdp.codermart.net/?url="},
 
@@ -130,15 +88,19 @@
 
 {"name":"嗅探6","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 
-{"name":"嗅探7","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"嗅探7","type":0,"url":"https://jx.xmflv.com/?url="},
 
-{"name":"嗅探8","type":0,"url":"https://jx.ppjbk.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"嗅探8","type":0,"url":"http://91fanli.top/m3u8/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 
-{"name":"嗅探9","type":0,"url":"https://jx.playerjy.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"嗅探9","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 
-{"name":"嗅探10","type":0,"url":"https://api.jiexi.la/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+{"name":"嗅探10","type":0,"url":"https://jx.ppjbk.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
 
-{"name":"嗅探11","type":0,"url":"https://jx.playerjy.com/?ads=0&url="}
+{"name":"嗅探11","type":0,"url":"https://jx.playerjy.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+
+{"name":"嗅探12","type":0,"url":"https://api.jiexi.la/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
+
+{"name":"嗅探13","type":0,"url":"https://jx.playerjy.com/?ads=0&url="}
 
 ],
 
