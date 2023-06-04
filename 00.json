@@ -41,6 +41,8 @@
 
 {"key":"热播","name":"农民┃热播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/热播之家.json"},
 
+{"key":"皮皮鸭","name":"农民┃推荐","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
+
 {"key":"爱迪","name":"农民┃聚合","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
 {"key":"布雷","name":"布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
