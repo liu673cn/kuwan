@@ -2,7 +2,7 @@
     "主页url": "https://cddys.vip/", 
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4", 
     "分类url": "https://cddys.vip//vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;val", 
-    "线路数组": "data-dropdown-value=&&</div>[排序:农民独播>农民VIP>农民自营]",
+    "线路数组": "data-dropdown-value=&&</div>[排序:臭蛋蛋1>臭蛋蛋3>臭蛋蛋4]",
     "线路标题":"<span>&&</small>[替换:</span><small>>>共]+集",
     "跳转播放链接": "https://bfq.cddys.vip/bfq/?url=+vod_class*url\":\"&&\"", 
     "二次跳转播放链接": "https://bfq.cddys.vip/bfq/API.php;post;url=+\"url\"*\"&&\"+&time=+\"time\"*\"&&\"+&key=+\"key\"*\"&&\"", 
