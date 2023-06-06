@@ -46,7 +46,7 @@
 
 {"key":"热剧猫","name":"农民┃热剧","type":3,"api":"csp_XBPQ","ext":"./XBPQ/热剧猫.json"},
 
-{"key":"臭蛋蛋","name":"农民┃独播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/臭蛋蛋.json"},
+{"key":"臭蛋蛋","name":"农民┃追剧","type":3,"api":"csp_XBPQ","ext":"./XBPQ/臭蛋蛋.json"},
 
 {"key":"看看剧","name":"农民┃看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
 
@@ -100,7 +100,7 @@
 
 {
             "key": "蚂蚁", 
-            "name": "农民┃追剧", 
+            "name": "农民┃独播", 
             "type": 3, 
             "api": "csp_XBPQ", 
             "ext": "http://xhww.fun:63/小米/源/蚂蚁.json"
