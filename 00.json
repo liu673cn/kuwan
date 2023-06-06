@@ -58,7 +58,7 @@
             "type": 3, 
             "api": "csp_XBPQ", 
             "playerType": "1", 
-            "ext": "./XBPQ/子子影院"
+            "ext": "./XBPQ/子子影院.json"
         }, 
 
 {"key":"电影港","name":"农民┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
