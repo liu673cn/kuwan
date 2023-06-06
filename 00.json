@@ -50,6 +50,15 @@
 
 {"key":"小鱼","name":"农民┃聚合","type":3,"api":"csp_XBPQ","ext":"./XBPQ/小鱼.json"},
 
+{
+            "key": "滋滋", 
+            "name": "农民┃爱看", 
+            "type": 3, 
+            "api": "csp_XBPQ", 
+            "playerType": "1", 
+            "ext": "./XBPQ/子子影院"
+        }, 
+
 {"key":"电影港","name":"农民┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
 {
