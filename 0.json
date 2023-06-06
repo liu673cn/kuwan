@@ -44,13 +44,24 @@
 
 {"key":"多米","name":"酷点┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
 
-{"key":"爱看影院","name":"酷点┃爱看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/js/aikan.json"},
-
 {"key":"热剧猫","name":"酷点┃热剧","type":3,"api":"csp_XBPQ","ext":"./XBPQ/热剧猫.json"},
 
 {"key":"看看剧","name":"酷点┃看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
 
-{"key":"小鱼","name":"酷点┃聚合","type":3,"api":"csp_XBPQ","ext":"./XBPQ/小鱼.json"},
+{"key":"一龙","name":"酷点┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
+
+{
+            "key": "滋滋", 
+            "name": "酷点┃高速", 
+            "type": 3, 
+            "api": "csp_XBPQ", 
+            "playerType": "1", 
+            "ext": "./XBPQ/子子影院"
+        }, 
+
+{"key":"电影港","name":"酷点┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
+
+{"key":"如意","name":"如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
 {
             "key": "蓝光官采", 
@@ -86,18 +97,24 @@
 
 {"key":"free","name":"酷点┃推荐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/free.json"},
 
-{"key":"奇优","name":"酷点┃在线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优.json"},
+{
+            "key": "蚂蚁", 
+            "name": "酷点┃独播", 
+            "type": 3, 
+            "api": "csp_XBPQ", 
+            "ext": "http://xhww.fun:63/小米/源/蚂蚁.json"
+        }, 
 
 {"key":"布雷","name":"布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
 
-{"key":"搜狗","name":"酷点┃官方","type":3,"api":"http://rul2oe7c4.bkt.clouddn.com/js/lib/drpy2.min.js","ext":"http://rul2oe7c4.bkt.clouddn.com/js/caigou.js"}
+{"key":"搜狗","name":"农民┃官方","type":3,"api":"http://rul2oe7c4.bkt.clouddn.com/js/lib/drpy2.min.js","ext":"http://rul2oe7c4.bkt.clouddn.com/js/caigou.js"}
 
 ],
 
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name":"4K","type":1,"url":"http://xhww.fun:63/窗外.php?url=","User-Agent":"okhttp/3.12.0"},
+{"name": "4K","type": 1,"url": "http://xhww.fun:63/电线杆.php?url=","User-Agent": "okhttp/3.12.0"},
 
 {"name":"解析1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
