@@ -54,7 +54,7 @@
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name":"打死你个大笨蛋","type":1,"url":"http://xhww.fun:63/窗外.php?url=","User-Agent":"okhttp/3.12.0"},
+{"name":"4K","type":1,"url":"http://xhww.fun:63/窗外.php?url=","User-Agent":"okhttp/3.12.0"},
 
 {"name":"解析1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
