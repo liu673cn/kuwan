@@ -50,8 +50,6 @@
 
 {"key":"一龙","name":"农民┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
-{"key":"小鱼","name":"农民┃聚合","type":3,"api":"csp_XBPQ","ext":"./XBPQ/小鱼.json"},
-
 {
             "key": "滋滋", 
             "name": "农民┃高速", 
