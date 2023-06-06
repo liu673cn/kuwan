@@ -52,6 +52,8 @@
 
 {"key":"小鱼","name":"农民┃聚合","type":3,"api":"csp_XBPQ","ext":"./XBPQ/小鱼.json"},
 
+{"key":"电影港","name":"农民┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
+
 {
             "key": "蓝光官采", 
             "name": "农民┃解析", 
