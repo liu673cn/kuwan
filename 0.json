@@ -46,6 +46,8 @@
 
 {"key":"热剧猫","name":"酷点┃热剧","type":3,"api":"csp_XBPQ","ext":"./XBPQ/热剧猫.json"},
 
+{"key":"臭蛋蛋","name":"酷点┃追剧","type":3,"api":"csp_XBPQ","ext":"./XBPQ/臭蛋蛋.json"},
+
 {"key":"看看剧","name":"酷点┃看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
 
 {"key":"一龙","name":"酷点┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
@@ -56,7 +58,7 @@
             "type": 3, 
             "api": "csp_XBPQ", 
             "playerType": "1", 
-            "ext": "./XBPQ/子子影院"
+            "ext": "./XBPQ/子子影院.json"
         }, 
 
 {"key":"电影港","name":"酷点┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
@@ -106,7 +108,7 @@
 
 {"key":"布雷","name":"布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
 
-{"key":"搜狗","name":"农民┃官方","type":3,"api":"http://rul2oe7c4.bkt.clouddn.com/js/lib/drpy2.min.js","ext":"http://rul2oe7c4.bkt.clouddn.com/js/caigou.js"}
+{"key":"搜狗","name":"酷点┃官方","type":3,"api":"http://rul2oe7c4.bkt.clouddn.com/js/lib/drpy2.min.js","ext":"http://rul2oe7c4.bkt.clouddn.com/js/caigou.js"}
 
 ],
 
@@ -391,4 +393,3 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
-
