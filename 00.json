@@ -45,13 +45,7 @@
 
 {"key":"奇优","name":"农民┃在线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优.json"},
 
-{"key":"布雷","name":"布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
-
-{"key":"玩偶","name":"玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/to.txt$$$http://wogg.xyz/"},
-
-
-{"key":"七夜","name":"七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/to.txt"}
+{"key":"布雷","name":"布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"}
 
 ],
 
