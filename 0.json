@@ -93,7 +93,6 @@
             ]
         }, 
 
-{"key":"快看","name":"酷点┃快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
 {"key":"free","name":"酷点┃推荐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/free.json"},
 
