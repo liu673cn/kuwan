@@ -52,6 +52,36 @@
 
 {"key":"小鱼","name":"农民┃聚合","type":3,"api":"csp_XBPQ","ext":"./XBPQ/小鱼.json"},
 
+{
+            "key": "蓝光官采", 
+            "name": "农民┃解析", 
+            "type": 1, 
+            "api": "http://zy.xiaomaomi.vip/api.php/provide/vod/?ac=list", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "playUrl": "https://jx.jsonplayer.com/player/?url=", 
+            "filterable": 0, 
+            "categories": [
+                "国产剧", 
+                "综艺", 
+                "动漫", 
+                "香港剧", 
+                "动作片", 
+                "科幻片", 
+                "战争片", 
+                "奇幻片", 
+                "喜剧片", 
+                "爱情片", 
+                "恐怖片", 
+                "犯罪片", 
+                "悬疑片", 
+                "惊悚片", 
+                "剧情片", 
+                "冒险片", 
+                "记录片"
+            ]
+        }, 
+
 {"key":"快看","name":"农民┃快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
 {"key":"free","name":"农民┃推荐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/free.json"},
