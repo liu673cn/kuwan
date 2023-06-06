@@ -29,15 +29,58 @@
 
 {"key":"熊熊","name":"酷点┃4K","type":3,"api":"csp_XBPQ","ext":"./XBPQ/磁力熊.json"},
 
+{
+            "key": "玩偶1", 
+            "name": "酷点┃APP", 
+            "type": 3, 
+            "api": "csp_AppYsV2", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1, 
+            "ext": "http://xn--yeta099v.online:66/api.php/app/"
+        }, 
+
 {"key":"磁力熊","name":"酷点┃VIP","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"changeable":1},
 
-{"key":"多米","name":"多米┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
+{"key":"多米","name":"酷点┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
 
 {"key":"爱看影院","name":"酷点┃爱看","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/js/aikan.json"},
+
+{"key":"热剧猫","name":"酷点┃热剧","type":3,"api":"csp_XBPQ","ext":"./XBPQ/热剧猫.json"},
 
 {"key":"看看剧","name":"酷点┃看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
 
 {"key":"小鱼","name":"酷点┃聚合","type":3,"api":"csp_XBPQ","ext":"./XBPQ/小鱼.json"},
+
+{
+            "key": "蓝光官采", 
+            "name": "酷点┃解析", 
+            "type": 1, 
+            "api": "http://zy.xiaomaomi.vip/api.php/provide/vod/?ac=list", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "playUrl": "https://jx.jsonplayer.com/player/?url=", 
+            "filterable": 0, 
+            "categories": [
+                "国产剧", 
+                "综艺", 
+                "动漫", 
+                "香港剧", 
+                "动作片", 
+                "科幻片", 
+                "战争片", 
+                "奇幻片", 
+                "喜剧片", 
+                "爱情片", 
+                "恐怖片", 
+                "犯罪片", 
+                "悬疑片", 
+                "惊悚片", 
+                "剧情片", 
+                "冒险片", 
+                "记录片"
+            ]
+        }, 
 
 {"key":"快看","name":"酷点┃快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
@@ -45,7 +88,9 @@
 
 {"key":"奇优","name":"酷点┃在线","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优.json"},
 
-{"key":"布雷","name":"布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"}
+{"key":"布雷","name":"布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
+
+{"key":"搜狗","name":"酷点┃官方","type":3,"api":"http://rul2oe7c4.bkt.clouddn.com/js/lib/drpy2.min.js","ext":"http://rul2oe7c4.bkt.clouddn.com/js/caigou.js"}
 
 ],
 
@@ -330,3 +375,4 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
