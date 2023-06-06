@@ -48,6 +48,8 @@
 
 {"key":"看看剧","name":"农民┃看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
 
+{"key":"一龙","name":"农民┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
+
 {"key":"小鱼","name":"农民┃聚合","type":3,"api":"csp_XBPQ","ext":"./XBPQ/小鱼.json"},
 
 {
