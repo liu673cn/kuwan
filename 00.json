@@ -60,8 +60,7 @@
             "api": "csp_XBPQ", 
             "ext": "http://xhww.fun:63/小米/源/兔兔.json"
         },
-
-{"key":"热播","name":"热播┃之家","type":3,"api":"csp_XBPQ","ext":"./XBPQ/热播之家.json"},       
+       
 
 {"key":"一龙","name":"农民┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
