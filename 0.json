@@ -42,7 +42,7 @@
 
 {"key":"磁力熊","name":"酷点┃VIP","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"changeable":1},
 
-{"key":"多米","name":"酷点┃蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vod.dmdh.top:5680//api.php/app/"},
+{"key":"多米","name":"酷点┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 
 {"key":"热剧猫","name":"酷点┃热剧","type":3,"api":"csp_XBPQ","ext":"./XBPQ/热剧猫.json"},
 
@@ -50,50 +50,52 @@
 
 {"key":"看看剧","name":"酷点┃看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
 
+{
+            "key": "兔兔", 
+            "name": "酷点｜在线", 
+            "type": 3, 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "api": "csp_XBPQ", 
+            "ext": "http://xhww.fun:63/小米/源/兔兔.json"
+        },
+       
+
 {"key":"一龙","name":"酷点┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
+{"key":"子子","name":"酷点┃高速","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
+
 {
-            "key": "滋滋", 
-            "name": "酷点┃高速", 
+            "key": "串串", 
+            "name": "酷点┃️TV", 
             "type": 3, 
             "api": "csp_XBPQ", 
-            "playerType": "1", 
-            "ext": "./XBPQ/子子影院.json"
+            "ext": {
+"请求头":"手机#Referer$http://bczhuiju.com/",
+"主页url":"http://bczhuiju.com",
+"副标题":"<div class=\"module-item-note\">&&</div>",
+"线路数组":"data-dropdown-value=&&</div>[不包含:LZ在线#备用线路]",
+"线路标题":"<span>&&</span>",
+"嗅探词":".m3u8#aliyundrive.net#auth_key=#mp4",
+"播放数组":"<div class=\"module-play-list-content&&</div>",
+"影片类型":"<div class=\"module-info-tag\">&&立即播放",
+"导演":"导演：</span>&&</div>",
+"主演":"主演：</span>&&</div>",
+"简介":"style=\"line-height: 20px;\"&&</p>",
+"播放列表":"<a&&</a>",
+"播放标题":"<span>&&</span>",
+"播放链接":"href=\"&&\"",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+"分类url":"http://bczhuiju.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/;;mu0"
+                
+            }
+            
         }, 
 
 {"key":"电影港","name":"酷点┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
 {"key":"如意","name":"如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
-
-{
-            "key": "蓝光官采", 
-            "name": "酷点┃解析", 
-            "type": 1, 
-            "api": "http://zy.xiaomaomi.vip/api.php/provide/vod/?ac=list", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "playUrl": "https://jx.jsonplayer.com/player/?url=", 
-            "filterable": 0, 
-            "categories": [
-                "国产剧", 
-                "综艺", 
-                "动漫", 
-                "香港剧", 
-                "动作片", 
-                "科幻片", 
-                "战争片", 
-                "奇幻片", 
-                "喜剧片", 
-                "爱情片", 
-                "恐怖片", 
-                "犯罪片", 
-                "悬疑片", 
-                "惊悚片", 
-                "剧情片", 
-                "冒险片", 
-                "记录片"
-            ]
-        }, 
 
 
 {"key":"free","name":"酷点┃推荐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/free.json"},
@@ -115,7 +117,11 @@
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name": "4K","type": 1,"url": "http://xhww.fun:63/电线杆.php?url=","User-Agent": "okhttp/3.12.0"},
+{
+            "name": "4K", 
+            "type": 1, 
+            "url": "http://xhww.fun:63/稻香.php?url=", 
+            "User-Agent": "okhttp/3.12.0"},
 
 {"name":"解析1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 
