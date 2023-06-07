@@ -37,7 +37,7 @@
 
 {"key":"360","name":"农民┃官解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360.js"},
 
-
+{"key":"策驰","name":"策驰┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/策驰.json"},
 
 {"key":"看看剧","name":"农民┃看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
 
