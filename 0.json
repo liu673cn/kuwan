@@ -66,6 +66,8 @@
 
 {"key":"子子","name":"酷点┃高速","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
 
+{"key":"皮皮鸭","name":"酷点┃云播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
+
 {
             "key": "串串", 
             "name": "酷点┃️TV", 
