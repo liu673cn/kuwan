@@ -61,6 +61,8 @@
             "ext": "http://xhww.fun:63/小米/源/兔兔.json"
         },
 
+{"key":"热播之家","name":"农民┃热播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/臭蛋蛋.json"},       
+
 {"key":"一龙","name":"农民┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
 {"key":"子子","name":"农民┃高速","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
