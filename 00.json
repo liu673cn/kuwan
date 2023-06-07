@@ -33,15 +33,15 @@
 
 {"key":"多米","name":"农民┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 
-{"key":"热剧猫","name":"农民┃热剧","type":3,"api":"csp_XBPQ","ext":"./XBPQ/热剧猫.json"},
+
 
 {"key":"搜狗","name":"农民┃官解","type":3,"api":"http://rul2oe7c4.bkt.clouddn.com/js/lib/drpy2.min.js","ext":"http://rul2oe7c4.bkt.clouddn.com/js/caigou.js"},
 
-{"key":"臭蛋蛋","name":"农民┃追剧","type":3,"api":"csp_XBPQ","ext":"./XBPQ/臭蛋蛋.json"},
+
 
 {"key":"看看剧","name":"农民┃看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
 
-{"key": "兔兔", "name": "农民｜在线", "type": 3, "searchable": 1, "quickSearch": 1, "filterable": 0, "api": "csp_XBPQ", "ext": "http://xhww.fun:63/小米/源/兔兔.json"},
+
 
 {"key": "玩偶1", "name": "农民┃APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://xn--yeta099v.online:66/api.php/app/"},        
 
