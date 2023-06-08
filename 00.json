@@ -100,6 +100,8 @@
 
 {"name": "4K", "type": 1, "url": "http://xhww.fun:63/夜曲.php?url=", "User-Agent": "okhttp/3.12.0"},
 
+{"name": "4K②","type": 1,"url": "https://json.84jia.com/api/?key=gBwY3Vv5ZyNN6kWHjw&url="},
+
 {"name": "解析1", "type": 1, "url": "https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url="},
 
 {"name":"解析2","type":1,"url":"https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=","ext":{"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},
