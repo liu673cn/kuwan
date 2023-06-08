@@ -20,7 +20,8 @@
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],   
 
-
+//提示
+"warningText":"小盒酷玩提醒：接口免费，切勿付费",
 
 "sites":[
 
