@@ -1,4 +1,5 @@
-//全部扒自网络和大佬资源
+//全部数据来自网络和各大佬资源整合
+//软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后24小时内删除
 //QQ频道：小盒酷玩    公众号：小盒酷玩
 //QQ交流群：817925554
 //咸鱼用户：小盒酷玩  （魔改产品都会挂在上面，有喜欢的发烧友可以支持一下）
@@ -6,15 +7,11 @@
 
 
 {
-//jar
+
 "spider":"./jar/0608.jar;md5;f6fc0c04d3e365f4bc82e0072b6a78ae",
 
+"wallpaper":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/07.png",
 
-//壁纸
-"wallpaper":"https://tool.weetai.cn/api",
-
-
-//直播	
 "lives": [{
 		    "name": "live",
 		    "type": 0,
@@ -24,9 +21,6 @@
 	    }],   
 
 
-
-
-//数据接口
 
 "sites":[
 
@@ -303,7 +297,6 @@
 
 
 
-//解码
 "ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"max-buffer-size","value":"5242880"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"max-buffer-size","value":"5242880"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
 
 
