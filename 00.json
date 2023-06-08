@@ -61,6 +61,9 @@
 
 {"key":"皮皮鸭","name":"农民┃备用","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 
+{"key":"玩偶","name":"🎨玩偶┃阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt$$$http://wogg.xyz/"},
+
 {
             "key": "串串", 
             "name": "农民┃️TV", 
