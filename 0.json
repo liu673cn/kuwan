@@ -29,44 +29,43 @@
 
 {"key":"熊熊","name":"酷点┃4K","type":3,"api":"csp_XBPQ","ext":"./XBPQ/磁力熊.json"},
 
-{
-            "key": "玩偶1", 
-            "name": "酷点┃APP", 
-            "type": 3, 
-            "api": "csp_AppYsV2", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1, 
-            "ext": "http://xn--yeta099v.online:66/api.php/app/"
-        }, 
 
-{"key":"磁力熊","name":"酷点┃VIP","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"changeable":1},
 
-{"key":"多米","name":"酷点┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
+{"key":"搜狗","name":"酷点┃官解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/sougou.js"},
 
-{"key":"热剧猫","name":"酷点┃热剧","type":3,"api":"csp_XBPQ","ext":"./XBPQ/热剧猫.json"},
-
-{"key":"臭蛋蛋","name":"酷点┃追剧","type":3,"api":"csp_XBPQ","ext":"./XBPQ/臭蛋蛋.json"},
+{"key":"策驰","name":"策驰┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/策驰.json"},
 
 {"key":"看看剧","name":"酷点┃看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
 
-{
-            "key": "兔兔", 
-            "name": "酷点｜在线", 
-            "type": 3, 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 0, 
-            "api": "csp_XBPQ", 
-            "ext": "http://xhww.fun:63/小米/源/兔兔.json"
-        },
-       
+{"key":"如意","name":"如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
+
+{"key":"磁力熊","name":"酷点┃VIP","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"changeable":1},      
 
 {"key":"一龙","name":"酷点┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
 {"key":"子子","name":"酷点┃高速","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
 
-{"key":"皮皮鸭","name":"酷点┃云播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
+{"key":"电影港","name":"酷点┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
+
+{"key":"轻简","name":"酷点┃采集","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/"},
+
+{"key":"free","name":"酷点┃推荐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/free.json"},
+
+{"key": "蚂蚁", "name": "酷点┃独播", "type": 3, "api": "csp_XBPQ", "ext": "http://xhww.fun:63/小米/源/蚂蚁.json"}, 
+
+{"key":"布雷","name":"布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
+
+
+
+{"key":"多米","name":"酷点┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
+
+{"key":"皮皮鸭","name":"酷点┃备用","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
+
+{"key":"玩偶","name":"玩偶┃阿里4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt$$$http://wogg.xyz/"},
+
+{"key":"七夜","name":"七夜┃阿里4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,
+"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt"},
 
 {
             "key": "串串", 
@@ -89,111 +88,34 @@
 "播放标题":"<span>&&</span>",
 "播放链接":"href=\"&&\"",
 "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"http://bczhuiju.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/;;mu0"
-                
-            }
-            
-        }, 
+"分类url":"http://bczhuiju.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/;;mu0"}} 
 
-{"key":"电影港","name":"酷点┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
-
-{"key":"如意","name":"如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
-
-
-{"key":"free","name":"酷点┃推荐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/free.json"},
-
-{
-            "key": "蚂蚁", 
-            "name": "酷点┃独播", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "ext": "http://xhww.fun:63/小米/源/蚂蚁.json"
-        }, 
-
-{"key":"布雷","name":"布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
-
-{
-            "key": "蓝光官采", 
-            "name": "农民┃解析", 
-            "type": 1, 
-            "api": "http://zy.xiaomaomi.vip/api.php/provide/vod/?ac=list", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "playUrl": "https://jx.jsonplayer.com/player/?url=", 
-            "filterable": 0, 
-            "categories": [
-                "国产剧", 
-                "综艺", 
-                "动漫", 
-                "香港剧", 
-                "动作片", 
-                "科幻片", 
-                "战争片", 
-                "奇幻片", 
-                "喜剧片", 
-                "爱情片", 
-                "恐怖片", 
-                "犯罪片", 
-                "悬疑片", 
-                "惊悚片", 
-                "剧情片", 
-                "冒险片", 
-                "记录片"
-            ]
-        }, 
-
-{"key":"搜狗","name":"酷点┃官方","type":3,"api":"http://rul2oe7c4.bkt.clouddn.com/js/lib/drpy2.min.js","ext":"http://rul2oe7c4.bkt.clouddn.com/js/caigou.js"}
 
 ],
 
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{
-            "name": "4K", 
-            "type": 1, 
-            "url": "http://xhww.fun:63/稻香.php?url=", 
-            "User-Agent": "okhttp/3.12.0"},
+{"name": "4K", "type": 1, "url": "http://xhww.fun:63/夜曲.php?url=", "User-Agent": "okhttp/3.12.0"},
 
-{"name":"解析1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+{"name": "解析1", "type": 1, "url": "https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url="},
 
-{"name":"解析2","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
+{"name":"解析2","type":1,"url":"https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=","ext":{"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},
 
-{"name":"解析3","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
+{"name":"解析3","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
 
-{"name":"解析4","type":1,"url":"https://vip.xuux.icu/home/api?type=ys&uid=1325731&key=adfgilmnpwzBDEJPY3&url="},
+{"name":"解析4","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2100&my=egiosvxDHMPSWX1356&mgtv=app&url="},
 
-{"name":"解析5","type":1,"url":"https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url="},
+{"name":"嗅探1","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 
-{"name":"解析6","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
+{"name":"嗅探2","type":0,"url":"https://jxdp.codermart.net/?url="},
 
-{"name":"解析7","type":1,"url":"http://json.yimufund.net/jsonindex.php?url=","ext":{"header":{"User-Agent":"LuaSocket 3.0-rc1"}}},
+{"name":"嗅探3","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 
-{"name":"嗅探1","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+{"name":"嗅探4","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 
-{"name":"嗅探2","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+{"name":"嗅探5","type":0,"url":"https://jx.xmflv.com/?url="}
 
-{"name":"嗅探3","type":0,"url":"https://vip.hfyj.ml/player/?url="},
-
-{"name":"嗅探4","type":0,"url":"https://jxdp.codermart.net/?url="},
-
-{"name":"嗅探5","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-
-{"name":"嗅探6","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-
-{"name":"嗅探7","type":0,"url":"https://jx.xmflv.com/?url="},
-
-{"name":"嗅探8","type":0,"url":"http://91fanli.top/m3u8/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-
-{"name":"嗅探9","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-
-{"name":"嗅探10","type":0,"url":"https://jx.ppjbk.cn/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-
-{"name":"嗅探11","type":0,"url":"https://jx.playerjy.com/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-
-{"name":"嗅探12","type":0,"url":"https://api.jiexi.la/?url=","ext":{"header":{"User-Agent":"Mozilla/5.0"}}},
-
-{"name":"嗅探13","type":0,"url":"https://jx.playerjy.com/?ads=0&url="}
 
 ],
 
