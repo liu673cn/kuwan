@@ -29,6 +29,8 @@
 
 {"key":"熊熊","name":"酷点┃4K","type":3,"api":"csp_XBPQ","ext":"./XBPQ/磁力熊.json"},
 
+{"key":"多米","name":"农民┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
+
 
 
 {"key":"搜狗","name":"酷点┃官解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/sougou.js"},
@@ -54,10 +56,6 @@
 {"key": "蚂蚁", "name": "酷点┃独播", "type": 3, "api": "csp_XBPQ", "ext": "http://xhww.fun:63/小米/源/蚂蚁.json"}, 
 
 {"key":"布雷","name":"布雷┃影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
-
-
-
-{"key":"多米","name":"酷点┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 
 {"key":"皮皮鸭","name":"酷点┃备用","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 
