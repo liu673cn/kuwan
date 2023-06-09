@@ -63,16 +63,7 @@
 
 {"key":"多米","name":"农民┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 
-        {
-                    "key": "PPY", 
-                                "name": "农民┃采集", 
-                                            "type": 1, 
-                                                        "api": "https://www.pipiya.cc/api.php/provide/vod/", 
-                                                                    "playUrl": "json:http://xhww.fun:63/黄金甲.php?url=", 
-                                                                                "searchable": 1, 
-                                                                                            "quickSearch": 1, 
-                                                                                                        "filterable": 1
-                                                                                                                },
+{"key": "PPY","name": "农民┃采集","type": 1,"api": "https://www.pipiya.cc/api.php/provide/vod/","playUrl": "json:http://xhww.fun:63/黄金甲.php?url=","searchable": 1, "quickSearch": 1, "filterable": 1},
 
 {"key":"apple","name":"🍎小苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
