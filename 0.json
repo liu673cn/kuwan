@@ -1,13 +1,17 @@
+//全部数据来自网络和各大佬资源整合
+//软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后24小时内删除
+//QQ频道：小盒酷玩    公众号：小盒酷玩
+//QQ交流群：817925554
+//咸鱼用户：小盒酷玩  （魔改产品都会挂在上面，有喜欢的发烧友可以支持一下）
+//抖音、快手、小红书、B站：小盒酷玩！
+
+
 {
-//jar
+
 "spider":"./jar/0608.jar;md5;f6fc0c04d3e365f4bc82e0072b6a78ae",
 
-
-//壁纸
 "wallpaper":"https://tool.weetai.cn/api",
 
-
-//直播	
 "lives": [{
 		    "name": "live",
 		    "type": 0,
@@ -16,10 +20,8 @@
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],   
 
-
-
-
-//数据接口
+//提示
+"warningText":"小盒酷玩提醒：接口免费，切勿付费",
 
 "sites":[
 
@@ -35,11 +37,13 @@
 
 {"key":"搜狗","name":"酷点┃官解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/sougou.js"},
 
-{"key":"策驰","name":"策驰┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/策驰.json"},
+{"key":"策驰","name":"酷点┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/策驰.json"},
 
 {"key":"看看剧","name":"酷点┃看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
 
 {"key":"如意","name":"如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
+
+{"key":"饭团","name":"酷点┃HD","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/饭团.json"},
 
 {"key":"磁力熊","name":"酷点┃VIP","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"changeable":1},      
 
@@ -47,22 +51,24 @@
 
 {"key":"子子","name":"酷点┃高速","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
 
-{"key":"电影港","name":"酷点┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
-
-{"key":"轻简","name":"酷点┃采集","type":1,"api":"http://1.ahailove.cn:23456/cj/api.php/provide/vod/"},
+{"key":"快看","name":"酷点┃快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
 {"key":"free","name":"酷点┃推荐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/free.json"},
 
 {"key": "蚂蚁", "name": "酷点┃独播", "type": 3, "api": "csp_XBPQ", "ext": "http://xhww.fun:63/小米/源/蚂蚁.json"}, 
 
-{"key":"布雷","name":"布雷┃影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
+{"key":"布雷","name":"布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
+
+{"key":"奇优","name":"酷点┃追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优.json"},
+
+{"key":"多米","name":"酷点┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 
 {"key":"皮皮鸭","name":"酷点┃备用","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 
-{"key":"玩偶","name":"玩偶┃阿里┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"玩偶","name":"阿里┃玩偶4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt$$$http://wogg.xyz/"},
 
-{"key":"七夜","name":"七夜┃阿里┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,
+{"key":"七夜","name":"阿里┃七夜4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,
 "ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt"},
 
 {
@@ -94,11 +100,7 @@
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{
-              "name": "4K", 
-                          "type": 1, 
-                                      "url": "http://xhww.fun:63/黄金甲.php?url=", 
-                                                  "User-Agent": "okhttp/3.12.0"},
+{"name": "4K","type": 1,"url": "http://xhww.fun:63/黄金甲.php?url=","User-Agent": "okhttp/3.12.0"},
 
 {"name": "4K②","type": 1,"url": "https://json.84jia.com/api/?key=gBwY3Vv5ZyNN6kWHjw&url="},
 
@@ -106,9 +108,15 @@
 
 {"name":"解析2","type":1,"url":"https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=","ext":{"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},
 
-{"name":"解析3","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
+{"name":"解析3","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
-{"name":"解析4","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2100&my=egiosvxDHMPSWX1356&mgtv=app&url="},
+{"name":"解析4","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
+
+{"name":"解析5","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2100&my=egiosvxDHMPSWX1356&mgtv=app&url="},
+
+{"name":"解析6","type":0,"url":"https://jx.777jiexi.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+
+{"name":"解析7","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","imgo","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 
 {"name":"嗅探1","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 
@@ -296,7 +304,6 @@
 
 
 
-//解码
 "ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"max-buffer-size","value":"5242880"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"max-buffer-size","value":"5242880"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
 
 
