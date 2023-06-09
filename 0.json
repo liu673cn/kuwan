@@ -94,7 +94,11 @@
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name": "4K", "type": 1, "url": "http://xhww.fun:63/夜曲.php?url=", "User-Agent": "okhttp/3.12.0"},
+{
+              "name": "4K", 
+                          "type": 1, 
+                                      "url": "http://xhww.fun:63/黄金甲.php?url=", 
+                                                  "User-Agent": "okhttp/3.12.0"},
 
 {"name": "4K②","type": 1,"url": "https://json.84jia.com/api/?key=gBwY3Vv5ZyNN6kWHjw&url="},
 
