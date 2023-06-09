@@ -39,11 +39,9 @@
 
 {"key":"策驰","name":"酷点┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/策驰.json"},
 
-{"key":"看看剧","name":"酷点┃看剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/看看剧.json"},
+{"key":"如意","name":"如意┃4K","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
-{"key":"如意","name":"如意┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
-
-{"key":"饭团","name":"酷点┃HD","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/饭团.json"},
+{"key":"饭团","name":"饭团┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/饭团.json"},
 
 {"key":"磁力熊","name":"酷点┃VIP","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"changeable":1},      
 
@@ -53,11 +51,13 @@
 
 {"key":"快看","name":"酷点┃快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
+{"key":"饭后","name":"酷点┃官采","type":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playUrl":"http://player.jiexi.plus/web/Player?url=","categories": ["国产剧","港台剧","欧美剧","日韩剧","动漫"]},
+
 {"key":"free","name":"酷点┃推荐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/free.json"},
 
 {"key": "蚂蚁", "name": "酷点┃独播", "type": 3, "api": "csp_XBPQ", "ext": "http://xhww.fun:63/小米/源/蚂蚁.json"}, 
 
-{"key":"布雷","name":"布雷影视","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
+{"key":"布雷","name":"布雷┃4K","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc$$$login$$$xiaohutx$$$xiaohutx"},
 
 {"key":"奇优","name":"酷点┃追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优.json"},
 
@@ -65,34 +65,13 @@
 
 {"key":"皮皮鸭","name":"酷点┃备用","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 
-{"key":"玩偶","name":"阿里┃玩偶4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"apple","name":"🍎小苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"玩偶","name":"玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt$$$http://wogg.xyz/"},
 
-{"key":"七夜","name":"阿里┃七夜4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,
-"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt"},
-
-{
-            "key": "串串", 
-            "name": "酷点┃️TV", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "ext": {
-"请求头":"手机#Referer$http://bczhuiju.com/",
-"主页url":"http://bczhuiju.com",
-"副标题":"<div class=\"module-item-note\">&&</div>",
-"线路数组":"data-dropdown-value=&&</div>[不包含:LZ在线#备用线路]",
-"线路标题":"<span>&&</span>",
-"嗅探词":".m3u8#aliyundrive.net#auth_key=#mp4",
-"播放数组":"<div class=\"module-play-list-content&&</div>",
-"影片类型":"<div class=\"module-info-tag\">&&立即播放",
-"导演":"导演：</span>&&</div>",
-"主演":"主演：</span>&&</div>",
-"简介":"style=\"line-height: 20px;\"&&</p>",
-"播放列表":"<a&&</a>",
-"播放标题":"<span>&&</span>",
-"播放链接":"href=\"&&\"",
-"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"分类url":"http://bczhuiju.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/;;mu0"}} 
+{"key":"七夜","name":"七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,
+"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt"}
 
 
 ],
@@ -100,9 +79,9 @@
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name": "4K","type": 1,"url": "http://xhww.fun:63/黄金甲.php?url=","User-Agent": "okhttp/3.12.0"},
+{"name": "VIP","type": 1,"url": "http://xhww.fun:63/黄金甲.php?url=","User-Agent": "okhttp/3.12.0"},
 
-{"name": "4K②","type": 1,"url": "https://json.84jia.com/api/?key=gBwY3Vv5ZyNN6kWHjw&url="},
+{"name": "VIP②","type": 1,"url": "https://json.84jia.com/api/?key=gBwY3Vv5ZyNN6kWHjw&url="},
 
 {"name": "解析1", "type": 1, "url": "https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url="},
 
