@@ -29,8 +29,6 @@
 
 {"key":"HDmoli","name":"农民┃自营","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/tsparkour/nmys/raw/branch/master/js/moli.json"},
 
-{"key":"熊熊","name":"农民┃4K","type":3,"api":"csp_XBPQ","ext":"./XBPQ/磁力熊.json"},
-
 {"key":"多米","name":"农民┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 
 {"key": "csp_AppMr","name": "农民┃影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -47,15 +45,13 @@
 
 {"key":"饭后","name":"农民┃官采","type":1,"playerType":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playUrl":"http://player.jiexi.plus/web/Player?url=","categories": ["国产剧","港台剧","欧美剧","日韩剧","动漫"]},
 
-{"key":"饭团","name":"饭团┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/饭团.json"},
-
-{"key":"磁力熊","name":"农民┃VIP","type":1,"api":"https://v.3412.net.cn/macapi.php/provide/vod","playUrl":"https://player.i597.cc/?url=","searchable":1,"changeable":1},      
+{"key":"饭团","name":"饭团┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/饭团.json"},  
 
 {"key":"一龙","name":"农民┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
 {"key":"子子","name":"农民┃高速","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
 
-{"key": "串串","name": "农民┃️高速","type": 3,"api": "csp_XBPQ","ext": {"请求头": "手机#Referer$http://bczhuiju.com/","主页url": "http://bczhuiju.com","副标题": "<div class=\"module-item-note\">&&</div>","线路数组": "data-dropdown-value=&&</div>[不包含:LZ在线#备用线路]","线路标题": "<span>&&</span>","嗅探词": ".m3u8#aliyundrive.net#auth_key=#mp4","播放数组": "<div class=\"module-play-list-content&&</div>","影片类型": "<div class=\"module-info-tag\">&&立即播放","导演": "导演：</span>&&</div>","主演": "主演：</span>&&</div>","简介": "style=\"line-height: 20px;\"&&</p>","播放列表": "<a&&</a>","播放标题": "<span>&&</span>","播放链接": "href=\"&&\"","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url": "http://bczhuiju.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/;;mu0"}},
+{"key": "串串","name": "农民┃️超速","type": 3,"api": "csp_XBPQ","ext": {"请求头": "手机#Referer$http://bczhuiju.com/","主页url": "http://bczhuiju.com","副标题": "<div class=\"module-item-note\">&&</div>","线路数组": "data-dropdown-value=&&</div>[不包含:LZ在线#备用线路]","线路标题": "<span>&&</span>","嗅探词": ".m3u8#aliyundrive.net#auth_key=#mp4","播放数组": "<div class=\"module-play-list-content&&</div>","影片类型": "<div class=\"module-info-tag\">&&立即播放","导演": "导演：</span>&&</div>","主演": "主演：</span>&&</div>","简介": "style=\"line-height: 20px;\"&&</p>","播放列表": "<a&&</a>","播放标题": "<span>&&</span>","播放链接": "href=\"&&\"","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url": "http://bczhuiju.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/;;mu0"}},
 
 {"key":"快看","name":"农民┃快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
