@@ -57,8 +57,6 @@
 
 {"key":"快看","name":"农民┃快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
-{"key":"饭后","name":"农民┃官采","type":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playUrl":"http://player.jiexi.plus/web/Player?url=","categories": ["国产剧","港台剧","欧美剧","日韩剧","动漫"]},
-
 {"key":"free","name":"农民┃推荐","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/free.json"},
 
 {"key": "蚂蚁", "name": "农民┃独播", "type": 3, "api": "csp_XBPQ", "ext": "http://xhww.fun:63/小米/源/蚂蚁.json"}, 
