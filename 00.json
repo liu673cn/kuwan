@@ -88,8 +88,11 @@
 "parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name": "VIP","type": 1,"url": "http://xhww.fun:63/黄金甲.php?url=","User-Agent": "okhttp/3.12.0"},
-{"name": "VIP","type": 1,"url": "http://xhww.fun:63/七里香.php?url=","User-Agent": "okhttp/3.12.0"},
+{
+			"name": "VIP",
+			"type": 1,
+			"url": "http://xhww.fun:63/城府.php?url=",
+			"User-Agent": "okhttp/3.12.0"},
 
 {"name": "解析1", "type": 1, "url": "https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url="},
 
@@ -351,3 +354,4 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
