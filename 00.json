@@ -47,6 +47,8 @@
 
 {"key":"饭团","name":"饭团┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/饭团.json"},  
 
+{"key":"星影","name":"星影┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/星影.json"},
+
 {"key":"一龙","name":"农民┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
 {"key":"子子","name":"农民┃高速","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
