@@ -70,7 +70,6 @@
 
 {"key":"多米","name":"农民┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 
-{"key":"皮皮鸭","name":"农民┃备用","type":3,"api":"./lib/drpy2.min.js","ext":"./js/皮皮鸭.js"},
 {"key": "落叶","name": "农民┃采集","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://xn--yeta099v.online:66/api.php/app/"},
 
 {"key":"apple","name":"🍎小苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
