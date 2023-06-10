@@ -39,6 +39,8 @@
 
 {"key":"爱迪","name":"农民┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
+{"key": "王子","name": "农民┃HD","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://xhww.fun:63/小米/源/王子.json"},
+
 {"key":"电影港","name":"农民┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
 {"key":"策驰","name":"策驰┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/策驰.json"},
