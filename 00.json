@@ -63,10 +63,10 @@
 
 {"key":"apple","name":"🍎小苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"玩偶","name":"玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"玩偶","name":"玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt $$$https://wogg.xyz/","jar":"./jar/pg.jar"},
 
-{"key":"七夜","name":"七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,
+{"key":"七夜","name":"七夜┃云盘","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,
 "ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt"}
 
 
