@@ -39,7 +39,7 @@
 
 {"key":"爱迪","name":"农民┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
-{"key": "王子","name": "农民┃HD","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://xhww.fun:63/小米/源/王子.json"},
+{"key":"王者","name":"农民┃HD","type":3,"api":"csp_XBPQ","ext":"./XBPQ/王者.json"},
 
 {"key":"电影港","name":"农民┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
@@ -62,8 +62,6 @@
 {"key":"快看","name":"农民┃快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
 {"key":"apple","name":"🍎小苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-
-{"key": "玩偶","name": "玩偶┃阿里","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1","二次截取": "1&&-1+module-item-cover","数组": "module-item-pic&&module-item-cover","图片": "data-src\"&&\"","副标题": "module-item-text*>&&</div","链接": "href=\"&&\"","导演": "导演：&&</div>","主演": "主演：&&</div>","简介": "剧情：&&</div>","搜索url": "https://wogg.xyz/index.php/vodsearch/-------------.html?wd={wd}","分类url": "https://wogg.xyz/index.php/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;阿里","阿里token": "https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt","分类": "电影$1#国产剧$21#日韩剧$23#欧美剧$22#综艺$28#动漫$24"}},
 
 {"key":"七夜","name":"七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,
 "ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt"}
