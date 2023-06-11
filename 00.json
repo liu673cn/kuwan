@@ -88,6 +88,8 @@
 
 {"name":"解析7","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","imgo","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 
+{"name":"全能解析","type":0,"url":"https://jx.legendwhb.cn/llq/?url=","ext":{"flag":["qq","qiyi","mgtv","imgo","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Mozilla/5.0"}}},
+
 {"name":"嗅探1","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 
 {"name":"嗅探2","type":0,"url":"https://jxdp.codermart.net/?url="},
