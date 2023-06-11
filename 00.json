@@ -46,7 +46,7 @@
 {"key":"电影港","name":"农民┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
 {"key":"玩偶哥哥","name":"🍼玩偶┃哥哥","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt $$$./XYQH/玩偶哥哥.json","jar":"./jar/xyq.jar"},
+"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt","json":"./XYQH/玩偶哥哥.json","jar":"./jar/xyq.jar"},
 
 {"key":"玩偶","name":"玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt $$$https://wogg.xyz/","jar":"./jar/pg.jar"},
