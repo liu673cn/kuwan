@@ -43,7 +43,8 @@
 
 {"key":"电影港","name":"农民┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
-{"key":"策驰","name":"策驰┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/策驰.json"},
+{"key":"玩偶","name":"玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt $$$https://wogg.xyz/","jar":"./jar/pg.jar"},
 
 {"key":"如意","name":"如意┃4K","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
@@ -61,13 +62,10 @@
 
 {"key":"快看","name":"农民┃快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
-{"key":"apple","name":"🍎小苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"玩偶","name":"玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt $$$https://wogg.xyz/","jar":"./jar/pg.jar"},
-
 {"key":"七夜","name":"七夜┃云盘","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,
-"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt"}
+"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt"},
+
+{"key":"apple","name":"🍎小苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1}
 
 
 ],
