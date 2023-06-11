@@ -75,7 +75,7 @@
 
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name":"VIP","type":1,"url":"https://api.jiexi.plus/api/?key=961273ef66f26e1b9f511942a5d838bf&url="},
+{"name":"VIP","type":1,"url":"http://json.juka.pro/api.php?key=json&url="},
 
 {"name": "VIP②","type": 1,"url": "http://xhww.fun:63/乌鸦.php?url=","User-Agent": "okhttp/3.12.0"},
 
