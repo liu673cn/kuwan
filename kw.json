@@ -1,6 +1,8 @@
 {
 "sites": [
 
+{"key":"酷影","name":"😎酷影┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},  
+
 {"key":"多米","name":"农民┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 
 {"key":"啊班","name":"农民┃速播","type":3,"api":"csp_AppYsV2","ext": "http://a.banwl.com/api.php/app/"},
