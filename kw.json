@@ -1,7 +1,7 @@
 {
 "sites": [
 
-{"key":"酷影","name":"😎酷影┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://cms.wbsys.top:9835/api.php/app/"},  
+{"key": "csp_AppMr","name": "酷玩┃影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"多米","name":"农民┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 
@@ -84,7 +84,7 @@
 ],
 
   "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"./jar/2.jar;md5;c04e04cdb964fa333f14df4935c1e06e",
+"spider":"./jar/0608.jar;md5;f6fc0c04d3e365f4bc82e0072b6a78ae",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL1lvdXJzbWlsZTcvVFZCb3gvcmF3L2JyYW5jaC9tYXN0ZXIvbGl2ZS50eHQ="
 ]}]}],
