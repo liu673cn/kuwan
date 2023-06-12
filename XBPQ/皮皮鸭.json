@@ -1,0 +1,22 @@
+{
+    "作者": "小胡",
+    "主页url": "https://www.pipiya.cc",
+
+    "线路数组": "class=\"swiper-slide&&/a>",
+    "线路标题": "</i>&&<",
+
+    "免嗅": "1",
+    "嗅探词":"mp4#m3u8",
+
+    "搜索url": "https://www.pipiya.cc/vodsearch/{wd}-------------.html",
+    "搜索数组": "public-list-exp\"&&thumb-else cor5 hide\"",
+    "搜索链接": "href=\"&&\"",
+    "搜索链接前缀": "https://www.pipiya.cc",
+    "搜索标题": "thumb-txt cor4 hide\">&&</div",
+    "搜索图片": "http://w.g9.pub:66/f/w3PCy/1.jpg",
+
+
+    "分类": "直接搜索看$22", 
+    "分类url": "https://www.pipiya.cc/vodshow/{cateId}/area/{area}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html" 
+ 
+}
