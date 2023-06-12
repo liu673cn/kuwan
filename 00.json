@@ -31,8 +31,6 @@
 
 {"key":"啊班","name":"农民┃速播","type":3,"api":"csp_AppYsV2","ext": "http://a.banwl.com/api.php/app/"},
 
-{"key": "csp_AppMr","name": "农民┃影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
-
 {"key":"搜狗","name":"农民┃官解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/sougou.js"},
 
 {"key":"策驰","name":"策驰┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/策驰.json"},
