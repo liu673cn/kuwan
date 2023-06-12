@@ -61,7 +61,7 @@
 
 {"key":"子子","name":"农民┃高速","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
 
-{"key":"皮皮鸭","name":"皮皮┃影视","type":1,"api":"https://www.pipiya.cc/api.php/provide/vod/","playUrl":"json:http://xhww.fun:63/乌鸦.php?url="},
+{"key":"皮皮鸭","name":"皮皮┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/皮皮鸭.json"},
 
 {"key":"快看","name":"农民┃快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
