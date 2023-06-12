@@ -77,7 +77,9 @@
 
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name":"4K","type":1,"url":"http://json.juka.pro/api.php?key=json&url="},
+{"name":"VIP","type":1,"url":"http://json.juka.pro/api.php?key=json&url="},
+
+{"name": "VIP②","type": 1,"url": "http://xhww.fun:63/你关注公众号关注神秘的哥哥们了嘛.php?url=","User-Agent": "okhttp/3.12.0"},
 
 {"name": "解析1", "type": 1, "url": "https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url="},
 
