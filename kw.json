@@ -1,48 +1,35 @@
 {
 "sites": [
 
-{"key": "csp_AppMr","name": "酷玩┃影视","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"啊班","name":"酷玩影视","type":3,"api":"csp_AppYsV2","ext": "http://a.banwl.com/api.php/app/"},  
 
-{"key":"多米","name":"农民┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
+{"key": "csp_AppMr","name": "酷玩┃VIP","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"啊班","name":"农民┃速播","type":3,"api":"csp_AppYsV2","ext": "http://a.banwl.com/api.php/app/"},
+{"key":"多米","name":"酷玩┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 
-{"key":"搜狗","name":"农民┃官解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/sougou.js"},
+{"key":"快看","name":"酷玩┃快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
-{"key":"策驰","name":"策驰┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/策驰.json"},
-
-{"key":"爱迪","name":"农民┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
-
-{"key":"王者","name":"农民┃HD","type":3,"api":"csp_XBPQ","ext":"./XBPQ/王者.json"},
-
-{"key":"电影港","name":"农民┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
-
-{"key":"圣城","name":"圣城┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/圣城.json"},
+{"key":"飞云","name":"酷玩┃4K","type":3,"api":"csp_AppYsV2","ext":"http://www.lfytyl.com/api.php/app/"},
 
 {"key":"如意","name":"如意┃4K","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
-{"key":"csp_WoGG","name": "玩偶┃云盘","type": 3,"api": "csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt","jar":"https://gitee.com/lekanbox/App/raw/master/ali.jar"},
+{"key":"策驰","name":"策驰┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/策驰.json"},
 
-{"key":"飞云","name":"飞云┃4K","type":3,"api":"csp_AppYsV2","ext":"http://www.lfytyl.com/api.php/app/"},
+{"key":"爱迪","name":"酷玩┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
+
+{"key":"王者","name":"酷玩┃HD","type":3,"api":"csp_XBPQ","ext":"./XBPQ/王者.json"},
 
 {"key":"饭团","name":"饭团┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/饭团.json"},  
 
 {"key":"星影","name":"星影┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/星影.json"},
 
-{"key":"饭后","name":"农民┃官采","type":1,"playerType":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playUrl":"json:https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=","categories": ["国产剧","港台剧","欧美剧","日韩剧","动漫"]},
+{"key":"饭后","name":"酷玩┃官采","type":1,"playerType":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playUrl":"json:https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=","categories": ["国产剧","港台剧","欧美剧","日韩剧","动漫"]},
 
 {"key":"厂长","name":"厂长┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/厂长.json"},
 
-{"key":"子子","name":"农民┃高速","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
+{"key":"子子","name":"酷玩┃高速","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
 
-{"key":"皮皮鸭","name":"皮皮┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/皮皮鸭.json"},
-
-{"key":"快看","name":"农民┃快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
-
-{"key":"七夜","name":"七夜┃云盘","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":0,
-"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt"},
-
-{"key":"一龙","name":"农民┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
+{"key":"一龙","name":"酷玩┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
 {"key":"apple","name":"🍎小苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1}
 ],
