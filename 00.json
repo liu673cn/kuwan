@@ -35,6 +35,8 @@
 
 {"key":"策驰","name":"策驰┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/策驰.json"},
 
+{"key":"魔力","name":"魔力┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/魔力.json"},
+
 {"key":"爱迪","name":"农民┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
 {"key":"王者","name":"农民┃HD","type":3,"api":"csp_XBPQ","ext":"./XBPQ/王者.json"},
