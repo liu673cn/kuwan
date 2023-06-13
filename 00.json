@@ -63,6 +63,9 @@
 
 {"key":"一龙","name":"农民┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
+{"key":"易搜","name":"阿里┃云盘","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":0,"filterable":0,
+"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt","jar":"./jar/pg.jar"},
+
 {"key":"apple","name":"🍎小苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1}
 
 
