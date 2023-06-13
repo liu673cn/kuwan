@@ -58,7 +58,6 @@
 
 {"name":"解析4","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url="},
 
-{"name":"解析5","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2100&my=egiosvxDHMPSWX1356&mgtv=app&url="},
 
 {"name":"解析6","type":0,"url":"https://jx.777jiexi.com/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
