@@ -74,9 +74,7 @@
 
 {"name": "VIP","type": 1,"url": "http://xhww.fun:63/关注公众号关注神秘的哥哥们.php?url=","User-Agent": "okhttp/3.12.0"},
 
-{"name": "解析1", "type": 1, "url": "https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url="},
 
-{"name":"解析2","type":1,"url":"https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=","ext":{"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},
 
 {"name":"解析3","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
@@ -90,7 +88,7 @@
 
 {"name":"嗅探1","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 
-{"name":"嗅探2","type":0,"url":"https://jxdp.codermart.net/?url="},
+
 
 {"name":"嗅探3","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 
