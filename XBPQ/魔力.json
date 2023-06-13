@@ -1,0 +1,59 @@
+    {
+    
+    "站名":"HD魔力",
+    
+    "主页url":"https://www.hdmoli.com/",
+    
+    "简介":"&&</p>",
+    
+    "导演":"导演：&&</p>",
+    
+    "主演":"演员：&&</p>",
+    
+    "影片类型":"分类：&&<span class=\"split-line\">",
+    
+    "影片地区":"地区：&&<span class=\"split-line\">",
+    
+    "影片年代":"年份：&&<span class=\"split-line\">",
+    
+    "影片状态":"15px;\">&&</h1>",
+    
+    "数组":"myui-vodlist__thumb&&</a>",
+    
+    "图片":"data-original=\"&&\"",
+    
+    "标题":"title=\"&&\"",
+    
+    "副标题":"pic-text text-right\">&&</span>",
+    
+    "链接":"href=\"&&\"",
+    
+    "搜索url":"/search.php?searchword={wd}",
+    
+    "搜索数组":"vodlist__thumb&&</a>",
+    
+    "搜索标题":"title=\"&&\"",
+    
+    "搜索副标题":"pic-text text-right\">&&</span>",
+    
+    "搜索图片":"data-original=\"&&\"",
+    
+    "搜索链接":"href=\"&&\"",
+    
+    "线路数组":"data-toggle=&&</li>",
+    
+    "线路标题":">&&</a>",
+    
+    "播放数组":"-content__list sort-list&&</ul>",
+    
+    "播放标题":">&&<",
+    
+    "播放列表":"<a&&/a>",
+    
+    "分类url":"https://www.hdmoli.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq={class};;ak",
+    
+    "分类":"电影$1#电视剧$2#动漫$41"
+    
+
+}
+    
