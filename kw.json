@@ -9,6 +9,8 @@
 
 {"key":"多米","name":"酷玩┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 
+{"key":"魔力","name":"魔力┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/魔力.json"},
+
 {"key":"快看","name":"酷玩┃快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
 {"key":"飞云","name":"酷玩┃4K","type":3,"api":"csp_AppYsV2","ext":"http://www.lfytyl.com/api.php/app/"},
