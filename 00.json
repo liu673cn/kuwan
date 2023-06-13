@@ -53,7 +53,7 @@
 
 {"key":"星影","name":"星影┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/星影.json"},
 
-{"key":"饭后","name":"农民┃官采","type":1,"playerType":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playUrl":"json:https://jx.zhanlangbu.com/?url=","categories": ["国产剧","港台剧","欧美剧","日韩剧","动漫"]},
+{"key":"饭后","name":"农民┃官采","type":1,"playerType":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&format=json&url=","categories": ["国产剧","港台剧","欧美剧","日韩剧","动漫"]},
 
 {"key":"厂长","name":"厂长┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/厂长.json"},
 
