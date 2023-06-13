@@ -63,6 +63,7 @@
 
 {"key":"快看","name":"农民┃快看","type":1,"api":"https://kuaikan-api.com/api.php/provide/vod/"},
 
+{"key":"Gitcafe","name":"小纸条(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt"},
 
 {"key":"一龙","name":"农民┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
