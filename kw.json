@@ -1,6 +1,17 @@
 {
 "sites": [
 
+ {
+            "key": "js豆瓣",
+            "name": "豆瓣推荐",
+            "type": 3,
+            "api": "http://v.tvfan.top:88/tvbox/js/drpy.min.js",
+            "ext": "http://v.tvfan.top:88/tvbox/js/drpy.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+
 {"key":"啊班","name":"酷玩影视","type":3,"api":"csp_AppYsV2","ext": "http://a.banwl.com/api.php/app/"},  
 
 {"key": "csp_AppMr","name": "酷玩┃VIP","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
