@@ -25,17 +25,18 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"酷点影视","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
+{"key":"豆瓣","name":"农民影视","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
 
 {"key":"看看剧","name":"酷点┃4K","type":3,"api":"csp_XBPQ","ext":"./XBPQ/看看剧.json"},
-
-{"key":"多米","name":"酷点┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 
 {"key":"啊班","name":"酷点┃速播","type":3,"api":"csp_AppYsV2","ext": "http://a.banwl.com/api.php/app/"},
 
 {"key":"搜狗","name":"酷点┃官解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/sougou.js"},
 
 {"key":"魔力","name":"魔力┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/魔力.json"},
+
+{"key":"玩偶1","name":"玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt+4k|fhd|auto $$$https://wogg.xyz/"},
 
 {"key":"爱迪","name":"酷点┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
@@ -51,8 +52,11 @@
 
 {"key":"飞云","name":"飞云┃4K","type":3,"api":"csp_AppYsV2","ext":"http://www.lfytyl.com/api.php/app/"},
 
-{"key":"奇优","name":"奇优┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/奇优.json"},
+{"key":"多线","name":"多线┃APP","type":3,"api":"csp_DuoX","jar":"./jar/pg.jar"},
 
+{"key":"多米","name":"酷点┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
+
+{"key":"奇优","name":"奇优┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/奇优.json"},
 
 {"key":"星影","name":"星影┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/星影.json"},
 
@@ -78,6 +82,8 @@
 
 {"key":"速映","name":"速映┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/速映.json"},
 
+{"key":"七夜","name":"七夜┃云盘","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt+4k|fhd|auto"},
+
 {"key":"apple","name":"🍎小苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1}
 
 
@@ -87,9 +93,11 @@
 
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name": "VIP","type": 1,"url": "http://xhww.fun:63/公众号关注神秘的哥哥们.php?url=","User-Agent": "okhttp/3.12.0"},
+{"name":"VIP","type":1,"url":"http://xhww.fun:63/公众号神秘的哥哥们.php?url=","User-Agent":"okhttp/3.12.0"},
 
-{"name":"VIP✌️","type":1,"url":"http://json.juka.pro/api.php?key=123json&url="},
+{"name":"VIP①","type":0,"url":"https://kankanju.cc/f/jxplayer.php?v="},
+
+{"name":"VIP③","type":0,"url":"https://play.8c4.cn/play/?url="},
 
 {"name": "解析1","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&format=json&url=","User-Agent": "Dart/2.18 (dart:io)","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 
@@ -348,5 +356,6 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
+
 
 
