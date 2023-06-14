@@ -44,6 +44,8 @@
 
 {"key":"2bt","name":"酷点┃在线","type":3,"api":"csp_XBPQ","ext":"./XBPQ/两个bt.json"},
 
+{"key":"搜狗","name":"酷点┃官解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/sougou.js"},
+
 {"key":"圣城","name":"圣城┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/圣城.json"},
 
 {"key":"如意","name":"如意┃4K","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
