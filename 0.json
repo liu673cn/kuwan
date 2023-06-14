@@ -25,7 +25,7 @@
 
 "sites":[
 
-{"key":"豆瓣","name":"农民影视","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
+{"key":"豆瓣","name":"酷点影视","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
 
 {"key":"看看剧","name":"酷点┃4K","type":3,"api":"csp_XBPQ","ext":"./XBPQ/看看剧.json"},
 
