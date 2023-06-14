@@ -25,7 +25,9 @@
 
 {"key":"王者","name":"酷玩┃HD","type":3,"api":"csp_XBPQ","ext":"./XBPQ/王者.json"},
 
-{"key":"饭团","name":"饭团┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/饭团.json"},  
+{"key":"饭团","name":"饭团┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/饭团.json"}, 
+
+{"key":"csp_AppMr","name":"明明┃影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"星影","name":"星影┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/星影.json"},
 
