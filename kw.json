@@ -59,9 +59,13 @@
 
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name": "VIP","type": 1,"url": "http://xhww.fun:63/公众号关注神秘的哥哥们.php?url=","User-Agent": "okhttp/3.12.0"},
+{"name":"VIP","type":1,"url":"http://xhww.fun:63/公众号神秘的哥哥们.php?url=","User-Agent":"okhttp/3.12.0"},
 
-{"name":"VIP✌️","type":1,"url":"http://json.juka.pro/api.php?key=123json&url="},
+{"name":"VIP①","type":0,"url":"https://kankanju.cc/f/jxplayer.php?v="},
+
+{"name":"VIP②","type":1,"url":"http://json.juka.pro/api.php?key=123json&url="},
+
+{"name":"VIP③","type":0,"url":"https://play.8c4.cn/play/?url="},
 
 {"name": "解析1","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&format=json&url=","User-Agent": "Dart/2.18 (dart:io)","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 
@@ -85,6 +89,7 @@
 
 
 ],
+
 
 
   "wallpaper":"https://picsum.photos/1280/720/?blur=10",
