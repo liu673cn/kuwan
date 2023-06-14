@@ -33,6 +33,9 @@
 
 {"key":"Freeok","name":"Free┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/freeok.json"},
 
+{"key":"玩偶","name":"玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt $$$https://wogg.xyz/","jar":"./jar/pg.jar"},
+
 {"key":"饭后","name":"酷玩┃官采","type":1,"playerType":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url=","categories": ["国产剧","港台剧","欧美剧","日韩剧","动漫"]},
 
 {"key":"厂长","name":"厂长┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/厂长.json"},
