@@ -37,6 +37,9 @@
 
 {"key":"魔力","name":"魔力┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/魔力.json"},
 
+{"key":"玩偶1","name":"玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt+4k|fhd|auto $$$https://wogg.xyz/"},
+
 {"key":"爱迪","name":"酷点┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
 {"key":"王者","name":"酷点┃HD","type":3,"api":"csp_XBPQ","ext":"./XBPQ/王者.json"},
@@ -50,9 +53,6 @@
 {"key":"如意","name":"如意┃4K","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
 
 {"key":"飞云","name":"飞云┃4K","type":3,"api":"csp_AppYsV2","ext":"http://www.lfytyl.com/api.php/app/"},
-
-{"key":"玩偶1","name":"玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt+4k|fhd|auto $$$https://wogg.xyz/"},
 
 {"key":"多线","name":"多线┃APP","type":3,"api":"csp_DuoX","jar":"./jar/pg.jar"},
 
