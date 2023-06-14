@@ -51,6 +51,8 @@
 
 {"key":"飞云","name":"飞云┃4K","type":3,"api":"csp_AppYsV2","ext":"http://www.lfytyl.com/api.php/app/"},
 
+{"key":"多线","name":"多线┃APP","type":3,"api":"csp_DuoX","jar":"./jar/pg.jar"},
+
 {"key":"奇优","name":"奇优┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/奇优.json"},
 
 {"key":"星影","name":"星影┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/星影.json"},
