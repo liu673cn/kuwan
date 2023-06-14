@@ -1,0 +1,10 @@
+{
+	"主页url": "https://www.citydy.com/",
+	"搜索图片": "http://w.g9.pub:66/f/w3PCy/1.jpg",
+	"搜索链接": "href=\"&&\"",
+	"播放列表": "<a&&/a>",
+	"播放标题": ">&&<",
+	"分类": "电视剧$2#电影$1#综艺$3#动漫$4#纪录片$5",
+	"分类url": "https://www.citydy.com/show/id-{cateId}/area/{area}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"
+
+}
