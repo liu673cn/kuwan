@@ -49,9 +49,6 @@
 
 {"key":"电影港","name":"酷点┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
-{"key":"玩偶","name":"🎨玩偶┃G  O","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt $$$https://wogg.xyz/","jar":"./jar/pg.jar"},
-
 {"key":"圣城","name":"圣城┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/圣城.json"},
 
 {"key":"如意","name":"如意┃4K","type":3,"api":"csp_AppYsV2","ext":"http://cms.maoyingshi.cc/api.php/app/"},
