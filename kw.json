@@ -29,6 +29,8 @@
 
 {"key":"csp_AppMr","name":"明明┃影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"2bt","name":"酷玩┃在线","type":3,"api":"csp_XBPQ","ext":"./XBPQ/两个bt.json"},
+
 {"key":"星影","name":"星影┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/星影.json"},
 
 {"key":"奇优","name":"奇优┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/奇优.json"},
