@@ -27,9 +27,7 @@
 
 {"key":"豆瓣","name":"农民影视","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
 
-{"key":"看看剧","name":"农民┃4K","type":3,"api":"csp_XBPQ","ext":"./XBPQ/看看剧.json"},
-
-{"key":"多米","name":"酷点┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
+{"key":"看看剧","name":"酷点┃4K","type":3,"api":"csp_XBPQ","ext":"./XBPQ/看看剧.json"},
 
 {"key":"啊班","name":"酷点┃速播","type":3,"api":"csp_AppYsV2","ext": "http://a.banwl.com/api.php/app/"},
 
@@ -55,6 +53,8 @@
 {"key":"飞云","name":"飞云┃4K","type":3,"api":"csp_AppYsV2","ext":"http://www.lfytyl.com/api.php/app/"},
 
 {"key":"多线","name":"多线┃APP","type":3,"api":"csp_DuoX","jar":"./jar/pg.jar"},
+
+{"key":"多米","name":"酷点┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 
 {"key":"奇优","name":"奇优┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/奇优.json"},
 
