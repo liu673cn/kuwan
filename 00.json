@@ -35,8 +35,6 @@
 
 {"key":"搜狗","name":"酷点┃官解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/sougou.js"},
 
-{"key":"策驰","name":"策驰┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/策驰.json"},
-
 {"key":"魔力","name":"魔力┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/魔力.json"},
 
 {"key":"爱迪","name":"酷点┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
@@ -58,6 +56,8 @@
 {"key":"饭团","name":"饭团┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/饭团.json"},  
 
 {"key":"Freeok","name":"Free┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/freeok.json"},
+
+{"key":"策驰","name":"策驰┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/策驰.json"},
 
 {"key":"饭后","name":"酷点┃官采","type":1,"playerType":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url=","categories": ["国产剧","港台剧","欧美剧","日韩剧","动漫"]},
 
