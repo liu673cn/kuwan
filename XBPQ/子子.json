@@ -16,7 +16,7 @@
     "搜索模式": "1", 
     "搜索二次截取": "class=\"module-items&&id=\"footer", 
     "搜索数组": "<h3><a&&</h3", 
-    "搜索图片": "data-src=\"&&\"", 
+    "搜索图片": "http://shop.kdzj.vip/1.jpg", 
     "搜索标题": "title=\"&&\"", 
     "搜索链接": "href=\"&&\"", 
     "搜索链接前缀": "https://www.ziziys.com", 
