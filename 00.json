@@ -29,10 +29,6 @@
 
 {"key":"看看剧","name":"酷点┃4K","type":3,"api":"csp_XBPQ","ext":"./XBPQ/看看剧.json"},
 
-{"key":"啊班","name":"酷点┃速播","type":3,"api":"csp_AppYsV2","ext": "http://a.banwl.com/api.php/app/"},
-
-{"key":"搜狗","name":"酷点┃官解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/sougou.js"},
-
 {"key":"魔力","name":"魔力┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/魔力.json"},
 
 {"key":"玩偶1","name":"玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
