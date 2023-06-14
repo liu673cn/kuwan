@@ -41,6 +41,8 @@
 
 {"key":"一龙","name":"酷玩┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
+{"key":"咔咪","name":"咔咪┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/咔咪.json"},
+
 {"key":"apple","name":"🍎小苹果影视","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1}
 ],
 //解X设置
