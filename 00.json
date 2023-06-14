@@ -51,6 +51,7 @@
 
 {"key":"飞云","name":"飞云┃4K","type":3,"api":"csp_AppYsV2","ext":"http://www.lfytyl.com/api.php/app/"},
 
+{"key":"奇优","name":"奇优┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/奇优.json"},
 
 {"key":"饭团","name":"饭团┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/饭团.json"},  
 
