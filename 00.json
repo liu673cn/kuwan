@@ -39,8 +39,6 @@
 
 {"key":"爱迪","name":"酷点┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
-{"key":"csp_AppMr","name":"明明┃App","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"看看剧","name":"看看┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/看看剧.json"},
 
 {"key":"王者","name":"酷点┃HD","type":3,"api":"csp_XBPQ","ext":"./XBPQ/王者.json"},
