@@ -43,10 +43,6 @@
 
 {"key":"王者","name":"酷点┃HD","type":3,"api":"csp_XBPQ","ext":"./XBPQ/王者.json"},
 
-
-{"key":"玩偶哥哥","name":"玩偶┃哥哥","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,
-"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt","json":"./XYQH/玩偶哥哥.json","jar":"./jar/xyq.jar"},
-
 {"key":"电影港","name":"酷点┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
 {"key":"圣城","name":"圣城┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/圣城.json"},
