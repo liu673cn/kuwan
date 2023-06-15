@@ -29,6 +29,8 @@
 
 {"key":"看看剧","name":"酷点┃采集","type":3,"api":"csp_XBPQ","ext":"./XBPQ/看看剧.json"},
 
+{"key":"csp_AppMr","name":"明明┃App","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"魔力","name":"魔力┃蓝光","type":3,"api":"csp_XBPQ","ext":"./XBPQ/魔力.json"},
 
 {"key":"玩偶1","name":"玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
