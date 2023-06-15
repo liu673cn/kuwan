@@ -17,8 +17,6 @@
 
 {"key":"vidh","name":"酷玩┃精选","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/vidhub.json"},
 
-{"key":"策驰","name":"策驰┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/策驰.json"},
-
 {"key":"爱迪","name":"酷玩┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
 {"key":"新视觉","name":"酷玩┃专享","type":3,"api":"csp_XBPQ","ext":"./XBPQ/新视觉.json"},
