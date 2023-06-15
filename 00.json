@@ -91,13 +91,17 @@
 
 "parses": [
 
+{
+            "name": "聚合0", 
+            "type": 3, 
+            "url": "Web"
+        },   
+
 {"name":"解析聚合","type":3,"url":"Demo"},
 
-{"name":"SVIP","type":1,"url":"http://json.juka.pro/api.php?key=json&url="},
-
-{"name":"VIP","type":1,"url":"http://xhww.fun:63/公众号1神秘的哥哥们.php?url=","User-Agent":"okhttp/3.12.0"},
-
 {"name":"VIP①","type":0,"url":"https://kankanju.cc/f/jxplayer.php?v="},
+
+{"name":"VIP①","type":1,"url":"http://json.juka.pro/api.php?key=json&url="},
 
 {"name":"VIP③","type":0,"url":"https://play.8c4.cn/play/?url="},
 
