@@ -89,13 +89,7 @@
 
 ],
 
-"parses": [
-
-{
-            "name": "聚合0", 
-            "type": 3, 
-            "url": "Web"
-        },   
+"parses": [ 
 
 {"name":"解析聚合","type":3,"url":"Demo"},
 
