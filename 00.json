@@ -85,9 +85,7 @@
 
 {"name":"VIP","type":0,"url":"https://kankanju.cc/f/jxplayer.php?v="},
 
-{"name":"VIP①","type":1,"url":"http://json.juka.pro/api.php?key=json&url="},
-
-{"name":"VIP③","type":0,"url":"https://play.8c4.cn/play/?url="},
+{"name":"VIP1","type":0,"url":"https://play.8c4.cn/play/?url="},
 
 {"name":"解析1","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
