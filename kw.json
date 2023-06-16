@@ -17,8 +17,6 @@
 
 {"key":"王者","name":"酷玩┃HD","type":3,"api":"csp_XBPQ","ext":"./XBPQ/王者.json"},
 
-{"key":"饭团","name":"饭团┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/饭团.json"}, 
-
 {"key":"csp_AppMr","name":"明明┃影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"2bt","name":"酷玩┃在线","type":3,"api":"csp_XBPQ","ext":"./XBPQ/两个bt.json"},
@@ -28,8 +26,6 @@
 {"key":"奇优","name":"奇优┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/奇优.json"},
 
 {"key":"Freeok","name":"Free┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/freeok.json"},
-
-{"key":"饭后","name":"酷玩┃官采","type":1,"playerType":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2056&my=efjkmvBGHILMSUWXY0&url=","categories": ["国产剧","港台剧","欧美剧","日韩剧","动漫"]},
 
 {"key":"子子","name":"酷玩┃高速","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
 
