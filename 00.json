@@ -45,7 +45,7 @@
 
 {"key":"多线","name":"酷点┃多线","type":3,"api":"csp_DuoX","jar":"./jar/pg.jar"},
 
-
+{"key":"来看","name":"酷点┃点播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/来看点播.json"},
 
 {"key":"2bt","name":"酷点┃在线","type":3,"api":"csp_XBPQ","ext":"./XBPQ/两个bt.json"},
 
@@ -69,6 +69,9 @@
 {"key":"一龙","name":"酷点┃自建","type":3,"api":"csp_XBPQ","ext":"./XBPQ/一龙.json"},
 
 {"key":"速映","name":"速映┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/速映.json"},
+
+{"key":"玩偶","name":"酷点┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
+"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt+4k|4kz|qhd|fhd|hd|auto$$$https://wogg.xyz/","jar":"./jar/pg.jar"},
 
 {"key":"七夜","name":"七夜┃云盘","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt+4k|fhd|auto"}
 
