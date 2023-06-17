@@ -20,7 +20,7 @@
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],   
 
-//提示
+
 "warningText":"小盒酷玩提醒：接口免费，切勿付费",
 
 "sites":[
@@ -71,7 +71,7 @@
 {"key":"速映","name":"速映┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/速映.json"},
 
 {"key":"玩偶","name":"酷点┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
-"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt+4k|4kz|qhd|fhd|hd|auto$$$https://wogg.xyz/","jar":"./jar/pg.jar"},
+"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt+4k|4kz|qhd|fhd|hd|auto$$$https://wogg.xyz/","jar":"./jar/pg.jar"},
 
 {"key":"七夜","name":"七夜┃云盘","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt+4k|fhd|auto"}
 
@@ -85,6 +85,10 @@
 {"name":"VIP","type":0,"url":"https://kankanju.cc/f/jxplayer.php?v="},
 
 {"name":"VIP1","type":0,"url":"https://play.8c4.cn/play/?url="},
+
+{"name":"VIP2","type":1,"url":"http://xhww.fun:63/神秘的哥哥们.php?url=","User-Agent":"okhttp/3.12.0"},
+
+{"name":"VIP3","type":1,"url":"http://json.juka.pro/api.php?key=json123&url="},
 
 {"name":"解析1","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
