@@ -43,8 +43,6 @@
 
 {"key":"电影港","name":"酷点┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
 
-{"key":"多线","name":"酷点┃多线","type":3,"api":"csp_DuoX","jar":"./jar/pg.jar"},
-
 {"key":"来看","name":"酷点┃点播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/来看点播.json"},
 
 {"key":"2bt","name":"酷点┃在线","type":3,"api":"csp_XBPQ","ext":"./XBPQ/两个bt.json"},
