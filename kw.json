@@ -1,30 +1,24 @@
 {
 "sites": [
 
-{"key":"轻简","name":"酷玩┃TV","type":1,"api":"http://1.ahailove.cn:23456/api.php/provide/vod/",
+{"key":"王者","name":"酷玩┃TV","type":3,"api":"csp_XBPQ","ext":"./XBPQ/王者.json"},  
+
+{"key":"来看","name":"酷玩┃点播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/来看点播.json"},
+
+{"key":"轻简","name":"酷玩┃4K","type":1,"api":"http://1.ahailove.cn:23456/api.php/provide/vod/",
 "playerType":"1","playUrl":"https://play.8c4.cn/play/?url=","categories": ["电影","连续剧","综艺","动漫","综艺"]},
 
 {"key":"爱迪","name":"酷玩┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/"},
 
 {"key": "PPY","name": "酷玩┃追剧","type": 1,"api": "http://1.ahailove.cn:23450/api.php/provide/vod","playUrl": "https://www.kankanju.cc/f/jxplayer.php?v=","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 
-{"key":"王者","name":"酷玩┃HD","type":3,"api":"csp_XBPQ","ext":"./XBPQ/王者.json"},
-
 {"key":"多米","name":"酷玩┃蓝光","type":3,"api":"csp_AppYsV2","ext":"http://v.dmdh.top/api.php/app/"},
 
-{"key":"电影港","name":"酷玩┃磁力","type":3,"api":"csp_XYQHiker","ext":"./XYQH/电影港.json","jar":"./jar/xyq.jar"},
-
-{"key":"来看","name":"酷玩┃点播","type":3,"api":"csp_XBPQ","ext":"./XBPQ/来看点播.json"},
-
 {"key":"2bt","name":"酷玩┃在线","type":3,"api":"csp_XBPQ","ext":"./XBPQ/两个bt.json"},
-
-{"key":"搜狗","name":"酷玩┃官解","type":3,"api":"./lib/drpy2.min.js","ext":"./js/sougou.js"},
 
 {"key":"新视觉","name":"视觉┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/新视觉.json"},
 
 {"key":"圣城","name":"圣城┃影视","type":3,"api":"csp_XBPQ","ext":"./XBPQ/圣城.json"},
-
-{"key":"飞云","name":"飞云┃4K","type":3,"api":"csp_AppYsV2","ext":"http://www.lfytyl.com/api.php/app/"},
 
 {"key":"城市电影","name":"城市┃电影","type":3,"api":"csp_XBPQ","ext":"./XBPQ/城市电影.json"},
 
