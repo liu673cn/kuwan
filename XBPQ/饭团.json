@@ -2,7 +2,7 @@
   "站名": "饭团影视",
   "主页url": "https://www.fantuanhd.com/",
   "数组": "class=\"stui-vodlist__box&&</li>",
-  "线路数组": "[排序:自营蓝光>>自营极速][不包含:自营极速]",
+  "线路数组": "[排序:飞云资源>自营蓝光>自营极速]",
   "图片": "data-original=\"&&\"",
   "标题": "title=\"&&\"",
   "链接": "href=\"&&\"",
@@ -23,4 +23,5 @@
   "分类": "电影$20#电视剧$21#综艺$22#动漫$23#记录片$24#动画片$25",
   "分类url": "https://www.fantuanhd.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"
 }
+
 
