@@ -57,7 +57,8 @@
 
 {"key":"城市电影","name":"城市┃电影","type":3,"api":"csp_XBPQ","ext":"./XBPQ/城市电影.json"},
 
-{"key":"饭后","name":"酷点┃官采","type":1,"playerType":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list","playUrl":"json:https://vip.mosangkeji.com/api/?key=PLvqEH5S4OsBrVdzv6&url=","categories": ["国产剧","港台剧","欧美剧","日韩剧","动漫"]},
+{"key":"饭后","name":"酷点┃官采","type":1,"playerType":1,"api":"http://zycj.jiexi.plus/api.php/provide/vod/?ac=list",
+"playUrl":"json:http://110.42.2.247:880/analysis/json/?uid=2373&my=fgimDLMOQTUWYZ0568&url=","categories": ["国产剧","港台剧","欧美剧","日韩剧"]},
 
 {"key":"子子","name":"酷玩┃高速","type":3,"api":"csp_XBPQ","playerType":"1","ext":"./XBPQ/子子.json"},
 
