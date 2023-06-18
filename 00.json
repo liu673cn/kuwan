@@ -28,7 +28,7 @@
 {"key":"豆瓣","name":"农民影视","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"ext":"./js/douban.js"},
 
 {"key":"轻简","name":"酷点┃4K","type":1,"api":"http://1.ahailove.cn:23456/api.php/provide/vod/",
-"playerType":"1","playUrl":"https://play.8c4.cn/play/?url=","categories": ["电影","连续剧","综艺","动漫","综艺"]},
+"playerType":"1","playUrl":"https://www.kankanju.cc/f/jxplayer.php?v=","categories": ["电影","连续剧","综艺","动漫","综艺"]},
 
 {"key":"玩偶1","name":"玩偶┃云盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,
 "ext":"https://jihulab.com/blank7355005/box/-/raw/main/tvbox/tok.txt+4k|fhd|auto $$$https://wogg.xyz/"},
